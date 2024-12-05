@@ -1,9 +1,172 @@
 {
+  "securitycraft:recipes/securitycraft/stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smoker_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-12-05 01:55:30 +0000"
+      "minecraft:forest": "2024-12-05 01:55:30 +0000",
+      "minecraft:wooded_hills": "2024-12-05 02:06:01 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2586
 }
