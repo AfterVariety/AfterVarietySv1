@@ -8608,3 +8608,155 @@ java.lang.NullPointerException: null
 [07Dec2024 22:00:36.777] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,11]
 [07Dec2024 22:00:56.037] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Disconnected
 [07Dec2024 22:00:56.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[07Dec2024 22:03:14.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Dec2024 22:03:14.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Dec2024 22:04:25.794] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[07Dec2024 22:04:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 22:04:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 22:04:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 22:04:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 22:04:25.812] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@5e548d5f
+java.io.FileNotFoundException: ./world/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:25.813] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data com.mrcrayfish.goblintraders.world.spawner.GoblinTraderData@6caf4808
+java.io.FileNotFoundException: ./world/data/goblintraders_goblin_trader.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:25.815] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@3622608d
+java.io.FileNotFoundException: ./world/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.055] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 22:04:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 22:04:26.055] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@50d3898b
+java.io.FileNotFoundException: ./world/DIM-1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.058] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@3582da16
+java.io.FileNotFoundException: ./world/DIM-1/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.060] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 22:04:26.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 22:04:26.061] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@7f2bb167
+java.io.FileNotFoundException: ./world/DIM1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.061] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@67ada7b3
+java.io.FileNotFoundException: ./world/DIM1/data/raids_end.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.065] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 22:04:26.066] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Dec2024 22:04:26.074] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Dec2024 22:04:26.074] [Server thread/ERROR] [net.minecraft.world.storage.SaveFormat/]: Failed to save level ./world
+java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.world.storage.SaveFormat$LevelSave.func_237288_a_(SaveFormat.java:348) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:540) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:568) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[07Dec2024 22:04:26.079] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 22:04:26.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 22:04:26.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 22:04:26.090] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making parent of serverconfig directory : ./world
+[07Dec2024 22:04:26.090] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created parent of serverconfig directory : ./world
+[07Dec2024 22:04:26.090] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making serverconfig directory : ./world/serverconfig
+[07Dec2024 22:04:26.090] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created serverconfig directory : ./world/serverconfig
+[07Dec2024 22:04:26.090] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
