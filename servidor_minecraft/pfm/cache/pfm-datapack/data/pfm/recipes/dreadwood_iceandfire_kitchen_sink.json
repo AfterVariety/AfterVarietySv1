@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:dreadwood_iceandfire_kitchen_sink"
+  }
+}

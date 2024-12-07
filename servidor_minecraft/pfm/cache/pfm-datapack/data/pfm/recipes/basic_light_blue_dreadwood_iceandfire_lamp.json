@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_blue",
+        "variant": "iceandfire:dreadwood"
+      }
+    }
+  }
+}

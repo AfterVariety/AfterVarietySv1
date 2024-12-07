@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_log"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dreadwood_iceandfire_classic_nightstand",
+    "count": 4
+  }
+}

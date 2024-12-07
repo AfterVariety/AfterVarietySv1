@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    },
+    {
+      "item": "iceandfire:dreadwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:dreadwood_iceandfire_kitchen_wall_counter",
+    "count": 6
+  }
+}

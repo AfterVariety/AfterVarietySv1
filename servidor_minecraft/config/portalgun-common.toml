@@ -1,0 +1,10 @@
+
+["Rick's Portal Gun mod config"]
+	#Maximum distance for randomizer. Default = 10000
+	randomizer_max = 10000
+	#Disable locating players
+	disable_locating = false
+	#List of Dimension IDs the portal gun can't travel to, everything else is allowed
+	#Separate every entry except the last one with commas
+	blacklisted_dimensions = []
+

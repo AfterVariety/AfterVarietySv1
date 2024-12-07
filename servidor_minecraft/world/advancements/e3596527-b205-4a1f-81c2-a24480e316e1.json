@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/emerald_mine": {
     "criteria": {
       "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -17,15 +29,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "pfm:recipes/pfm.furniture/pink_arm_chair": {
     "criteria": {
-      "has_logs": "2024-12-05 02:06:03 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/dirt_mine": {
+  "pfm:recipes/pfm.furniture/gray_simple_sofa": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-07 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/magenta_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -41,9 +83,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/lapis_mine": {
+  "pfm:recipes/pfm.furniture/white_arm_chair": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/brown_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -53,9 +119,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/iron_mine": {
+  "pfm:recipes/pfm.furniture/magenta_simple_sofa": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/red_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -66,9 +144,271 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-07 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/black_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/orange_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/red_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/purple_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 02:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-07 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/orange_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/green_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/black_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sand_mine": {
     "criteria": {
       "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-07 21:53:38 +0000",
+      "village_savanna": "2024-12-07 21:53:38 +0000",
+      "village_snowy": "2024-12-07 21:53:38 +0000",
+      "village_desert": "2024-12-07 21:53:38 +0000",
+      "village_plains": "2024-12-07 21:53:38 +0000"
     },
     "done": true
   },
@@ -84,15 +424,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "pfm:recipes/pfm.furniture/lime_arm_chair": {
     "criteria": {
-      "has_log": "2024-12-05 02:06:03 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+  "pfm:recipes/pfm.furniture/gray_arm_chair": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -114,21 +454,39 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cyan_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/arm_chair_leather": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-05 02:06:03 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/furnace_mine": {
+  "mca:recipes/misc/blueprint": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_item": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/quartz_mine": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_item": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/yellow_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -138,9 +496,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sc_manual": {
+  "pfm:recipes/pfm.furniture/cyan_arm_chair": {
     "criteria": {
-      "has_wood": "2024-12-05 02:06:03 +0000"
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
@@ -150,21 +508,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/wire_cutters": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/gravel_mine": {
-    "criteria": {
-      "has_mine": "2024-12-05 02:05:58 +0000"
+      "has_upgrade_base": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/end_stone_mine": {
     "criteria": {
       "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/white_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-07 21:53:37 +0000"
     },
     "done": true
   },
