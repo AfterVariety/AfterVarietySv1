@@ -72,12 +72,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-05 02:06:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/gold_mine": {
     "criteria": {
       "has_mine": "2024-12-05 02:05:58 +0000"
@@ -87,6 +81,12 @@
   "securitycraft:recipes/securitycraft/blast_furnace_mine": {
     "criteria": {
       "has_mine": "2024-12-05 02:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 02:06:03 +0000"
     },
     "done": true
   },
