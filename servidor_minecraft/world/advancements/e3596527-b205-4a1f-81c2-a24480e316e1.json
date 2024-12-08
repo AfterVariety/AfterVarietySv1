@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/acacia_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_table_classic": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:03 +0000"
@@ -881,6 +887,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 03:52:41 +0000"
@@ -1145,6 +1157,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/jungle_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-08 00:34:22 +0000"
@@ -1280,6 +1298,12 @@
   "pfm:recipes/pfm.furniture/spruce_table_log": {
     "criteria": {
       "has_log": "2024-12-08 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/spruce_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },
@@ -2207,6 +2231,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/warped_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
@@ -2411,6 +2441,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-08 03:31:48 +0000"
@@ -2564,6 +2600,12 @@
   "pfm:recipes/pfm.furniture/crimson_purple_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:35:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },
@@ -2723,6 +2765,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_oak_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:49 +0000"
@@ -2831,6 +2879,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/jungle_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
@@ -2900,6 +2954,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/acacia_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },
@@ -3541,6 +3601,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_chair_modern": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
@@ -3718,6 +3784,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },
@@ -4180,6 +4252,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_oak_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/andesite_table_classic": {
     "criteria": {
       "andesite_table_classic": "2024-12-08 04:05:32 +0000"
@@ -4503,6 +4581,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
@@ -4566,6 +4650,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-08 01:40:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/warped_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },
@@ -5025,6 +5115,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_pink_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 05:02:19 +0000"
@@ -5145,6 +5241,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_magenta_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-08 02:31:14 +0000"
@@ -5196,6 +5298,12 @@
   "pfm:recipes/pfm.furniture/acacia_pink_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_magenta_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:49:36 +0000"
     },
     "done": true
   },

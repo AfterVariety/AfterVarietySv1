@@ -4500,3 +4500,47 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [08Dec2024 05:49:42.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzz
 [08Dec2024 05:49:50.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 05:52:02.271] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi lost connection: Disconnected
+[08Dec2024 05:52:02.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi left the game
+[08Dec2024 05:56:06.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Friendship Found]
+[08Dec2024 05:56:16.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 05:58:31.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 06:00:27.672] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at com.unlikepaladin.pfm.blocks.AbstractSittableBlock.func_225533_a_(AbstractSittableBlock.java:88) ~[pfm:?]
+	at com.unlikepaladin.pfm.blocks.BasicToiletBlock.func_225533_a_(BasicToiletBlock.java:110) ~[pfm:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.func_227031_a_(AbstractBlock.java:640) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:338) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Dec2024 06:00:53.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzzzzzzzz
+[08Dec2024 06:00:54.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzz
+[08Dec2024 06:00:54.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:54.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zz
+[08Dec2024 06:00:55.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:55.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:56.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzz
+[08Dec2024 06:00:56.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzz
+[08Dec2024 06:00:57.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:57.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:57.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:00:57.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 06:00:57.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
+[08Dec2024 06:01:16.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 06:01:45.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
