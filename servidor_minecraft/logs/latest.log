@@ -3541,3 +3541,98 @@ java.lang.NullPointerException: null
 [08Dec2024 03:35:46.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
 [08Dec2024 03:36:19.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Spectator Mode]
 [08Dec2024 03:36:39.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 03:38:15.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 3 [Cooked Salmon] to ImFadeel]
+[08Dec2024 03:38:24.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Spectator Mode]
+[08Dec2024 03:38:41.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 03:38:44.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Chest Slayer]
+[08Dec2024 03:39:26.551] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[08Dec2024 03:39:30.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e0cfb3d
+[08Dec2024 03:39:30.399] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:59869] logged in with entity id 101003 at (-1371.9357418475163, 67.0, -1110.9586851811623)
+[08Dec2024 03:39:30.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[08Dec2024 03:40:03.844] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1984, y=84, z=-1000} BlockPos{x=-1984, y=85, z=-1000}
+[08Dec2024 03:40:03.897] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1984, y=84, z=-1000} BlockPos{x=-1984, y=85, z=-1000}
+[08Dec2024 03:40:03.948] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1984, y=84, z=-1000} BlockPos{x=-1984, y=85, z=-1000}
+[08Dec2024 03:40:17.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 03:40:33.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 03:40:48.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Pink Bed] to Conni7w7]
+[08Dec2024 03:42:44.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[08Dec2024 03:43:16.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Would you Like to Know More?]
+[08Dec2024 03:44:17.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 03:45:12.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Spectator Mode]
+[08Dec2024 03:45:17.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 03:46:20.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[08Dec2024 03:46:27.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 fell from a high place
+[08Dec2024 03:46:56.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Chocobo Feather] to AfterVariety]
+[08Dec2024 03:47:02.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Chocobo Feather] to AfterVariety]
+[08Dec2024 03:47:03.774] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved wrongly! 0.32968014393134126
+[08Dec2024 03:47:03.802] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved wrongly! 0.536081137044107
+[08Dec2024 03:47:03.850] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved wrongly! 0.7595706587859468
+[08Dec2024 03:47:46.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[08Dec2024 03:48:23.450] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Immanuels'/101858, l='ServerLevel[world]', x=-2197.00, y=65.54, z=-1209.53] died, message: 'Immanuels was slain by Zombie'
+[08Dec2024 03:48:41.167] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Raitis'/101854, l='ServerLevel[world]', x=-2183.14, y=66.00, z=-1205.30] died, message: 'Raitis was slain by Immanuels'
+[08Dec2024 03:48:58.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Saddle] to AfterVariety]
+[08Dec2024 03:49:13.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Chocobo Saddle] to AfterVariety]
+[08Dec2024 03:49:26.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Sea? Not a Problem]
+[08Dec2024 03:51:23.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 03:51:38.232] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Antoņina', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[08Dec2024 03:51:58.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
+[08Dec2024 03:51:59.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi moved wrongly!
+[08Dec2024 03:52:04.521] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Antoņina'/101860, l='ServerLevel[world]', x=-2199.97, y=66.00, z=-1208.48] died, message: 'Antoņina was slain by Immanuels'
+[08Dec2024 03:52:38.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [My Name is Nobody]
+[08Dec2024 03:52:49.528] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.061882790961818,0.0,-0.04665400951671472
+[08Dec2024 03:52:49.530] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.44060331728906,0.0,-0.14095583415110013
+[08Dec2024 03:52:49.532] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.816829358901487,0.0,-0.24449367255056131
+[08Dec2024 03:52:49.534] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -11.190521717661795,0.0,-0.35688102616086326
+[08Dec2024 03:52:49.535] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -11.56166531004601,0.0,-0.47771553039365244
+[08Dec2024 03:52:49.537] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -11.930268886547765,0.0,-0.6065816029386042
+[08Dec2024 03:52:49.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -12.296360606816961,0.0,-0.7430593502263036
+[08Dec2024 03:52:49.540] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -12.659985569752052,0.0,-0.88672906471038
+[08Dec2024 03:52:49.541] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -13.02120125482702,0.0,-1.0371783942109687
+[08Dec2024 03:52:49.542] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -13.380077189278381,0.0,-1.1940021279187931
+[08Dec2024 03:52:49.543] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -13.736688304405789,0.0,-1.3568116280875984
+[08Dec2024 03:52:49.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -14.091495894693708,0.0,-1.5246395458534607
+[08Dec2024 03:52:49.546] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -14.445247633403369,0.0,-1.6960543782420245
+[08Dec2024 03:52:49.546] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -14.79887388871498,0.0,-1.8692343035895647
+[08Dec2024 03:52:49.547] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -15.153076071027044,0.0,-2.0426581112819804
+[08Dec2024 03:52:49.548] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi moved too quickly! 2.7796975419209957,4.016794094404375,-9.016843725131821
+[08Dec2024 03:52:49.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -15.508373381773254,0.0,-2.215068302875352
+[08Dec2024 03:52:49.551] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -15.865138550638449,0.0,-2.3854420004768144
+[08Dec2024 03:52:49.552] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -16.22362909753201,0.0,-2.552959209884193
+[08Dec2024 03:52:49.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[08Dec2024 03:52:49.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -9.481673314711543,0.0,-3.7773973517519153
+[08Dec2024 03:52:49.617] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -9.857452563142715,0.0,-3.904195327938396
+[08Dec2024 03:52:49.618] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.234848960853242,0.0,-4.02629757359
+[08Dec2024 03:52:49.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.613768224356136,0.0,-4.143835168958049
+[08Dec2024 03:52:49.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -10.99411696015045,0.0,-4.256955677175938
+[08Dec2024 03:52:49.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -11.375802605524086,0.0,-4.36582542801807
+[08Dec2024 03:52:49.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! -11.758734708931797,0.0,-4.4706240048831205
+[08Dec2024 03:52:50.234] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.235] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.235] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.235] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.235] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.237] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.237] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.237] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.237] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:52:50.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ImFadeel) moved too quickly! 14.893580448994726,0.0,5.242697152830715
+[08Dec2024 03:53:41.225] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ilona'/101856, l='ServerLevel[world]', x=-2195.76, y=65.25, z=-1210.41] died, message: 'Ilona was slain by Antoņina'
+[08Dec2024 03:55:20.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[08Dec2024 03:55:23.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[08Dec2024 03:55:24.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzz\
+[08Dec2024 03:55:35.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> ./difficulty peaciful
+[08Dec2024 03:56:05.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 03:56:16.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> Z⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹
+[08Dec2024 03:56:27.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> 1⁹⁹⁹
+[08Dec2024 03:56:37.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
+[08Dec2024 03:56:54.795] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2452, y=33, z=-1441} but found not block entity block Block{minecraft:stone} at location
+[08Dec2024 03:56:54.795] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2452, y=33, z=-1441}
+[08Dec2024 03:57:37.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Removed every effect from AfterVariety]
