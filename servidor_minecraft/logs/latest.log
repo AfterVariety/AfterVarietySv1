@@ -3222,3 +3222,34 @@ java.lang.NullPointerException: null
 [08Dec2024 01:32:20.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
 [08Dec2024 01:32:24.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was turned to stone by Gorgon
 [08Dec2024 01:32:58.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was turned to stone by Gorgon
+[08Dec2024 01:33:48.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Suit Up]
+[08Dec2024 01:34:16.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was turned to stone by Gorgon
+[08Dec2024 01:34:19.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported AfterVariety to Colicchi]
+[08Dec2024 01:34:29.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Acquire Hardware]
+[08Dec2024 01:34:48.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Clash of the Titans]
+[08Dec2024 01:35:15.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> [name:"Casa", x:-1401, y:67, z:-1082, dim:minecraft:overworld]
+[08Dec2024 01:35:52.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Acquire Hardware]
+[08Dec2024 01:36:10.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 01:37:19.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 01:37:26.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Sea Serpent
+[08Dec2024 01:40:06.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Not Today, Thank You]
+[08Dec2024 01:40:47.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Suit Up]
+[08Dec2024 01:40:47.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Ice Bucket Challenge]
+[08Dec2024 01:40:59.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Ice Bucket Challenge]
+[08Dec2024 01:42:15.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Not Today, Thank You]
+[08Dec2024 01:43:12.435] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1333, y=25, z=-1794} but found not block entity block Block{minecraft:stone} at location
+[08Dec2024 01:43:12.436] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1333, y=25, z=-1794}
+[08Dec2024 01:43:16.384] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1360, y=22, z=-1809} but found not block entity block Block{minecraft:granite} at location
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-1360, y=22, z=-1809}
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1362, y=22, z=-1810} but found not block entity block Block{minecraft:granite} at location
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-1362, y=22, z=-1810}
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1372, y=25, z=-1821} but found not block entity block Block{minecraft:stone} at location
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1372, y=25, z=-1821}
+[08Dec2024 01:43:16.385] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1373, y=22, z=-1813} but found not block entity block Block{minecraft:andesite} at location
+[08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-1373, y=22, z=-1813}
+[08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1371, y=22, z=-1815} but found not block entity block Block{minecraft:stone} at location
+[08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1371, y=22, z=-1815}
+[08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1362, y=24, z=-1822} but found not block entity block Block{minecraft:stone} at location
+[08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1362, y=24, z=-1822}
+[08Dec2024 01:43:35.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[08Dec2024 01:43:35.584] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved too quickly! -4.664155772964932,-1.044812420399012,-9.027809850699214
