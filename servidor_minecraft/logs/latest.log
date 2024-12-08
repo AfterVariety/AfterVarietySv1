@@ -4382,3 +4382,22 @@ java.lang.NullPointerException: null
 [08Dec2024 05:24:41.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
 [08Dec2024 05:25:12.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
 [08Dec2024 05:26:39.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 05:31:31.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Diamonds!]
+[08Dec2024 05:31:53.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Not Today, Thank You]
+[08Dec2024 05:36:39.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Spectator Mode]
+[08Dec2024 05:37:22.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 05:38:12.816] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi lost connection: Disconnected
+[08Dec2024 05:38:12.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi left the game
+[08Dec2024 05:38:18.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 05:38:41.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[08Dec2024 05:38:48.788] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Disconnected
+[08Dec2024 05:38:48.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[08Dec2024 05:38:52.907] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player AfterVariety is e3596527-b205-4a1f-81c2-a24480e316e1
+[08Dec2024 05:38:54.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@614fa852
+[08Dec2024 05:38:54.612] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AfterVariety[/127.58.4.229:39499] logged in with entity id 152831 at (-2390.873928369881, 66.0, -1431.0327917520713)
+[08Dec2024 05:38:54.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety joined the game
+[08Dec2024 05:39:04.542] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Colicchi is e24ce360-8588-4c3d-bed1-eef2cb1571ef
+[08Dec2024 05:39:33.848] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6118c834[id=e24ce360-8588-4c3d-bed1-eef2cb1571ef,name=Colicchi,properties={textures=[com.mojang.authlib.properties.Property@72f6cf41]},legacy=false] (/127.151.37.241:55915): Took too long to log in
+[08Dec2024 05:39:33.896] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6118c834[id=e24ce360-8588-4c3d-bed1-eef2cb1571ef,name=Colicchi,properties={textures=[com.mojang.authlib.properties.Property@72f6cf41]},legacy=false] (/127.151.37.241:55915) lost connection: Took too long to log in
+[08Dec2024 05:40:13.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [All Along The Watchtower]
+[08Dec2024 05:41:12.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]

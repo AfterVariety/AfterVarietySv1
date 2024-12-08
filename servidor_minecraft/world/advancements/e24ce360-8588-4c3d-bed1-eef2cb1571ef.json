@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-08 01:10:29 +0000"
@@ -758,6 +764,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-08 01:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
     },
     "done": true
   },
@@ -1776,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "sushigocrafting:recipes/sushigocrafting/dried_seaweed": {
     "criteria": {
       "has_seaweed": "2024-12-08 01:22:35 +0000"
@@ -2196,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2024-12-08 00:56:17 +0000"
@@ -2235,6 +2259,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-08 01:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
     },
     "done": true
   },
@@ -2330,6 +2360,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-08 05:29:29 +0000",
       "beef": "2024-12-08 04:02:50 +0000",
       "baked_potato": "2024-12-08 03:55:46 +0000",
       "porkchop": "2024-12-08 01:15:33 +0000",
@@ -2582,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:51:12 +0000"
@@ -2822,6 +2859,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-08 05:01:02 +0000"
@@ -2870,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-08 05:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-08 01:46:38 +0000"
@@ -2885,6 +2940,12 @@
   "chococraft:recipes/chococraft/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2024-12-08 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
     },
     "done": true
   },
@@ -3071,6 +3132,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
     },
     "done": true
   },
@@ -3803,6 +3870,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_modern": {
     "criteria": {
       "has_planks": "2024-12-08 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:31:31 +0000"
     },
     "done": true
   },

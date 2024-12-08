@@ -3970,6 +3970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-08 05:33:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_pink_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 05:02:19 +0000"
