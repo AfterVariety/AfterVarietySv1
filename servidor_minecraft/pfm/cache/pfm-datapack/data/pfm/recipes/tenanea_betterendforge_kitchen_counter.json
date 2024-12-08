@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_log"
+    },
+    {
+      "item": "betterendforge:tenanea_log"
+    },
+    {
+      "item": "betterendforge:tenanea_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:tenanea_betterendforge_kitchen_counter",
+    "count": 6
+  }
+}

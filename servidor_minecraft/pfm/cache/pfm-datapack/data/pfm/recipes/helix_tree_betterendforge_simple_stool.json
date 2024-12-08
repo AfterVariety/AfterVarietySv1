@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:helix_tree_betterendforge_simple_stool",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_fence"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_yellow_classic_bed"
+  }
+}

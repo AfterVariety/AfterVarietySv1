@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "betterendforge:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_gray",
+        "variant": "betterendforge:end_lotus"
+      }
+    }
+  }
+}

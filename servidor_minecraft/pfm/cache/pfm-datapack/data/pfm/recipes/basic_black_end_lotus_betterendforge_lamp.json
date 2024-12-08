@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "betterendforge:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "black",
+        "variant": "betterendforge:end_lotus"
+      }
+    }
+  }
+}

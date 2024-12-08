@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterendforge_classic_nightstand",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "minecraft:green_bed"
+    },
+    {
+      "item": "betterendforge:lucernia_fence"
+    },
+    {
+      "item": "betterendforge:lucernia_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:lucernia_betterendforge_green_classic_bed"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterendforge_classic_stool",
+    "count": 4
+  }
+}

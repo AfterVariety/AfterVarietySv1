@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_stripped_log"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_stripped_log"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mossy_glowshroom_betterendforge_table_dinner",
+    "count": 4
+  }
+}

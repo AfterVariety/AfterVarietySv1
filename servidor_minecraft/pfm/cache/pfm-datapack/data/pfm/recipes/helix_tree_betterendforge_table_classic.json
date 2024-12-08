@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:helix_tree_betterendforge_table_classic",
+    "count": 4
+  }
+}

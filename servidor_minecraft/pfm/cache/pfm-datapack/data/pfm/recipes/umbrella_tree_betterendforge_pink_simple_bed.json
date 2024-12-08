@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_pink_simple_bed"
+  }
+}

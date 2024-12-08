@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_dragon_tree_betterendforge_classic_nightstand",
+    "count": 4
+  }
+}

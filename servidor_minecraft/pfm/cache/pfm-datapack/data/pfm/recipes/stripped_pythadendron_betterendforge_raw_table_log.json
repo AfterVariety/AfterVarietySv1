@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_pythadendron_betterendforge_raw_table_log",
+    "count": 4
+  }
+}

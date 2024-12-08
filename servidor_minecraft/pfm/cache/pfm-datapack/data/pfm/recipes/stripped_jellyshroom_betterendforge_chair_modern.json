@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_jellyshroom_betterendforge_chair_modern",
+    "count": 4
+  }
+}

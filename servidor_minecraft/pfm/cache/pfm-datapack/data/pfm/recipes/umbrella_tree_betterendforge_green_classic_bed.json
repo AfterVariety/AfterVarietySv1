@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:green_bed"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_fence"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_green_classic_bed"
+  }
+}

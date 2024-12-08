@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:dragon_tree_betterendforge_lime_simple_bed"
+  }
+}

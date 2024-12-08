@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_pythadendron_betterendforge_table_basic",
+    "count": 4
+  }
+}

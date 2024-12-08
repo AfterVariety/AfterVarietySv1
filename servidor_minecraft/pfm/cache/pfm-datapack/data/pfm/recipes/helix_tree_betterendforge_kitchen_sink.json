@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:helix_tree_betterendforge_kitchen_sink"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:mossy_glowshroom_betterendforge_kitchen_counter",
+    "count": 6
+  }
+}

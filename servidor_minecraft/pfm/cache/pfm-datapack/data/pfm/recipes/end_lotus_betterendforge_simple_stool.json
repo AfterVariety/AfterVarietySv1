@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:end_lotus_betterendforge_simple_stool",
+    "count": 4
+  }
+}

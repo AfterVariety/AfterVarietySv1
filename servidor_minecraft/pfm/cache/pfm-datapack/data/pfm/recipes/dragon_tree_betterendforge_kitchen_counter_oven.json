@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_log"
+    },
+    {
+      "item": "betterendforge:dragon_tree_log"
+    },
+    {
+      "item": "betterendforge:dragon_tree_log"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:dragon_tree_betterendforge_kitchen_counter_oven"
+  }
+}

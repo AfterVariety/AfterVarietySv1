@@ -178,3 +178,4 @@
 2024-12-08 19:25:13,105 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension boss_tools:mercury_orbit
 2024-12-08 19:25:13,110 [Server thread] INFO Treasure2 | WorldEventHandler.java:58 | In world load event
 2024-12-08 19:25:13,111 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension boss_tools:mars
+2024-12-08 19:42:08,609 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_kitchen_drawer"
+  }
+}

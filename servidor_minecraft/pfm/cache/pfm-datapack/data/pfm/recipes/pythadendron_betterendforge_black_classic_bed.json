@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    },
+    {
+      "item": "betterendforge:pythadendron_fence"
+    },
+    {
+      "item": "betterendforge:pythadendron_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:pythadendron_betterendforge_black_classic_bed"
+  }
+}

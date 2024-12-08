@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterendforge_kitchen_wall_counter",
+    "count": 6
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:helix_tree_betterendforge_classic_nightstand",
+    "count": 4
+  }
+}

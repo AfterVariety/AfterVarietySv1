@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_chair_classic",
+    "count": 4
+  }
+}

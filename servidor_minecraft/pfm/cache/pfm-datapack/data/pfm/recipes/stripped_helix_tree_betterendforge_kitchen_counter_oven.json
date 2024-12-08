@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "betterendforge:helix_tree_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_helix_tree_betterendforge_kitchen_counter_oven"
+  }
+}

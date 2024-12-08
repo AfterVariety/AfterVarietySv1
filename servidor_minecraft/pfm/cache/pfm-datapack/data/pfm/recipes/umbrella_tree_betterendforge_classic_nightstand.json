@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    },
+    {
+      "item": "betterendforge:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_classic_nightstand",
+    "count": 4
+  }
+}

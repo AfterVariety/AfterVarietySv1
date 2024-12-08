@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "pfm:jellyshroom_betterendforge_blue_classic_bed",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:jellyshroom_betterendforge_blue_classic_bed"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

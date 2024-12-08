@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_log"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    },
+    {
+      "item": "betterendforge:end_lotus_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:end_lotus_betterendforge_table_classic",
+    "count": 4
+  }
+}

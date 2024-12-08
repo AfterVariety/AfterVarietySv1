@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterendforge_log_stool",
+    "count": 4
+  }
+}

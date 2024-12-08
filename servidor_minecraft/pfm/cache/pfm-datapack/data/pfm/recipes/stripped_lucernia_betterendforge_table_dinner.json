@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_stripped_log"
+    },
+    {
+      "item": "betterendforge:lucernia_stripped_log"
+    },
+    {
+      "item": "betterendforge:lucernia_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lucernia_betterendforge_table_dinner",
+    "count": 4
+  }
+}

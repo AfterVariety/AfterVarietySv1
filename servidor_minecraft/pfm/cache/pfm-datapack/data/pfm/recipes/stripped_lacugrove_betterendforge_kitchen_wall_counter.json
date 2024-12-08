@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lacugrove_betterendforge_kitchen_wall_counter",
+    "count": 6
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lacugrove_betterendforge_kitchen_sink"
+  }
+}

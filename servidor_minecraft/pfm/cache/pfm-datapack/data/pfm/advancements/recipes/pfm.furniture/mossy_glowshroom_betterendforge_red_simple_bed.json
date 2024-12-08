@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:mossy_glowshroom_betterendforge_red_simple_bed"
+    ]
+  },
+  "criteria": {
+    "has_bed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_bed"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:mossy_glowshroom_betterendforge_red_simple_bed"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bed",
+      "has_the_recipe"
+    ]
+  ]
+}

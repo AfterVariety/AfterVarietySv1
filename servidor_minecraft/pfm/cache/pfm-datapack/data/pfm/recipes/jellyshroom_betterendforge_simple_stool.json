@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterendforge_simple_stool",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "betterendforge:jellyshroom_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "betterendforge:jellyshroom_fence"
+    },
+    {
+      "item": "betterendforge:jellyshroom_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterendforge_light_gray_classic_bed"
+  }
+}

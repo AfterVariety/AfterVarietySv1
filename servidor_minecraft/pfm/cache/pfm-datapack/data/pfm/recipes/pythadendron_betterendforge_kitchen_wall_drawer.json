@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "betterendforge:pythadendron_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:pythadendron_betterendforge_kitchen_wall_drawer"
+  }
+}

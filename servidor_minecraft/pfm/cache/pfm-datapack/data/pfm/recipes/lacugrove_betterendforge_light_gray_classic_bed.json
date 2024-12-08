@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "betterendforge:lacugrove_fence"
+    },
+    {
+      "item": "betterendforge:lacugrove_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterendforge_light_gray_classic_bed"
+  }
+}

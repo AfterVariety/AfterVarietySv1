@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "betterendforge:tenanea_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "betterendforge:tenanea_fence"
+    },
+    {
+      "item": "betterendforge:tenanea_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:tenanea_betterendforge_magenta_classic_bed"
+  }
+}

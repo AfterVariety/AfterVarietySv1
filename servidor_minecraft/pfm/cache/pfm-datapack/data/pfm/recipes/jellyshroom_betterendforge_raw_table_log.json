@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    },
+    {
+      "item": "betterendforge:jellyshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterendforge_raw_table_log",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lucernia_betterendforge_simple_stool",
+    "count": 4
+  }
+}

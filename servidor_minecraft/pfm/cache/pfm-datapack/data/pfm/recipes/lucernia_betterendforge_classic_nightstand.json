@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:lucernia_betterendforge_classic_nightstand",
+    "count": 4
+  }
+}

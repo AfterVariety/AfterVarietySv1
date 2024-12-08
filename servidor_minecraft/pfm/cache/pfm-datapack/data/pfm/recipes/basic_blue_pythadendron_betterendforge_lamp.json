@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterendforge:pythadendron_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "blue",
+        "variant": "betterendforge:pythadendron"
+      }
+    }
+  }
+}

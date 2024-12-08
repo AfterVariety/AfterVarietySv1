@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "betterendforge:dragon_tree_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "betterendforge:dragon_tree_fence"
+    },
+    {
+      "item": "betterendforge:dragon_tree_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:dragon_tree_betterendforge_white_classic_bed"
+  }
+}

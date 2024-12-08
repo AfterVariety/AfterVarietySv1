@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lacugrove_betterendforge_chair_modern",
+    "count": 4
+  }
+}

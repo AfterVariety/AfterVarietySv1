@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterendforge:umbrella_tree_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterendforge_log_stool",
+    "count": 4
+  }
+}

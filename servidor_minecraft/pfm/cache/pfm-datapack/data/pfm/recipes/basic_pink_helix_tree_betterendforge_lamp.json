@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterendforge:helix_tree_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "pink",
+        "variant": "betterendforge:helix_tree"
+      }
+    }
+  }
+}

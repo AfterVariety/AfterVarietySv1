@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    },
+    {
+      "item": "betterendforge:tenanea_stripped_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_tenanea_betterendforge_kitchen_wall_counter",
+    "count": 6
+  }
+}

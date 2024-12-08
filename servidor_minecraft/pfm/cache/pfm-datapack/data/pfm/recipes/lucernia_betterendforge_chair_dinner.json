@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_log"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    },
+    {
+      "item": "betterendforge:lucernia_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lucernia_betterendforge_chair_dinner",
+    "count": 4
+  }
+}

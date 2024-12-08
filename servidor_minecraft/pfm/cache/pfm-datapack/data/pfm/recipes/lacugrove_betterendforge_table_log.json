@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "betterendforge:lacugrove_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_log"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    },
+    {
+      "item": "betterendforge:lacugrove_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterendforge_table_log",
+    "count": 4
+  }
+}
