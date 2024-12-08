@@ -3271,3 +3271,17 @@ java.lang.NullPointerException: null
 [08Dec2024 01:52:58.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety was slain by Zombie
 [08Dec2024 01:53:18.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported AfterVariety to Colicchi]
 [08Dec2024 01:53:35.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Zombie
+[08Dec2024 01:54:48.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Diamonds!]
+[08Dec2024 01:57:21.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Created new objective [health]]
+[08Dec2024 01:57:33.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set display slot list to show objective health]
+[08Dec2024 02:00:00.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 02:00:21.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Take Aim]
+[08Dec2024 02:02:36.312] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[08Dec2024 02:02:38.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71519830
+[08Dec2024 02:02:38.772] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:43677] logged in with entity id 43949 at (79.5, 64.0, -262.5)
+[08Dec2024 02:02:38.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[08Dec2024 02:02:38.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Minecraft Comes Alive]
+[08Dec2024 02:02:38.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Ice and Fire]
+[08Dec2024 02:02:39.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
+[08Dec2024 02:03:44.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:04:14.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Chest Slayer]
