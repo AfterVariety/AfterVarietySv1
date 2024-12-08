@@ -3915,3 +3915,45 @@ java.lang.NullPointerException: null
 [08Dec2024 04:26:49.642] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1410, y=72, z=-1087} BlockPos{x=-1410, y=72, z=-1086}
 [08Dec2024 04:26:49.882] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1410, y=72, z=-1088} BlockPos{x=-1410, y=72, z=-1087}
 [08Dec2024 04:28:00.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Chocopedia] to AfterVariety]
+[08Dec2024 04:29:10.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Book] to AfterVariety]
+[08Dec2024 04:29:26.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Chocobo Feather] to AfterVariety]
+[08Dec2024 04:29:59.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzz
+[08Dec2024 04:30:07.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzz
+[08Dec2024 04:30:09.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzzzz
+[08Dec2024 04:30:11.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzzzzzzzz
+[08Dec2024 04:30:13.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzzzzzzzzzzz
+[08Dec2024 04:30:13.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:13.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:13.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:14.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:14.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:14.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:14.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:14.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zx
+[08Dec2024 04:30:14.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:15.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:15.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> z
+[08Dec2024 04:30:15.227] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Conni7w7 lost connection: Kicked for spamming
+[08Dec2024 04:30:15.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 left the game
+[08Dec2024 04:30:25.424] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[08Dec2024 04:30:27.184] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e9652
+[08Dec2024 04:30:27.191] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:52807] logged in with entity id 129610 at (-1499.5, 68.0, -1085.5)
+[08Dec2024 04:30:27.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[08Dec2024 04:30:46.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 04:30:51.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 04:32:27.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [The Parrots and the Bats]
+[08Dec2024 04:33:11.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 04:33:16.139] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1583, y=66, z=-1108} BlockPos{x=-1585, y=66, z=-1108}
+[08Dec2024 04:33:36.736] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi was kicked for floating too long!
+[08Dec2024 04:33:36.783] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi lost connection: Flying is not enabled on this server
+[08Dec2024 04:33:36.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi left the game
+[08Dec2024 04:33:39.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 04:33:41.013] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Colicchi is e24ce360-8588-4c3d-bed1-eef2cb1571ef
+[08Dec2024 04:33:43.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7ff528
+[08Dec2024 04:33:43.805] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Colicchi[/127.151.37.241:47901] logged in with entity id 130570 at (-1335.7247412685363, 63.60460587860837, -1064.6000000238419)
+[08Dec2024 04:33:43.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi joined the game
+[08Dec2024 04:34:47.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Scanner Door] to ImFadeel]
+[08Dec2024 04:35:51.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [We Need to Go Deeper]
+[08Dec2024 04:35:52.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[08Dec2024 04:36:16.631] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi lost connection: Disconnected
+[08Dec2024 04:36:16.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi left the game

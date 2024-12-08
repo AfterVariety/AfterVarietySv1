@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-08 04:34:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
@@ -1143,6 +1149,12 @@
     },
     "done": true
   },
+  "sushigocrafting:recipes/sushigocrafting/dried_seaweed": {
+    "criteria": {
+      "has_seaweed": "2024-12-08 04:29:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_log_stool": {
     "criteria": {
       "has_log": "2024-12-08 02:30:43 +0000"
@@ -1359,6 +1371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-08 04:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-08 04:25:54 +0000"
@@ -1422,6 +1440,12 @@
   "pfm:recipes/pfm.furniture/birch_table_log": {
     "criteria": {
       "has_log": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-08 04:34:08 +0000"
     },
     "done": true
   },
@@ -1501,6 +1525,7 @@
     "criteria": {
       "cooked_beef": "2024-12-08 04:23:47 +0000",
       "beef": "2024-12-08 02:41:17 +0000",
+      "bread": "2024-12-08 04:28:15 +0000",
       "rotten_flesh": "2024-12-08 04:10:24 +0000"
     },
     "done": false
@@ -1616,6 +1641,12 @@
   "pfm:recipes/pfm.furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-08 04:34:29 +0000"
     },
     "done": true
   },
@@ -2540,6 +2571,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2024-12-08 04:34:08 +0000"
     },
     "done": true
   },

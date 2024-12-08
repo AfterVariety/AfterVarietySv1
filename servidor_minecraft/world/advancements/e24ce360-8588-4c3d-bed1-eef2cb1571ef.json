@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-08 04:33:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-08 00:56:17 +0000"
@@ -1931,6 +1937,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-08 04:33:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/crimson_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:09:29 +0000"
@@ -2866,6 +2878,12 @@
   "pfm:recipes/pfm.furniture/jungle_chair_classic": {
     "criteria": {
       "has_planks": "2024-12-08 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-08 04:33:00 +0000"
     },
     "done": true
   },
