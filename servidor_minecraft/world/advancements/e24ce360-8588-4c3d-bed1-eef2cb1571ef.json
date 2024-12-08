@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-08 01:01:52 +0000"
@@ -368,6 +374,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-08 02:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
     },
     "done": true
   },
@@ -1250,6 +1262,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-08 01:07:18 +0000"
@@ -1313,6 +1331,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-08 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
     },
     "done": true
   },
@@ -1545,6 +1569,12 @@
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 01:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
     },
     "done": true
   },
@@ -2142,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-08 01:22:01 +0000"
@@ -2207,6 +2243,12 @@
       "has_smooth_stone": "2024-12-08 01:50:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-08 03:08:38 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
@@ -2397,6 +2439,12 @@
   "pfm:recipes/pfm.furniture/light_gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
     },
     "done": true
   },
@@ -2946,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-08 03:08:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-08 00:56:17 +0000"
@@ -3183,6 +3237,12 @@
   "pfm:recipes/pfm.furniture/basic_bathtub": {
     "criteria": {
       "has_quartz_block": "2024-12-08 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-08 03:08:38 +0000"
     },
     "done": true
   },

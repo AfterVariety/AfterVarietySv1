@@ -689,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 03:10:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_table_basic": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -1263,6 +1269,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-08 03:13:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_white_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
@@ -1812,6 +1824,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-08 03:14:33 +0000"
     },
     "done": true
   },
