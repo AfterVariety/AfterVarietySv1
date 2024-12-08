@@ -2209,6 +2209,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-08 04:02:50 +0000",
       "baked_potato": "2024-12-08 03:55:46 +0000",
       "porkchop": "2024-12-08 01:15:33 +0000",
       "apple": "2024-12-08 02:27:46 +0000",
@@ -2441,6 +2442,12 @@
       "minecraft:cow": "2024-12-08 03:08:38 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2024-12-08 03:58:48 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {

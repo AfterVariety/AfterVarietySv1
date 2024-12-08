@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2024-12-08 04:05:09 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_torch": "2024-12-08 01:47:22 +0000"
@@ -1133,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-08 01:27:59 +0000"
@@ -1493,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-08 02:21:36 +0000"
@@ -1592,6 +1610,12 @@
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2024-12-08 00:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
     },
     "done": true
   },
@@ -1949,6 +1973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-08 03:58:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-08 02:29:26 +0000"
@@ -2138,6 +2168,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 02:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
     },
     "done": true
   },
@@ -2404,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-08 01:32:35 +0000"
@@ -2569,6 +2611,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 01:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
     },
     "done": true
   },
@@ -3274,6 +3322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2024-12-08 04:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 02:41:44 +0000"
@@ -3346,6 +3400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-08 03:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:17 +0000"
@@ -3397,6 +3457,12 @@
   "pfm:recipes/pfm.furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-08 03:58:41 +0000"
     },
     "done": true
   },
