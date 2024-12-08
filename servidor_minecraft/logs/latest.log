@@ -3051,3 +3051,18 @@ java.lang.NullPointerException: null
 [08Dec2024 00:36:42.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind
 [08Dec2024 00:37:10.235] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2, y=64, z=-244} BlockPos{x=-2, y=62, z=-244}
 [08Dec2024 00:39:16.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Would you Like to Know More?]
+[08Dec2024 00:40:09.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Stone Age]
+[08Dec2024 00:40:36.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Getting an Upgrade]
+[08Dec2024 00:41:44.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[08Dec2024 00:42:14.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Sweet Dreams]
+[08Dec2024 00:42:18.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Sweet Dreams]
+[08Dec2024 00:42:28.475] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tatjana'/238, l='ServerLevel[world]', x=-358.49, y=65.33, z=-156.54] died, message: 'Tatjana was slain by ImFadeel'
+[08Dec2024 00:44:46.561] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-571, y=69, z=-208} BlockPos{x=-570, y=67, z=-208}
+[08Dec2024 00:46:47.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[08Dec2024 00:46:58.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> [name:"Castillo", x:-778, y:75, z:-386, dim:minecraft:overworld]
+[08Dec2024 00:47:17.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> hola
+[08Dec2024 00:47:30.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> puta
+[08Dec2024 00:47:34.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> leee todo llo que quieras
+[08Dec2024 00:47:39.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> me gusta el pene
+[08Dec2024 00:47:49.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [You Are A Pirate]
+[08Dec2024 00:48:50.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
