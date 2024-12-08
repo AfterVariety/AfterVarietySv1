@@ -2705,6 +2705,12 @@
     },
     "done": true
   },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-12-08 06:07:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-08 04:05:31 +0000"

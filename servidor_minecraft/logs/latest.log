@@ -4544,3 +4544,6 @@ java.lang.NullPointerException: null
 [08Dec2024 06:00:57.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> z
 [08Dec2024 06:01:16.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
 [08Dec2024 06:01:45.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 06:07:00.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement ['Til Death Do Us Part]
+[08Dec2024 06:10:03.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement ['Til Death Do Us Part]
+[08Dec2024 06:11:16.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Next Generation]

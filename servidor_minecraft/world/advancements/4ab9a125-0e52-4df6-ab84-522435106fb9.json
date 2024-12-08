@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/warped_white_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
@@ -859,6 +865,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-08 05:30:53 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
     },
     "done": true
   },
@@ -1841,6 +1853,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 02:44:13 +0000"
@@ -1880,6 +1898,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-08 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
     },
     "done": true
   },
@@ -2732,6 +2756,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-08 05:47:40 +0000"
@@ -3095,6 +3125,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
     },
     "done": true
   },
@@ -3623,6 +3659,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-08 05:43:53 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-08 06:04:36 +0000"
     },
     "done": true
   },
