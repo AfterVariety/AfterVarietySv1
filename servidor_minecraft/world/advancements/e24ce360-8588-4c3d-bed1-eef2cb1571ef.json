@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 02:11:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/light_wood_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-08 01:48:14 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-08 02:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 01:22:01 +0000"
@@ -338,6 +350,12 @@
   "pfm:recipes/pfm.furniture/spruce_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-08 02:11:23 +0000"
     },
     "done": true
   },
@@ -888,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 02:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 01:40:47 +0000"
@@ -1407,6 +1431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 02:03:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-08 01:48:14 +0000"
@@ -1470,6 +1500,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-08 02:11:23 +0000"
     },
     "done": true
   },
@@ -1732,6 +1768,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-08 01:48:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 02:11:23 +0000"
     },
     "done": true
   },
@@ -2029,6 +2071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 02:11:14 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
@@ -2254,6 +2302,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 01:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 02:03:52 +0000"
     },
     "done": true
   },

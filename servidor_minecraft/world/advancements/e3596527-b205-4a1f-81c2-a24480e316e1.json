@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-08 02:07:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
@@ -482,6 +488,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-12-08 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-08 02:02:26 +0000"
     },
     "done": true
   },
@@ -1105,6 +1117,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-08 02:06:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/light_wood_chair_dinner": {
     "criteria": {
       "light_wood_chair_dinner": "2024-12-08 01:48:17 +0000"
@@ -1126,6 +1144,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-08 02:05:29 +0000"
     },
     "done": true
   },
@@ -1246,6 +1270,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-08 01:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 02:02:26 +0000"
     },
     "done": true
   },
@@ -1720,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-08 02:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-08 01:54:48 +0000"
@@ -1876,6 +1912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 02:08:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-08 01:48:17 +0000"
@@ -1975,6 +2017,12 @@
   "pfm:recipes/pfm.furniture/oak_purple_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-08 02:02:26 +0000"
     },
     "done": true
   },
@@ -2258,6 +2306,7 @@
     "criteria": {
       "cooked_beef": "2024-12-08 01:59:32 +0000",
       "baked_potato": "2024-12-08 01:52:03 +0000",
+      "potato": "2024-12-08 02:02:50 +0000",
       "bread": "2024-12-08 00:41:50 +0000",
       "cooked_chicken": "2024-12-08 01:47:24 +0000"
     },
@@ -2338,6 +2387,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 02:02:26 +0000"
     },
     "done": true
   },
@@ -2464,6 +2519,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 02:10:35 +0000"
     },
     "done": true
   },
@@ -3154,6 +3215,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 01:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 02:08:28 +0000"
     },
     "done": true
   },
