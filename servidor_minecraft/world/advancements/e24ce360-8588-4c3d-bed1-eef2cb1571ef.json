@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-08 01:09:14 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-08 01:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-08 05:01:47 +0000"
     },
     "done": true
   },
@@ -539,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_table_modern_dinner": {
     "criteria": {
       "dark_wood_table_modern_dinner": "2024-12-08 01:48:14 +0000"
@@ -747,6 +765,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-08 03:57:37 +0000",
       "minecraft:skeleton": "2024-12-08 01:40:17 +0000",
+      "minecraft:magma_cube": "2024-12-08 05:01:29 +0000",
       "minecraft:spider": "2024-12-08 01:04:00 +0000",
       "minecraft:piglin_brute": "2024-12-08 03:57:43 +0000",
       "minecraft:creeper": "2024-12-08 03:43:38 +0000",
@@ -761,6 +780,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-08 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-08 05:00:19 +0000"
     },
     "done": true
   },
@@ -1209,6 +1234,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
     },
     "done": true
   },
@@ -1829,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-08 05:01:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/pfm.furniture/jungle_table_dinner": {
     "criteria": {
       "has_planks": "2024-12-08 01:42:22 +0000"
@@ -1985,6 +2022,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-08 02:11:23 +0000"
@@ -2039,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-08 05:01:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-08 04:14:22 +0000"
@@ -2090,6 +2139,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-08 04:58:48 +0000"
     },
     "done": true
   },
@@ -2150,6 +2205,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-08 01:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
     },
     "done": true
   },
@@ -2443,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 01:22:01 +0000"
@@ -2698,6 +2765,12 @@
   "fairylights:recipes/fairylights/oil_lantern": {
     "criteria": {
       "has_torch": "2024-12-08 01:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-08 05:01:02 +0000"
     },
     "done": true
   },
@@ -3031,6 +3104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-08 05:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-08 01:20:31 +0000"
@@ -3343,6 +3422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:34:29 +0000"
@@ -3514,6 +3599,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-08 01:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-08 05:02:01 +0000"
     },
     "done": true
   },

@@ -4355,3 +4355,17 @@ java.lang.NullPointerException: null
 [08Dec2024 04:57:19.489] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:50135] logged in with entity id 138180 at (-1204.2880894616435, 63.0, -1136.8232050311424)
 [08Dec2024 04:57:19.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
 [08Dec2024 04:58:02.332] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1445, y=72, z=-1286} BlockPos{x=-1445, y=72, z=-1287}
+[08Dec2024 05:00:09.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[08Dec2024 05:00:17.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Friendship Found]
+[08Dec2024 05:00:19.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Enchanter]
+[08Dec2024 05:01:02.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [We Need to Go Deeper]
+[08Dec2024 05:01:04.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[08Dec2024 05:01:27.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
+[08Dec2024 05:01:49.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6906ms or 138 ticks behind
+[08Dec2024 05:02:09.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4711ms or 94 ticks behind
+[08Dec2024 05:02:28.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[08Dec2024 05:03:37.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Dec2024 05:05:31.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has completed the challenge [Best Friends]
+[08Dec2024 05:07:32.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 05:08:21.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> [name:"Dungeon", x:-2042, y:67, z:-1468, dim:minecraft:overworld]
+[08Dec2024 05:08:27.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
