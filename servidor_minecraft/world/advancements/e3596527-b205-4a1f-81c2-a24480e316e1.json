@@ -5,51 +5,57 @@
     },
     "done": true
   },
-  "lightsaber:lightsaber/install": {
+  "survivalplus:recipes/itemaxeiron": {
     "criteria": {
-      "tick": "2024-12-08 20:15:08 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
     "criteria": {
-      "has_upgrade_base": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "pfm:grant_book_on_first_join": {
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
-      "tick": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_smoking_upgrade": "2024-12-08 20:15:07 +0000"
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+      "has_quartz": "2024-12-08 20:21:51 +0000"
     },
     "done": true
   },
-  "mca:recipes/building_blocks/rose_gold_block": {
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
     "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
+      "has_quartz": "2024-12-08 20:21:51 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
-      "WDA": "2024-12-08 20:15:08 +0000"
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/fairy_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
@@ -59,71 +65,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-08 20:15:07 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_blasting_upgrade": "2024-12-08 20:15:07 +0000"
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+  "survivalplus:recipes/itemsickleiron": {
     "criteria": {
-      "has_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_blasting": {
-    "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-12-08 20:18:22 +0000",
-      "minecraft:taiga": "2024-12-08 20:15:08 +0000",
-      "minecraft:birch_forest": "2024-12-08 20:17:43 +0000",
-      "minecraft:birch_forest_hills": "2024-12-08 20:17:44 +0000",
-      "minecraft:plains": "2024-12-08 20:16:37 +0000"
-    },
-    "done": false
-  },
-  "mca:root": {
-    "criteria": {
-      "village_taiga": "2024-12-08 20:15:08 +0000",
-      "village_savanna": "2024-12-08 20:15:08 +0000",
-      "village_snowy": "2024-12-08 20:15:08 +0000",
-      "village_desert": "2024-12-08 20:15:08 +0000",
-      "village_plains": "2024-12-08 20:15:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
@@ -139,21 +143,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
-  "survivalplus:survivalplus/install": {
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
-      "tick": "2024-12-08 20:15:08 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2024-12-08 20:15:07 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
@@ -163,9 +161,538 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_microwave": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:survivalplus/root": {
+    "criteria": {
+      "tick": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spider_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_freezer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/moon_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_fridge": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshoveliron": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/tinsel_garland": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/garland": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemhammeriron": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "lightsaber:lightsaber/install": {
+    "criteria": {
+      "tick": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-08 20:22:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemsicklegold": {
+    "criteria": {
+      "has_gold": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemhammergold": {
+    "criteria": {
+      "has_gold": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_stove": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemaxegold": {
+    "criteria": {
+      "has_gold": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/kitchen_stovetop": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-08 20:18:22 +0000",
+      "minecraft:taiga": "2024-12-08 20:15:08 +0000",
+      "minecraft:birch_forest": "2024-12-08 20:17:43 +0000",
+      "minecraft:dark_forest": "2024-12-08 20:21:26 +0000",
+      "minecraft:river": "2024-12-08 20:22:07 +0000",
+      "minecraft:birch_forest_hills": "2024-12-08 20:17:44 +0000",
+      "minecraft:wooded_hills": "2024-12-08 20:21:00 +0000",
+      "minecraft:plains": "2024-12-08 20:16:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "lightsaber:recipes/focusing_lens": {
+    "criteria": {
+      "has_quarts": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:survivalplus/install": {
+    "criteria": {
+      "tick": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/witch_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },
@@ -181,9 +708,175 @@
     },
     "done": true
   },
-  "survivalplus:survivalplus/root": {
+  "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
-      "tick": "2024-12-08 20:15:08 +0000"
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_oven_range_hood": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-08 20:15:08 +0000",
+      "village_savanna": "2024-12-08 20:15:08 +0000",
+      "village_snowy": "2024-12-08 20:15:08 +0000",
+      "village_desert": "2024-12-08 20:15:08 +0000",
+      "village_plains": "2024-12-08 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/skull_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/ghost_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/jack_o_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/paper_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshovelgold": {
+    "criteria": {
+      "has_gold": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/orb_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/meteor_light": {
+    "criteria": {
+      "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 20:21:47 +0000"
     },
     "done": true
   },

@@ -19178,3 +19178,84 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [08Dec2024 20:21:42.064] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1469, y=0, z=-1510} but found not block entity block Block{minecraft:bedrock} at location
 [08Dec2024 20:21:42.064] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1469, y=0, z=-1510}
 [08Dec2024 20:21:47.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Acquire Hardware]
+[08Dec2024 20:24:31.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[08Dec2024 20:24:51.419] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety moved too quickly! 0.0,10.186305164353854,0.0
+[08Dec2024 20:24:53.760] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety moved too quickly! 0.0,-10.345305843153412,0.0
+[08Dec2024 20:24:53.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[08Dec2024 20:25:22.305] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1150, y=70, z=-1617} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:47.085] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1150, y=70, z=-1617}
+[08Dec2024 20:25:50.429] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-907, y=73, z=-1343} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:50.429] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-907, y=73, z=-1343}
+[08Dec2024 20:25:50.494] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=73, z=-1357} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:50.495] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=73, z=-1357}
+[08Dec2024 20:25:50.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=73, z=-1358} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:50.497] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=73, z=-1358}
+[08Dec2024 20:25:51.461] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-872, y=74, z=-1357} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:51.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-872, y=74, z=-1357}
+[08Dec2024 20:25:51.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-873, y=74, z=-1357} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:51.463] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-873, y=74, z=-1357}
+[08Dec2024 20:25:51.528] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-873, y=74, z=-1354} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:51.530] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-873, y=74, z=-1354}
+[08Dec2024 20:25:51.534] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-871, y=74, z=-1355} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:51.535] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-871, y=74, z=-1355}
+[08Dec2024 20:25:51.536] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=74, z=-1356} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:51.538] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=74, z=-1356}
+[08Dec2024 20:25:52.647] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-871, y=75, z=-1354} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:52.648] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-871, y=75, z=-1354}
+[08Dec2024 20:25:52.652] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-873, y=75, z=-1356} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:52.653] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-873, y=75, z=-1356}
+[08Dec2024 20:25:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-905, y=76, z=-1317} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:53.568] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-905, y=76, z=-1317}
+[08Dec2024 20:25:53.574] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-902, y=76, z=-1343} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:53.575] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-902, y=76, z=-1343}
+[08Dec2024 20:25:55.147] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-906, y=78, z=-1347} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:55.148] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-906, y=78, z=-1347}
+[08Dec2024 20:25:55.148] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-906, y=78, z=-1348} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:55.151] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-906, y=78, z=-1348}
+[08Dec2024 20:25:55.280] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-908, y=78, z=-1346} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:55.281] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-908, y=78, z=-1346}
+[08Dec2024 20:25:55.290] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-908, y=78, z=-1348} but found not block entity block Block{minecraft:air} at location
+[08Dec2024 20:25:55.290] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-908, y=78, z=-1348}
+[08Dec2024 20:26:01.606] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[08Dec2024 20:26:01.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 20:26:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 20:26:01.826] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Internal Exception: java.lang.StackOverflowError
+[08Dec2024 20:26:01.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[08Dec2024 20:26:01.851] [Server thread/INFO] [Astral Sorcery/]: Clearing perk-tree because the player's skill-tree version was outdated!
+[08Dec2024 20:26:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 20:26:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 20:26:21.041] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 20:26:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 20:26:21.157] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 20:26:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 20:26:21.158] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 20:26:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars
+[08Dec2024 20:26:21.218] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[08Dec2024 20:26:21.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars_orbit
+[08Dec2024 20:26:21.240] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[08Dec2024 20:26:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury
+[08Dec2024 20:26:21.254] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[08Dec2024 20:26:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury_orbit
+[08Dec2024 20:26:21.295] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[08Dec2024 20:26:21.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon
+[08Dec2024 20:26:21.333] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[08Dec2024 20:26:21.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon_orbit
+[08Dec2024 20:26:21.346] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[08Dec2024 20:26:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:overworld_orbit
+[08Dec2024 20:26:21.361] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[08Dec2024 20:26:21.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus
+[08Dec2024 20:26:21.376] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[08Dec2024 20:26:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus_orbit
+[08Dec2024 20:26:21.384] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[08Dec2024 20:26:21.634] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 20:26:21.963] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 20:26:21.964] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 20:26:21.965] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[08Dec2024 20:26:21.967] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[08Dec2024 20:26:21.973] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[08Dec2024 20:26:21.974] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[08Dec2024 20:26:21.974] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[08Dec2024 20:26:21.975] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[08Dec2024 20:26:21.975] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[08Dec2024 20:26:21.976] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[08Dec2024 20:26:21.977] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
