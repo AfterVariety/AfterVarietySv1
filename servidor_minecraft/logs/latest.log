@@ -4547,3 +4547,29 @@ java.lang.NullPointerException: null
 [08Dec2024 06:07:00.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement ['Til Death Do Us Part]
 [08Dec2024 06:10:03.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement ['Til Death Do Us Part]
 [08Dec2024 06:11:16.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Next Generation]
+[08Dec2024 06:14:46.719] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Conni7w7 lost connection: Disconnected
+[08Dec2024 06:14:46.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 left the game
+[08Dec2024 06:14:50.877] [User Authenticator #23/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[08Dec2024 06:14:52.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@533c8d57
+[08Dec2024 06:14:52.686] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:49791] logged in with entity id 162101 at (-1505.4726291959514, 70.0, -1180.8855269940318)
+[08Dec2024 06:14:52.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[08Dec2024 06:16:21.828] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Disconnected
+[08Dec2024 06:16:21.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[08Dec2024 06:16:36.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[08Dec2024 06:16:36.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sto<--[HERE]
+[08Dec2024 06:16:38.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08Dec2024 06:16:38.313] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[08Dec2024 06:16:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 06:16:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 06:16:38.359] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Server closed
+[08Dec2024 06:16:38.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 06:16:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 06:16:38.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 06:16:39.322] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 06:16:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 06:16:39.324] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 06:16:39.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 06:16:39.327] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 06:16:39.368] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 06:16:39.678] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 06:16:39.732] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
