@@ -5888,3 +5888,675 @@ java.lang.NullPointerException: null
 [08Dec2024 00:06:17.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05wnvyhq8nzws]: Consuming argument ``
 [08Dec2024 00:06:17.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05wnvyhq8nzws]: Consuming argument `tajmahalbyef`
 [08Dec2024 00:06:17.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05wnvyhq8nzws]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:20.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2l4c4i7rns3]: started parsing
+[08Dec2024 00:06:20.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2l4c4i7rns3]: Consuming argument `load`
+[08Dec2024 00:06:20.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2l4c4i7rns3]: Consuming argument ``
+[08Dec2024 00:06:20.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2l4c4i7rns3]: Consuming argument `tajmahalbyeft`
+[08Dec2024 00:06:20.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2l4c4i7rns3]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iftn5rfr7umk]: started parsing
+[08Dec2024 00:06:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iftn5rfr7umk]: Consuming argument `load`
+[08Dec2024 00:06:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iftn5rfr7umk]: Consuming argument ``
+[08Dec2024 00:06:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iftn5rfr7umk]: Consuming argument `tajmahalbyefte`
+[08Dec2024 00:06:20.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iftn5rfr7umk]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:23.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [062xsprm5zt9o]: started parsing
+[08Dec2024 00:06:23.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [062xsprm5zt9o]: Consuming argument `load`
+[08Dec2024 00:06:23.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [062xsprm5zt9o]: Consuming argument ``
+[08Dec2024 00:06:23.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [062xsprm5zt9o]: Consuming argument `tajmahalbyeftel`
+[08Dec2024 00:06:23.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [062xsprm5zt9o]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:23.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h256hj7pps39]: started parsing
+[08Dec2024 00:06:23.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h256hj7pps39]: Consuming argument `load`
+[08Dec2024 00:06:23.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h256hj7pps39]: Consuming argument ``
+[08Dec2024 00:06:23.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h256hj7pps39]: Consuming argument `tajmahalbyeftelt`
+[08Dec2024 00:06:23.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h256hj7pps39]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:27.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c3xpz8nzym5u]: started parsing
+[08Dec2024 00:06:27.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c3xpz8nzym5u]: Consuming argument `load`
+[08Dec2024 00:06:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c3xpz8nzym5u]: Consuming argument ``
+[08Dec2024 00:06:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c3xpz8nzym5u]: Consuming argument `tajmahalbyefteltj`
+[08Dec2024 00:06:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c3xpz8nzym5u]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:27.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c1xdb4wizdan]: started parsing
+[08Dec2024 00:06:27.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c1xdb4wizdan]: Consuming argument `load`
+[08Dec2024 00:06:27.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c1xdb4wizdan]: Consuming argument ``
+[08Dec2024 00:06:27.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c1xdb4wizdan]: Consuming argument `tajmahalbyefteltje`
+[08Dec2024 00:06:27.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c1xdb4wizdan]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:29.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5ro3tl0m6t6]: started parsing
+[08Dec2024 00:06:29.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5ro3tl0m6t6]: Consuming argument `load`
+[08Dec2024 00:06:29.169] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5ro3tl0m6t6]: Consuming argument ``
+[08Dec2024 00:06:29.169] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5ro3tl0m6t6]: Consuming argument `tajmahalbyefteltje8`
+[08Dec2024 00:06:29.169] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5ro3tl0m6t6]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:29.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01dbiu8w58j55]: started parsing
+[08Dec2024 00:06:29.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01dbiu8w58j55]: Consuming argument `load`
+[08Dec2024 00:06:29.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01dbiu8w58j55]: Consuming argument ``
+[08Dec2024 00:06:29.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01dbiu8w58j55]: Consuming argument `tajmahalbyefteltje81`
+[08Dec2024 00:06:29.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01dbiu8w58j55]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:29.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shoc3hezdcvi]: started parsing
+[08Dec2024 00:06:29.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shoc3hezdcvi]: Consuming argument `load`
+[08Dec2024 00:06:29.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shoc3hezdcvi]: Consuming argument ``
+[08Dec2024 00:06:29.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shoc3hezdcvi]: Consuming argument `tajmahalbyefteltje811`
+[08Dec2024 00:06:29.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shoc3hezdcvi]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:31.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iekzf3h4ad6p]: started parsing
+[08Dec2024 00:06:31.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iekzf3h4ad6p]: Consuming argument `load`
+[08Dec2024 00:06:31.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iekzf3h4ad6p]: Consuming argument ``
+[08Dec2024 00:06:31.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iekzf3h4ad6p]: Consuming argument `tajmahalbyefteltje8114`
+[08Dec2024 00:06:31.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iekzf3h4ad6p]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:31.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0savwq75x6bdp]: started parsing
+[08Dec2024 00:06:31.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0savwq75x6bdp]: Consuming argument `load`
+[08Dec2024 00:06:31.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0savwq75x6bdp]: Consuming argument ``
+[08Dec2024 00:06:31.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0savwq75x6bdp]: Consuming argument `tajmahalbyefteltje81149`
+[08Dec2024 00:06:31.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0savwq75x6bdp]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:35.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00a55syf6ehuq]: started parsing
+[08Dec2024 00:06:35.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00a55syf6ehuq]: Consuming argument `load`
+[08Dec2024 00:06:35.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00a55syf6ehuq]: Consuming argument ``
+[08Dec2024 00:06:35.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00a55syf6ehuq]: Consuming argument `tajmahalbyefteltje811495`
+[08Dec2024 00:06:35.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00a55syf6ehuq]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:35.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prmzg0lzbbm7]: started parsing
+[08Dec2024 00:06:35.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prmzg0lzbbm7]: Consuming argument `load`
+[08Dec2024 00:06:35.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prmzg0lzbbm7]: Consuming argument ``
+[08Dec2024 00:06:35.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prmzg0lzbbm7]: Consuming argument `tajmahalbyefteltje8114957`
+[08Dec2024 00:06:35.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1prmzg0lzbbm7]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:35.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09i8ttncuhuqn]: started parsing
+[08Dec2024 00:06:35.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09i8ttncuhuqn]: Consuming argument `load`
+[08Dec2024 00:06:35.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09i8ttncuhuqn]: Consuming argument `tajmahalbyefteltje8114957`
+[08Dec2024 00:06:35.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09i8ttncuhuqn]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:39.826] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:1. This is most likely a bad schematic.
+[08Dec2024 00:06:40.689] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:2. This is most likely a bad schematic.
+[08Dec2024 00:06:40.841] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:13. This is most likely a bad schematic.
+[08Dec2024 00:06:40.906] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:14. This is most likely a bad schematic.
+[08Dec2024 00:06:40.948] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:12. This is most likely a bad schematic.
+[08Dec2024 00:06:42.883] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 0:1. This is most likely a bad schematic.
+[08Dec2024 00:06:43.806] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:4. This is most likely a bad schematic.
+[08Dec2024 00:06:43.806] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:3. This is most likely a bad schematic.
+[08Dec2024 00:06:44.571] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:5. This is most likely a bad schematic.
+[08Dec2024 00:06:44.593] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:6. This is most likely a bad schematic.
+[08Dec2024 00:06:44.610] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: AfterVariety loaded /workspaces/AfterVarietySv1/servidor_minecraft/config/worldedit/schematics/tajmahalbyefteltje8114957.schematic
+[08Dec2024 00:06:49.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4lnpdxvdf0u]: started parsing
+[08Dec2024 00:06:49.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4lnpdxvdf0u]: Consuming argument ``
+[08Dec2024 00:06:49.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4lnpdxvdf0u]: parseRegularArgument: no arguments to attempt matching
+[08Dec2024 00:06:50.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032d5et8o3j8h]: started parsing
+[08Dec2024 00:06:50.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032d5et8o3j8h]: Consuming argument ``
+[08Dec2024 00:06:50.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [032d5et8o3j8h]: parseRegularArgument: no arguments to attempt matching
+[08Dec2024 00:06:52.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [101k46hwhbcum]: started parsing
+[08Dec2024 00:06:52.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [101k46hwhbcum]: Finished looking at arguments. Finalizing command.
+[08Dec2024 00:06:53.941] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,3]
+[08Dec2024 00:06:53.944] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:53.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:53.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,3]
+[08Dec2024 00:06:54.058] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,3]
+[08Dec2024 00:06:54.058] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.059] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.059] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (71 | 40 | 62)
+[08Dec2024 00:06:54.059] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (71 | 40 | 62)
+[08Dec2024 00:06:54.059] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (75 | 40 | 62)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (75 | 40 | 62)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 63)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 63)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (79 | 40 | 52)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (79 | 40 | 52)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.060] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.061] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,3]
+[08Dec2024 00:06:54.091] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,3]
+[08Dec2024 00:06:54.091] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (79 | 40 | 52)
+[08Dec2024 00:06:54.101] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation COUNTERCLOCKWISE_90 at (79 | 40 | 52)
+[08Dec2024 00:06:54.101] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.102] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.102] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (88 | 40 | 62)
+[08Dec2024 00:06:54.102] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (88 | 40 | 62)
+[08Dec2024 00:06:54.103] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (93 | 40 | 57)
+[08Dec2024 00:06:54.104] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (93 | 40 | 57)
+[08Dec2024 00:06:54.104] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,3]
+[08Dec2024 00:06:54.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,4]
+[08Dec2024 00:06:54.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.229] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.229] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (62 | 40 | 73)
+[08Dec2024 00:06:54.229] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (62 | 40 | 73)
+[08Dec2024 00:06:54.229] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 70)
+[08Dec2024 00:06:54.230] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 70)
+[08Dec2024 00:06:54.230] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (63 | 40 | 77)
+[08Dec2024 00:06:54.231] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (63 | 40 | 77)
+[08Dec2024 00:06:54.231] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 72)
+[08Dec2024 00:06:54.232] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 72)
+[08Dec2024 00:06:54.232] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.232] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.232] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.235] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.235] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.236] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.236] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,4]
+[08Dec2024 00:06:54.290] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,4]
+[08Dec2024 00:06:54.290] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.291] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (61 | 40 | 61)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation COUNTERCLOCKWISE_90 at (64 | 45 | 73)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling_lamp with rotation COUNTERCLOCKWISE_90 at (64 | 45 | 73)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 70)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 70)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (63 | 40 | 77)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (63 | 40 | 77)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (68 | 40 | 72)
+[08Dec2024 00:06:54.292] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (68 | 40 | 72)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 72)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (63 | 40 | 72)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (71 | 40 | 67)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (71 | 40 | 67)
+[08Dec2024 00:06:54.293] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (75 | 40 | 67)
+[08Dec2024 00:06:54.294] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (75 | 40 | 67)
+[08Dec2024 00:06:54.294] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 63)
+[08Dec2024 00:06:54.295] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 63)
+[08Dec2024 00:06:54.295] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (70 | 40 | 70)
+[08Dec2024 00:06:54.299] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (70 | 40 | 70)
+[08Dec2024 00:06:54.299] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.299] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.299] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.300] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.301] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.302] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.302] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,4]
+[08Dec2024 00:06:54.346] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,4]
+[08Dec2024 00:06:54.346] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_6 with rotation CLOCKWISE_180 at (79 | 40 | 61)
+[08Dec2024 00:06:54.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (88 | 40 | 62)
+[08Dec2024 00:06:54.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (88 | 40 | 62)
+[08Dec2024 00:06:54.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (93 | 40 | 57)
+[08Dec2024 00:06:54.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (93 | 40 | 57)
+[08Dec2024 00:06:54.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 79)
+[08Dec2024 00:06:54.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 79)
+[08Dec2024 00:06:54.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 75)
+[08Dec2024 00:06:54.352] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 75)
+[08Dec2024 00:06:54.352] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (85 | 22 | 75)
+[08Dec2024 00:06:54.353] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (85 | 22 | 75)
+[08Dec2024 00:06:54.353] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (90 | 22 | 79)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (90 | 22 | 79)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/large_wall at (90 | 22 | 79)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/large_wall at (90 | 22 | 79)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (84 | 22 | 75)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (84 | 22 | 75)
+[08Dec2024 00:06:54.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_turn at (84 | 22 | 75)
+[08Dec2024 00:06:54.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_turn at (84 | 22 | 75)
+[08Dec2024 00:06:54.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,4]
+[08Dec2024 00:06:54.437] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,5]
+[08Dec2024 00:06:54.437] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.438] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.438] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.438] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.439] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.444] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.444] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.445] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.445] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,5]
+[08Dec2024 00:06:54.478] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,5]
+[08Dec2024 00:06:54.478] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.479] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 79)
+[08Dec2024 00:06:54.479] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.485] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.486] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (71 | 40 | 87)
+[08Dec2024 00:06:54.487] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (71 | 40 | 87)
+[08Dec2024 00:06:54.487] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (75 | 40 | 89)
+[08Dec2024 00:06:54.487] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (75 | 40 | 89)
+[08Dec2024 00:06:54.488] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (71 | 40 | 94)
+[08Dec2024 00:06:54.488] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (71 | 40 | 94)
+[08Dec2024 00:06:54.488] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (75 | 40 | 94)
+[08Dec2024 00:06:54.489] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (75 | 40 | 94)
+[08Dec2024 00:06:54.489] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 90)
+[08Dec2024 00:06:54.492] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (70 | 40 | 90)
+[08Dec2024 00:06:54.492] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 89)
+[08Dec2024 00:06:54.493] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 89)
+[08Dec2024 00:06:54.493] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.512] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.512] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (73 | 22 | 81)
+[08Dec2024 00:06:54.512] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (73 | 22 | 81)
+[08Dec2024 00:06:54.512] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (73 | 22 | 81)
+[08Dec2024 00:06:54.512] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (73 | 22 | 81)
+[08Dec2024 00:06:54.513] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (74 | 22 | 80)
+[08Dec2024 00:06:54.515] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (74 | 22 | 80)
+[08Dec2024 00:06:54.515] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (74 | 22 | 80)
+[08Dec2024 00:06:54.516] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (74 | 22 | 80)
+[08Dec2024 00:06:54.516] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.529] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (58 | 22 | 76)
+[08Dec2024 00:06:54.529] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.531] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room_2 at (58 | 22 | 76)
+[08Dec2024 00:06:54.532] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (79 | 22 | 80)
+[08Dec2024 00:06:54.532] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (79 | 22 | 80)
+[08Dec2024 00:06:54.532] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (79 | 22 | 80)
+[08Dec2024 00:06:54.532] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (79 | 22 | 80)
+[08Dec2024 00:06:54.533] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,5]
+[08Dec2024 00:06:54.574] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,5]
+[08Dec2024 00:06:54.574] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (84 | 49 | 84)
+[08Dec2024 00:06:54.576] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (84 | 49 | 84)
+[08Dec2024 00:06:54.577] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 89)
+[08Dec2024 00:06:54.577] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 89)
+[08Dec2024 00:06:54.577] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (89 | 40 | 87)
+[08Dec2024 00:06:54.577] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (89 | 40 | 87)
+[08Dec2024 00:06:54.577] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (93 | 40 | 89)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (93 | 40 | 89)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (89 | 40 | 94)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (89 | 40 | 94)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (93 | 40 | 94)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (93 | 40 | 94)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (88 | 40 | 90)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (88 | 40 | 90)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (82 | 31 | 90)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (82 | 31 | 90)
+[08Dec2024 00:06:54.578] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (83 | 31 | 89)
+[08Dec2024 00:06:54.579] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (83 | 31 | 89)
+[08Dec2024 00:06:54.579] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.579] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.579] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 79)
+[08Dec2024 00:06:54.580] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 79)
+[08Dec2024 00:06:54.580] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 88)
+[08Dec2024 00:06:54.581] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 88)
+[08Dec2024 00:06:54.582] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (90 | 27 | 81)
+[08Dec2024 00:06:54.582] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (90 | 27 | 81)
+[08Dec2024 00:06:54.582] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (90 | 27 | 81)
+[08Dec2024 00:06:54.582] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (90 | 27 | 81)
+[08Dec2024 00:06:54.582] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 92)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 92)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 92)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 92)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (79 | 22 | 80)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (79 | 22 | 80)
+[08Dec2024 00:06:54.583] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (79 | 22 | 80)
+[08Dec2024 00:06:54.584] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (79 | 22 | 80)
+[08Dec2024 00:06:54.584] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (84 | 22 | 75)
+[08Dec2024 00:06:54.585] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (84 | 22 | 75)
+[08Dec2024 00:06:54.585] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_turn at (84 | 22 | 75)
+[08Dec2024 00:06:54.587] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_turn at (84 | 22 | 75)
+[08Dec2024 00:06:54.587] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,5]
+[08Dec2024 00:06:54.693] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,6]
+[08Dec2024 00:06:54.693] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.694] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.694] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation COUNTERCLOCKWISE_90 at (58 | 40 | 99)
+[08Dec2024 00:06:54.695] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation COUNTERCLOCKWISE_90 at (58 | 40 | 99)
+[08Dec2024 00:06:54.696] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 97)
+[08Dec2024 00:06:54.696] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 97)
+[08Dec2024 00:06:54.696] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.697] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.697] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,6]
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,6]
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 88)
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (67 | 40 | 100)
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (67 | 40 | 100)
+[08Dec2024 00:06:54.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 97)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 97)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (75 | 40 | 94)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (75 | 40 | 94)
+[08Dec2024 00:06:54.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.746] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.746] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.748] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.748] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.748] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.748] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,6]
+[08Dec2024 00:06:54.806] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,6]
+[08Dec2024 00:06:54.806] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (90 | 49 | 101)
+[08Dec2024 00:06:54.808] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (90 | 49 | 101)
+[08Dec2024 00:06:54.809] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (84 | 49 | 84)
+[08Dec2024 00:06:54.815] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (84 | 49 | 84)
+[08Dec2024 00:06:54.815] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 109)
+[08Dec2024 00:06:54.816] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 109)
+[08Dec2024 00:06:54.816] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (94 | 49 | 109)
+[08Dec2024 00:06:54.817] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (94 | 49 | 109)
+[08Dec2024 00:06:54.817] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 106)
+[08Dec2024 00:06:54.819] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 106)
+[08Dec2024 00:06:54.819] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.823] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.824] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.824] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (67 | 31 | 85)
+[08Dec2024 00:06:54.824] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 88)
+[08Dec2024 00:06:54.825] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (88 | 31 | 88)
+[08Dec2024 00:06:54.825] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (93 | 31 | 111)
+[08Dec2024 00:06:54.825] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (93 | 31 | 111)
+[08Dec2024 00:06:54.825] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 92)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 92)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 92)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 92)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (90 | 22 | 102)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (90 | 22 | 102)
+[08Dec2024 00:06:54.826] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (90 | 22 | 102)
+[08Dec2024 00:06:54.827] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (90 | 22 | 102)
+[08Dec2024 00:06:54.827] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (89 | 22 | 97)
+[08Dec2024 00:06:54.829] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (89 | 22 | 97)
+[08Dec2024 00:06:54.829] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_3 at (89 | 22 | 97)
+[08Dec2024 00:06:54.830] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_3 at (89 | 22 | 97)
+[08Dec2024 00:06:54.830] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 103)
+[08Dec2024 00:06:54.835] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 103)
+[08Dec2024 00:06:54.835] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room at (85 | 22 | 103)
+[08Dec2024 00:06:54.837] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room at (85 | 22 | 103)
+[08Dec2024 00:06:54.837] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.838] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.838] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,6]
+[08Dec2024 00:06:54.913] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,7]
+[08Dec2024 00:06:54.914] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:54.915] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:54.916] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.917] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.917] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 115)
+[08Dec2024 00:06:54.917] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 115)
+[08Dec2024 00:06:54.917] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:54.918] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:54.918] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,7]
+[08Dec2024 00:06:54.955] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,7]
+[08Dec2024 00:06:54.956] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:54.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:54.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (75 | 49 | 125)
+[08Dec2024 00:06:54.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (75 | 49 | 125)
+[08Dec2024 00:06:54.959] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (71 | 49 | 125)
+[08Dec2024 00:06:54.960] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (71 | 49 | 125)
+[08Dec2024 00:06:54.960] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (70 | 49 | 126)
+[08Dec2024 00:06:54.961] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (70 | 49 | 126)
+[08Dec2024 00:06:54.961] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:54.961] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:54.961] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 106)
+[08Dec2024 00:06:54.962] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 115)
+[08Dec2024 00:06:54.966] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 115)
+[08Dec2024 00:06:54.966] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:54.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:54.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (70 | 40 | 125)
+[08Dec2024 00:06:54.971] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (70 | 40 | 125)
+[08Dec2024 00:06:54.971] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.975] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:54.975] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:54.975] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:54.976] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (79 | 31 | 115)
+[08Dec2024 00:06:54.976] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (79 | 31 | 115)
+[08Dec2024 00:06:54.976] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:54.982] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,7]
+[08Dec2024 00:06:55.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,7]
+[08Dec2024 00:06:55.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 106)
+[08Dec2024 00:06:55.029] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 106)
+[08Dec2024 00:06:55.029] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (90 | 49 | 115)
+[08Dec2024 00:06:55.031] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (90 | 49 | 115)
+[08Dec2024 00:06:55.031] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.032] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.032] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (84 | 49 | 120)
+[08Dec2024 00:06:55.042] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (84 | 49 | 120)
+[08Dec2024 00:06:55.042] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 119)
+[08Dec2024 00:06:55.044] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 119)
+[08Dec2024 00:06:55.045] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:55.053] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (75 | 40 | 102)
+[08Dec2024 00:06:55.053] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.055] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.056] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_3 with rotation NONE at (88 | 40 | 124)
+[08Dec2024 00:06:55.058] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_3 with rotation NONE at (88 | 40 | 124)
+[08Dec2024 00:06:55.059] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (79 | 31 | 115)
+[08Dec2024 00:06:55.066] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (79 | 31 | 115)
+[08Dec2024 00:06:55.067] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (80 | 31 | 124)
+[08Dec2024 00:06:55.071] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (80 | 31 | 124)
+[08Dec2024 00:06:55.071] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (88 | 31 | 116)
+[08Dec2024 00:06:55.072] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (88 | 31 | 116)
+[08Dec2024 00:06:55.072] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (93 | 31 | 111)
+[08Dec2024 00:06:55.072] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (93 | 31 | 111)
+[08Dec2024 00:06:55.073] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (90 | 22 | 118)
+[08Dec2024 00:06:55.073] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (90 | 22 | 118)
+[08Dec2024 00:06:55.073] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (90 | 22 | 118)
+[08Dec2024 00:06:55.073] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/multipart/short_node_connector at (90 | 22 | 118)
+[08Dec2024 00:06:55.074] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 119)
+[08Dec2024 00:06:55.074] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 22 | 119)
+[08Dec2024 00:06:55.075] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 119)
+[08Dec2024 00:06:55.075] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_6 at (89 | 22 | 119)
+[08Dec2024 00:06:55.075] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 103)
+[08Dec2024 00:06:55.076] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (85 | 22 | 103)
+[08Dec2024 00:06:55.076] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room at (85 | 22 | 103)
+[08Dec2024 00:06:55.077] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/room at (85 | 22 | 103)
+[08Dec2024 00:06:55.077] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (89 | 22 | 124)
+[08Dec2024 00:06:55.077] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (89 | 22 | 124)
+[08Dec2024 00:06:55.077] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (89 | 22 | 124)
+[08Dec2024 00:06:55.078] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (89 | 22 | 124)
+[08Dec2024 00:06:55.078] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (92 | 13 | 116)
+[08Dec2024 00:06:55.080] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (92 | 13 | 116)
+[08Dec2024 00:06:55.081] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:55.097] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (75 | 12 | 111)
+[08Dec2024 00:06:55.097] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,7]
+[08Dec2024 00:06:55.221] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,8]
+[08Dec2024 00:06:55.221] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:55.222] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:55.223] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:55.223] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:55.223] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (62 | 40 | 133)
+[08Dec2024 00:06:55.224] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (62 | 40 | 133)
+[08Dec2024 00:06:55.224] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.224] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.224] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,8]
+[08Dec2024 00:06:55.269] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,8]
+[08Dec2024 00:06:55.269] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:55.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (61 | 49 | 124)
+[08Dec2024 00:06:55.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (75 | 49 | 130)
+[08Dec2024 00:06:55.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (75 | 49 | 130)
+[08Dec2024 00:06:55.273] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (71 | 49 | 130)
+[08Dec2024 00:06:55.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (71 | 49 | 130)
+[08Dec2024 00:06:55.274] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (70 | 49 | 126)
+[08Dec2024 00:06:55.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (70 | 49 | 126)
+[08Dec2024 00:06:55.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:55.280] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (61 | 40 | 124)
+[08Dec2024 00:06:55.280] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (62 | 40 | 133)
+[08Dec2024 00:06:55.283] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (62 | 40 | 133)
+[08Dec2024 00:06:55.283] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.284] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.284] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (70 | 40 | 125)
+[08Dec2024 00:06:55.286] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (70 | 40 | 125)
+[08Dec2024 00:06:55.286] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.287] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.287] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (79 | 40 | 133)
+[08Dec2024 00:06:55.287] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (79 | 40 | 133)
+[08Dec2024 00:06:55.287] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.290] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.290] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,8]
+[08Dec2024 00:06:55.328] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,8]
+[08Dec2024 00:06:55.329] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 137)
+[08Dec2024 00:06:55.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (89 | 49 | 137)
+[08Dec2024 00:06:55.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (79 | 49 | 126)
+[08Dec2024 00:06:55.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (84 | 49 | 120)
+[08Dec2024 00:06:55.343] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (84 | 49 | 120)
+[08Dec2024 00:06:55.344] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (89 | 49 | 142)
+[08Dec2024 00:06:55.345] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (89 | 49 | 142)
+[08Dec2024 00:06:55.345] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (79 | 40 | 124)
+[08Dec2024 00:06:55.347] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (79 | 40 | 133)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (79 | 40 | 133)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 142)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 142)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_3 with rotation NONE at (88 | 40 | 124)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_3 with rotation NONE at (88 | 40 | 124)
+[08Dec2024 00:06:55.348] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (88 | 40 | 133)
+[08Dec2024 00:06:55.349] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (88 | 40 | 133)
+[08Dec2024 00:06:55.349] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (80 | 31 | 124)
+[08Dec2024 00:06:55.349] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (80 | 31 | 124)
+[08Dec2024 00:06:55.349] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (80 | 31 | 133)
+[08Dec2024 00:06:55.350] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (80 | 31 | 133)
+[08Dec2024 00:06:55.350] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.354] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (90 | 27 | 135)
+[08Dec2024 00:06:55.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (90 | 27 | 135)
+[08Dec2024 00:06:55.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (90 | 27 | 135)
+[08Dec2024 00:06:55.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (90 | 27 | 135)
+[08Dec2024 00:06:55.355] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (84 | 22 | 130)
+[08Dec2024 00:06:55.358] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (84 | 22 | 130)
+[08Dec2024 00:06:55.358] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (84 | 22 | 130)
+[08Dec2024 00:06:55.359] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (84 | 22 | 130)
+[08Dec2024 00:06:55.359] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (89 | 22 | 141)
+[08Dec2024 00:06:55.361] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (89 | 22 | 141)
+[08Dec2024 00:06:55.362] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (89 | 22 | 141)
+[08Dec2024 00:06:55.362] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (89 | 22 | 141)
+[08Dec2024 00:06:55.362] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (85 | 22 | 134)
+[08Dec2024 00:06:55.364] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (85 | 22 | 134)
+[08Dec2024 00:06:55.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (85 | 22 | 134)
+[08Dec2024 00:06:55.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (85 | 22 | 134)
+[08Dec2024 00:06:55.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (89 | 22 | 124)
+[08Dec2024 00:06:55.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (89 | 22 | 124)
+[08Dec2024 00:06:55.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (89 | 22 | 124)
+[08Dec2024 00:06:55.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:default/node/connector/connector_2 at (89 | 22 | 124)
+[08Dec2024 00:06:55.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (84 | 22 | 129)
+[08Dec2024 00:06:55.372] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (84 | 22 | 129)
+[08Dec2024 00:06:55.373] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_dead_end at (84 | 22 | 129)
+[08Dec2024 00:06:55.374] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_dead_end at (84 | 22 | 129)
+[08Dec2024 00:06:55.375] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,8]
+[08Dec2024 00:06:55.499] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,9]
+[08Dec2024 00:06:55.499] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (52 | 40 | 151)
+[08Dec2024 00:06:55.507] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (52 | 40 | 151)
+[08Dec2024 00:06:55.507] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 145)
+[08Dec2024 00:06:55.507] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 145)
+[08Dec2024 00:06:55.507] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.508] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.508] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/cake_room with rotation CLOCKWISE_90 at (61 | 40 | 151)
+[08Dec2024 00:06:55.509] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/cake_room with rotation CLOCKWISE_90 at (61 | 40 | 151)
+[08Dec2024 00:06:55.510] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,9]
+[08Dec2024 00:06:55.563] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,9]
+[08Dec2024 00:06:55.563] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (64 | 45 | 145)
+[08Dec2024 00:06:55.564] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (64 | 45 | 145)
+[08Dec2024 00:06:55.564] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (67 | 40 | 145)
+[08Dec2024 00:06:55.565] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (67 | 40 | 145)
+[08Dec2024 00:06:55.565] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.566] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (62 | 40 | 142)
+[08Dec2024 00:06:55.567] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/cake_room with rotation CLOCKWISE_90 at (61 | 40 | 151)
+[08Dec2024 00:06:55.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/cake_room with rotation CLOCKWISE_90 at (61 | 40 | 151)
+[08Dec2024 00:06:55.572] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.572] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.572] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.575] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.575] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,9]
+[08Dec2024 00:06:55.610] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,9]
+[08Dec2024 00:06:55.610] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (89 | 49 | 142)
+[08Dec2024 00:06:55.612] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (89 | 49 | 142)
+[08Dec2024 00:06:55.613] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (89 | 49 | 151)
+[08Dec2024 00:06:55.614] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (89 | 49 | 151)
+[08Dec2024 00:06:55.615] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (84 | 49 | 156)
+[08Dec2024 00:06:55.620] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (84 | 49 | 156)
+[08Dec2024 00:06:55.620] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 142)
+[08Dec2024 00:06:55.623] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (80 | 40 | 142)
+[08Dec2024 00:06:55.624] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (81 | 40 | 156)
+[08Dec2024 00:06:55.624] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (81 | 40 | 156)
+[08Dec2024 00:06:55.624] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (80 | 40 | 151)
+[08Dec2024 00:06:55.627] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (80 | 40 | 151)
+[08Dec2024 00:06:55.627] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.628] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.629] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.642] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (75 | 30 | 138)
+[08Dec2024 00:06:55.642] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (89 | 22 | 141)
+[08Dec2024 00:06:55.644] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (89 | 22 | 141)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (89 | 22 | 141)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/multipart/crypt_graves at (89 | 22 | 141)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (84 | 22 | 129)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (84 | 22 | 129)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_dead_end at (84 | 22 | 129)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3cb4c984 for dungeoncrawl:catacombs/node/crypt_dead_end at (84 | 22 | 129)
+[08Dec2024 00:06:55.646] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,9]
+[08Dec2024 00:06:55.898] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,10]
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 160)
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 160)
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 172)
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 172)
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:55.899] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:55.900] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,10]
+[08Dec2024 00:06:55.954] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,10]
+[08Dec2024 00:06:55.954] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 160)
+[08Dec2024 00:06:55.956] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (61 | 40 | 160)
+[08Dec2024 00:06:55.956] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (67 | 40 | 172)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (67 | 40 | 172)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (75 | 40 | 162)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (75 | 40 | 162)
+[08Dec2024 00:06:55.957] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (70 | 40 | 161)
+[08Dec2024 00:06:55.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (70 | 40 | 161)
+[08Dec2024 00:06:55.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.958] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:55.959] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,10]
+[08Dec2024 00:06:55.995] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,10]
+[08Dec2024 00:06:55.996] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (84 | 49 | 156)
+[08Dec2024 00:06:56.011] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (84 | 49 | 156)
+[08Dec2024 00:06:56.011] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:56.020] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (77 | 40 | 158)
+[08Dec2024 00:06:56.020] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,10]
+[08Dec2024 00:06:56.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,11]
+[08Dec2024 00:06:56.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:56.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:56.365] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 181)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (62 | 40 | 181)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_90 at (62 | 40 | 178)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_90 at (62 | 40 | 178)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (62 | 40 | 187)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (62 | 40 | 187)
+[08Dec2024 00:06:56.366] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,11]
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,11]
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (62 | 40 | 169)
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance_2 with rotation CLOCKWISE_90 at (67 | 40 | 181)
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance_2 with rotation CLOCKWISE_90 at (67 | 40 | 181)
+[08Dec2024 00:06:56.388] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_90 at (62 | 40 | 178)
+[08Dec2024 00:06:56.389] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_90 at (62 | 40 | 178)
+[08Dec2024 00:06:56.389] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (62 | 40 | 187)
+[08Dec2024 00:06:56.389] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (62 | 40 | 187)
+[08Dec2024 00:06:56.389] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation NONE at (70 | 40 | 178)
+[08Dec2024 00:06:56.390] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation NONE at (70 | 40 | 178)
+[08Dec2024 00:06:56.390] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,11]
+[08Dec2024 00:06:56.429] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,11]
+[08Dec2024 00:06:56.430] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation NONE at (70 | 40 | 178)
+[08Dec2024 00:06:56.438] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation NONE at (70 | 40 | 178)
+[08Dec2024 00:06:56.438] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,11]
+[08Dec2024 00:06:56.989] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,12]
+[08Dec2024 00:06:56.989] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:56.999] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:56.999] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,12]
+[08Dec2024 00:06:57.089] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,12]
+[08Dec2024 00:06:57.090] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (74 | 40 | 197)
+[08Dec2024 00:06:57.092] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (74 | 40 | 197)
+[08Dec2024 00:06:57.092] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.107] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.108] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 197)
+[08Dec2024 00:06:57.108] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 197)
+[08Dec2024 00:06:57.108] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,12]
+[08Dec2024 00:06:57.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,12]
+[08Dec2024 00:06:57.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 197)
+[08Dec2024 00:06:57.196] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (79 | 40 | 197)
+[08Dec2024 00:06:57.196] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (93 | 40 | 198)
+[08Dec2024 00:06:57.197] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (93 | 40 | 198)
+[08Dec2024 00:06:57.197] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (88 | 40 | 197)
+[08Dec2024 00:06:57.199] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (88 | 40 | 197)
+[08Dec2024 00:06:57.199] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (95 | 40 | 194)
+[08Dec2024 00:06:57.200] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (95 | 40 | 194)
+[08Dec2024 00:06:57.200] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,12]
+[08Dec2024 00:06:57.566] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,13]
+[08Dec2024 00:06:57.567] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.567] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.567] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,13]
+[08Dec2024 00:06:57.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [4,13]
+[08Dec2024 00:06:57.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.595] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (57 | 40 | 192)
+[08Dec2024 00:06:57.595] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [4,13]
+[08Dec2024 00:06:57.622] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,13]
+[08Dec2024 00:06:57.622] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,13]
+[08Dec2024 00:07:13.042] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using modjar://worldedit/com/sk89q/worldedit/world/registry/blocks.116.json for bundled block data.
+[08Dec2024 00:07:28.273] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Disconnected
+[08Dec2024 00:07:28.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 00:07:28.608] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 27 messages to dispatch.
+[08Dec2024 00:07:29.387] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[08Dec2024 00:07:29.464] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[08Dec2024 00:07:29.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 00:07:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 00:07:29.540] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Server closed
+[08Dec2024 00:07:29.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[08Dec2024 00:07:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 00:07:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 00:07:38.660] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 00:07:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 00:07:38.681] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 00:07:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 00:07:38.695] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 00:07:38.696] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:07:38.784] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 00:07:38.938] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 00:07:38.963] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 00:07:38.963] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 00:07:38.969] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[08Dec2024 00:07:38.969] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08Dec2024 00:07:38.970] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file curios-server.toml changed, sending notifies
+[08Dec2024 00:07:38.971] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file curios-server.toml changed, sending notifies

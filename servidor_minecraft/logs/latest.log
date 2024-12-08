@@ -134,3 +134,32 @@
 [08Dec2024 00:02:22.908] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [08Dec2024 00:03:26.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Stone Age]
 [08Dec2024 00:04:38.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Getting an Upgrade]
+[08Dec2024 00:06:39.826] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:1. This is most likely a bad schematic.
+[08Dec2024 00:06:40.689] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:2. This is most likely a bad schematic.
+[08Dec2024 00:06:40.841] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:13. This is most likely a bad schematic.
+[08Dec2024 00:06:40.906] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:14. This is most likely a bad schematic.
+[08Dec2024 00:06:40.948] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 64:12. This is most likely a bad schematic.
+[08Dec2024 00:06:42.883] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 0:1. This is most likely a bad schematic.
+[08Dec2024 00:06:43.806] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:4. This is most likely a bad schematic.
+[08Dec2024 00:06:43.806] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:3. This is most likely a bad schematic.
+[08Dec2024 00:06:44.571] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:5. This is most likely a bad schematic.
+[08Dec2024 00:06:44.593] [WorldEdit Task Executor - 0/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 2:6. This is most likely a bad schematic.
+[08Dec2024 00:06:44.610] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: AfterVariety loaded /workspaces/AfterVarietySv1/servidor_minecraft/config/worldedit/schematics/tajmahalbyefteltje8114957.schematic
+[08Dec2024 00:07:28.273] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Disconnected
+[08Dec2024 00:07:28.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 00:07:29.387] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[08Dec2024 00:07:29.464] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[08Dec2024 00:07:29.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 00:07:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 00:07:29.540] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Server closed
+[08Dec2024 00:07:29.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety left the game
+[08Dec2024 00:07:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 00:07:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 00:07:38.660] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 00:07:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 00:07:38.681] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 00:07:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 00:07:38.695] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 00:07:38.938] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 00:07:38.963] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 00:07:38.963] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
