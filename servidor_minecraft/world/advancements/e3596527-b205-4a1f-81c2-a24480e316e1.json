@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-08 00:40:09 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:49 +0000"
@@ -68,6 +80,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-08 00:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -128,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 00:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -335,6 +359,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_table_dinner": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
@@ -377,6 +413,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-08 00:32:18 +0000"
@@ -389,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-08 00:52:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-08 00:41:07 +0000"
@@ -398,6 +452,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-08 00:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -491,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/swallowtail_pennant": {
     "criteria": {
       "has_paper": "2024-12-08 00:34:22 +0000"
@@ -557,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-08 00:43:08 +0000"
@@ -620,6 +692,12 @@
   "pfm:recipes/pfm.furniture/light_gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -789,6 +867,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:49 +0000"
@@ -909,6 +999,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-08 00:47:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:49 +0000"
@@ -933,9 +1029,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -978,6 +1086,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-08 00:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },
@@ -1038,6 +1152,12 @@
   "pfm:recipes/pfm.furniture/birch_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 00:54:54 +0000"
     },
     "done": true
   },

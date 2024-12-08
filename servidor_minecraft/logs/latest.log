@@ -3066,3 +3066,16 @@ java.lang.NullPointerException: null
 [08Dec2024 00:47:39.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> me gusta el pene
 [08Dec2024 00:47:49.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [You Are A Pirate]
 [08Dec2024 00:48:50.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 00:50:34.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[08Dec2024 00:51:51.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[08Dec2024 00:55:52.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 00:56:13.967] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Colicchi is e24ce360-8588-4c3d-bed1-eef2cb1571ef
+[08Dec2024 00:56:17.173] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5a126aa0
+[08Dec2024 00:56:17.181] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Colicchi[/127.151.37.241:54607] logged in with entity id 9667 at (71.5, 64.0, -256.5)
+[08Dec2024 00:56:17.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi joined the game
+[08Dec2024 00:56:17.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Minecraft Comes Alive]
+[08Dec2024 00:56:17.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Ice and Fire]
+[08Dec2024 00:56:55.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Isn't It Iron Pick]
+[08Dec2024 00:59:13.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Monster Hunter]
+[08Dec2024 01:00:06.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Stone Age]
+[08Dec2024 01:00:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Getting an Upgrade]
