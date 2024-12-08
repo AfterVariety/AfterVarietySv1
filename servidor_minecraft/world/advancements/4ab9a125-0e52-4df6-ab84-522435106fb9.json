@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 02:13:33 +0000"
@@ -542,6 +548,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_chiseled_quartz_block": "2024-12-08 05:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
     },
     "done": true
   },
@@ -783,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-08 05:17:04 +0000"
@@ -900,6 +918,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-08 05:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-08 05:23:34 +0000"
     },
     "done": true
   },
@@ -1558,9 +1582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
     },
     "done": true
   },
@@ -1657,6 +1693,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-08 05:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
     },
     "done": true
   },
@@ -2053,6 +2095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 05:21:27 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-08 02:30:47 +0000"
@@ -2131,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-08 05:25:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_table_basic": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -2140,6 +2194,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-08 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
     },
     "done": true
   },
@@ -2227,6 +2287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -2305,6 +2371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-08 04:08:40 +0000"
@@ -2320,6 +2392,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:22:51 +0000"
     },
     "done": true
   },
@@ -2599,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-08 05:15:47 +0000"
@@ -2839,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-08 05:25:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -2980,6 +3070,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:25:32 +0000"
     },
     "done": true
   },

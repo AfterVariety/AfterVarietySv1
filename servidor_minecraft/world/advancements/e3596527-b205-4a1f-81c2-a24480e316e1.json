@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 05:27:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/spruce_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2024-12-08 01:29:45 +0000"
@@ -4228,6 +4234,7 @@
       "baked_potato": "2024-12-08 01:52:03 +0000",
       "potato": "2024-12-08 02:02:50 +0000",
       "bread": "2024-12-08 00:41:50 +0000",
+      "golden_apple": "2024-12-08 05:24:21 +0000",
       "cooked_chicken": "2024-12-08 01:47:24 +0000"
     },
     "done": false
@@ -5135,6 +5142,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-08 05:19:59 +0000"
     },
     "done": true
   },
