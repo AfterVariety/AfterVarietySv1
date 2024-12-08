@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_pink_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 03:40:48 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 04:45:46 +0000"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
   "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2024-12-08 03:52:13 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
     },
     "done": true
   },
@@ -536,6 +554,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
     },
     "done": true
   },
@@ -873,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-08 02:13:33 +0000"
@@ -1119,6 +1149,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-08 03:14:33 +0000"
@@ -1158,6 +1194,12 @@
   "pfm:recipes/pfm.furniture/birch_log_stool": {
     "criteria": {
       "has_log": "2024-12-08 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
     },
     "done": true
   },
@@ -1236,6 +1278,12 @@
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
     },
     "done": true
   },
@@ -1638,6 +1686,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -1665,6 +1719,12 @@
   "pfm:recipes/pfm.furniture/spruce_chair_classic": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
     },
     "done": true
   },
@@ -1755,6 +1815,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
     },
     "done": true
   },
@@ -2070,6 +2136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
@@ -2109,6 +2181,18 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-08 04:45:53 +0000"
     },
     "done": true
   },
@@ -2328,6 +2412,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -2436,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 04:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
@@ -2451,6 +2547,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2024-12-08 04:44:42 +0000"
     },
     "done": true
   },
