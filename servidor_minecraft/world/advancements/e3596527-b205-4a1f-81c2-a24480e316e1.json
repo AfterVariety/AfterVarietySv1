@@ -1763,6 +1763,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-08 04:53:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
@@ -4021,6 +4027,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 03:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-08 04:52:16 +0000"
     },
     "done": true
   },

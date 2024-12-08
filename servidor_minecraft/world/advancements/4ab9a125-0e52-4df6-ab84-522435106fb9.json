@@ -1467,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-08 04:52:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
