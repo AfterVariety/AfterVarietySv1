@@ -1,0 +1,22 @@
+
+[common]
+
+	#Properties relating to gameplay
+	[common.gameplay]
+		#Enables the safe mode on weapons, false completely nullifies the existence of the safety
+		safetyExistence = false
+		#Optics with 0 fov modification will not affect the players fov at all
+		realisticLowPowerFovHandling = false
+		#Iron sights fov modification will not affect the players fov at all
+		realisticIronSightFovHandling = false
+		#Aiming will present a breathing animation, moving the weapon over time, crouch to lower it's effects
+		realisticAimedBreathing = false
+		#True if you don't want pack up the item on your left hand, this option will keep the item but unable to use it and stop render it.
+		bannedDrop = true
+
+	#Properties relating to network
+	[common.network]
+		#The distance players need to be within to be able to track new projectiles trails. Higher values means you can see projectiles from that start from further away.
+		#Range: 1.0 ~ 1.7976931348623157E308
+		projectileTrackingRange = 200.0
+

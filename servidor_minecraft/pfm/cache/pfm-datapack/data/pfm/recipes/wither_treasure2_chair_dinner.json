@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:wither_treasure2_chair_dinner",
+    "count": 4
+  }
+}

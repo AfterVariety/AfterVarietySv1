@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_log"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:wither_treasure2_classic_nightstand",
+    "count": 4
+  }
+}

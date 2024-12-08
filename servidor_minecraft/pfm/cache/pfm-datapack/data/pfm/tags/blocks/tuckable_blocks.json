@@ -18,6 +18,7 @@
     "pfm:warped_table_basic",
     "pfm:stripped_warped_table_basic",
     "pfm:dreadwood_iceandfire_table_basic",
+    "pfm:wither_treasure2_table_basic",
     "pfm:quartz_table_basic",
     "pfm:netherite_table_basic",
     "pfm:light_wood_table_basic",
@@ -44,6 +45,7 @@
     "pfm:warped_table_classic",
     "pfm:stripped_warped_table_classic",
     "pfm:dreadwood_iceandfire_table_classic",
+    "pfm:wither_treasure2_table_classic",
     "pfm:quartz_table_classic",
     "pfm:netherite_table_classic",
     "pfm:light_wood_table_classic",
@@ -70,6 +72,7 @@
     "pfm:warped_table_dinner",
     "pfm:stripped_warped_table_dinner",
     "pfm:dreadwood_iceandfire_table_dinner",
+    "pfm:wither_treasure2_table_dinner",
     "pfm:quartz_table_dinner",
     "pfm:netherite_table_dinner",
     "pfm:light_wood_table_dinner",
@@ -96,6 +99,7 @@
     "pfm:warped_table_modern_dinner",
     "pfm:stripped_warped_table_modern_dinner",
     "pfm:dreadwood_iceandfire_table_modern_dinner",
+    "pfm:wither_treasure2_table_modern_dinner",
     "pfm:quartz_table_modern_dinner",
     "pfm:netherite_table_modern_dinner",
     "pfm:light_wood_table_modern_dinner",
@@ -122,6 +126,7 @@
     "pfm:warped_table_stem",
     "pfm:stripped_warped_table_stem",
     "pfm:dreadwood_iceandfire_table_log",
+    "pfm:wither_treasure2_table_log",
     "pfm:quartz_table_natural",
     "pfm:netherite_table_natural",
     "pfm:light_wood_table_natural",
@@ -147,6 +152,7 @@
     "pfm:stripped_crimson_raw_table_stem",
     "pfm:warped_raw_table_stem",
     "pfm:stripped_warped_raw_table_stem",
-    "pfm:dreadwood_iceandfire_raw_table_log"
+    "pfm:dreadwood_iceandfire_raw_table_log",
+    "pfm:wither_treasure2_raw_table_log"
   ]
 }

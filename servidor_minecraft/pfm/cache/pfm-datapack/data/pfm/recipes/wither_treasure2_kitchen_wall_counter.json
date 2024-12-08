@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    },
+    {
+      "item": "treasure2:wither_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:wither_treasure2_kitchen_wall_counter",
+    "count": 6
+  }
+}
