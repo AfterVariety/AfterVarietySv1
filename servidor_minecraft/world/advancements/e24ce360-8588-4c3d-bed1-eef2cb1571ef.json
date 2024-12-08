@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:34:29 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 01:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-08 02:23:15 +0000"
     },
     "done": true
   },
@@ -627,6 +639,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 01:40:17 +0000",
       "minecraft:spider": "2024-12-08 01:04:00 +0000",
+      "minecraft:wither_skeleton": "2024-12-08 02:24:13 +0000",
       "minecraft:cave_spider": "2024-12-08 02:18:56 +0000",
       "minecraft:stray": "2024-12-08 01:47:53 +0000",
       "minecraft:zombie": "2024-12-08 01:03:56 +0000"
@@ -693,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2024-12-08 00:56:17 +0000",
@@ -736,6 +755,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
     },
     "done": true
   },
@@ -820,6 +845,12 @@
   "pfm:recipes/pfm.furniture/light_wood_chair_dinner": {
     "criteria": {
       "light_wood_chair_dinner": "2024-12-08 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
     },
     "done": true
   },
@@ -1105,9 +1136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 01:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
     },
     "done": true
   },
@@ -1594,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
@@ -1717,8 +1766,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2024-12-08 01:15:33 +0000",
+      "apple": "2024-12-08 02:27:46 +0000",
       "potato": "2024-12-08 01:16:58 +0000",
       "bread": "2024-12-08 01:20:12 +0000",
+      "golden_apple": "2024-12-08 02:26:56 +0000",
       "rotten_flesh": "2024-12-08 01:17:02 +0000",
       "carrot": "2024-12-08 01:03:23 +0000"
     },
@@ -2210,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 01:48:14 +0000"
@@ -2582,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 02:32:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2024-12-08 01:48:14 +0000"
@@ -2627,6 +2690,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-08 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-08 02:26:58 +0000"
     },
     "done": true
   },
@@ -2687,6 +2756,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-08 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 02:32:09 +0000"
     },
     "done": true
   },

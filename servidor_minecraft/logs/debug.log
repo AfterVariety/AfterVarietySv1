@@ -18277,3 +18277,149 @@ java.lang.NullPointerException: null
 [08Dec2024 02:24:12.524] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=-239} BlockPos{x=66, y=69, z=-242}
 [08Dec2024 02:24:17.074] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=-239} BlockPos{x=68, y=68, z=-244}
 [08Dec2024 02:24:28.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 02:25:26.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> [name:"Casa", x:-1401, y:67, z:-1082, dim:minecraft:overworld]
+[08Dec2024 02:26:14.361] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-13,-29]
+[08Dec2024 02:26:14.362] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-210 | 12 | -455)
+[08Dec2024 02:26:14.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-210 | 12 | -455)
+[08Dec2024 02:26:14.365] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-13,-29]
+[08Dec2024 02:26:16.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-14,-29]
+[08Dec2024 02:26:16.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-220 | 13 | -450)
+[08Dec2024 02:26:16.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-220 | 13 | -450)
+[08Dec2024 02:26:16.458] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:16.459] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:16.459] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-215 | 13 | -450)
+[08Dec2024 02:26:16.459] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-215 | 13 | -450)
+[08Dec2024 02:26:16.459] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-210 | 12 | -455)
+[08Dec2024 02:26:16.459] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-210 | 12 | -455)
+[08Dec2024 02:26:16.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-14,-29]
+[08Dec2024 02:26:18.761] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-15,-28]
+[08Dec2024 02:26:18.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-232 | 13 | -438)
+[08Dec2024 02:26:18.764] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-232 | 13 | -438)
+[08Dec2024 02:26:18.765] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:18.767] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:18.772] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-232 | 13 | -433)
+[08Dec2024 02:26:18.772] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-232 | 13 | -433)
+[08Dec2024 02:26:18.773] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-15,-28]
+[08Dec2024 02:26:18.860] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-15,-29]
+[08Dec2024 02:26:18.869] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:18.870] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-237 | 12 | -455)
+[08Dec2024 02:26:18.870] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-15,-29]
+[08Dec2024 02:26:20.641] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-16,-29]
+[08Dec2024 02:26:20.641] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-16,-29]
+[08Dec2024 02:26:20.646] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-16,-28]
+[08Dec2024 02:26:20.646] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-260 | 49 | -442)
+[08Dec2024 02:26:20.647] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-260 | 49 | -442)
+[08Dec2024 02:26:20.647] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:20.647] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:20.647] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-16,-28]
+[08Dec2024 02:26:20.651] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-16,-27]
+[08Dec2024 02:26:20.651] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (-258 | 55 | -422)
+[08Dec2024 02:26:20.651] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (-258 | 55 | -422)
+[08Dec2024 02:26:20.651] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:20.652] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:20.652] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_90 at (-264 | 48 | -428)
+[08Dec2024 02:26:20.652] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_90 at (-264 | 48 | -428)
+[08Dec2024 02:26:20.652] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-250 | 22 | -418)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-250 | 22 | -418)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1c972d5a for dungeoncrawl:catacombs/multipart/crypt_graves at (-250 | 22 | -418)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1c972d5a for dungeoncrawl:catacombs/multipart/crypt_graves at (-250 | 22 | -418)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-255 | 22 | -419)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-255 | 22 | -419)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1c972d5a for dungeoncrawl:catacombs/node/crypt_dead_end at (-255 | 22 | -419)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1c972d5a for dungeoncrawl:catacombs/node/crypt_dead_end at (-255 | 22 | -419)
+[08Dec2024 02:26:20.653] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-16,-27]
+[08Dec2024 02:26:31.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:26:39.733] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-28]
+[08Dec2024 02:26:39.733] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-260 | 49 | -442)
+[08Dec2024 02:26:39.733] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-260 | 49 | -442)
+[08Dec2024 02:26:39.733] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:39.733] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:39.734] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-28]
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-27]
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-274 | 49 | -423)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-274 | 49 | -423)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (-258 | 55 | -422)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (-258 | 55 | -422)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-259 | 49 | -433)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-269 | 49 | -423)
+[08Dec2024 02:26:39.738] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-269 | 49 | -423)
+[08Dec2024 02:26:39.739] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_90 at (-264 | 48 | -428)
+[08Dec2024 02:26:39.739] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_90 at (-264 | 48 | -428)
+[08Dec2024 02:26:39.739] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-27]
+[08Dec2024 02:26:39.778] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-29]
+[08Dec2024 02:26:39.778] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-29]
+[08Dec2024 02:26:43.002] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-28]
+[08Dec2024 02:26:43.002] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-286 | 40 | -436)
+[08Dec2024 02:26:43.002] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-286 | 40 | -436)
+[08Dec2024 02:26:43.003] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:43.003] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:43.003] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-28]
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-27]
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-275 | 49 | -422)
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-275 | 49 | -422)
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-274 | 49 | -423)
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-274 | 49 | -423)
+[08Dec2024 02:26:43.009] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-290 | 49 | -427)
+[08Dec2024 02:26:43.010] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-290 | 49 | -427)
+[08Dec2024 02:26:43.010] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-285 | 45 | -431)
+[08Dec2024 02:26:43.010] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-285 | 45 | -431)
+[08Dec2024 02:26:43.010] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-291 | 40 | -426)
+[08Dec2024 02:26:43.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-291 | 40 | -426)
+[08Dec2024 02:26:43.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-279 | 40 | -426)
+[08Dec2024 02:26:43.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-279 | 40 | -426)
+[08Dec2024 02:26:43.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-290 | 40 | -432)
+[08Dec2024 02:26:43.011] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-290 | 40 | -432)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-279 | 40 | -432)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-279 | 40 | -432)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-285 | 40 | -420)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-285 | 40 | -420)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:43.012] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-27]
+[08Dec2024 02:26:43.020] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-29]
+[08Dec2024 02:26:43.020] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-29]
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-27]
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-290 | 49 | -427)
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-290 | 49 | -427)
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-291 | 40 | -426)
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-291 | 40 | -426)
+[08Dec2024 02:26:47.503] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-290 | 40 | -432)
+[08Dec2024 02:26:47.504] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-290 | 40 | -432)
+[08Dec2024 02:26:47.504] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:47.504] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:47.504] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-27]
+[08Dec2024 02:26:47.549] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-28]
+[08Dec2024 02:26:47.549] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:47.549] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-291 | 40 | -437)
+[08Dec2024 02:26:47.549] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-28]
+[08Dec2024 02:26:47.555] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-29]
+[08Dec2024 02:26:47.555] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-29]
+[08Dec2024 02:26:48.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Zombie
+[08Dec2024 02:26:50.153] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-29]
+[08Dec2024 02:26:50.153] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-29]
+[08Dec2024 02:26:50.254] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-28]
+[08Dec2024 02:26:50.254] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-28]
+[08Dec2024 02:26:50.963] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-27]
+[08Dec2024 02:26:50.963] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-27]
+[08Dec2024 02:26:53.027] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-28]
+[08Dec2024 02:26:53.028] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-28]
+[08Dec2024 02:26:53.034] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-27]
+[08Dec2024 02:26:53.034] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-27]
+[08Dec2024 02:26:53.041] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-29]
+[08Dec2024 02:26:53.041] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-29]
+[08Dec2024 02:26:58.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Take Aim]
+[08Dec2024 02:27:26.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 02:27:26.911] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 02:27:27.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[08Dec2024 02:29:16.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 02:30:47.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Cover Me With Diamonds]
+[08Dec2024 02:31:42.282] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-269, y=64, z=-521} BlockPos{x=-268, y=63, z=-521}
+[08Dec2024 02:32:12.492] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-295, y=73, z=-589} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:12.544] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-295, y=73, z=-589} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:12.604] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-293, y=74, z=-587} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:13.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:32:28.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 02:32:28.397] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 02:34:28.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:35:21.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was shot by Skeleton

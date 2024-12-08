@@ -3414,3 +3414,17 @@ java.lang.NullPointerException: null
 [08Dec2024 02:24:12.524] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=-239} BlockPos{x=66, y=69, z=-242}
 [08Dec2024 02:24:17.074] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=-239} BlockPos{x=68, y=68, z=-244}
 [08Dec2024 02:24:28.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 02:25:26.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> [name:"Casa", x:-1401, y:67, z:-1082, dim:minecraft:overworld]
+[08Dec2024 02:26:31.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:26:48.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Zombie
+[08Dec2024 02:26:58.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Take Aim]
+[08Dec2024 02:27:27.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[08Dec2024 02:29:16.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 02:30:47.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Cover Me With Diamonds]
+[08Dec2024 02:31:42.282] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-269, y=64, z=-521} BlockPos{x=-268, y=63, z=-521}
+[08Dec2024 02:32:12.492] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-295, y=73, z=-589} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:12.544] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-295, y=73, z=-589} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:12.604] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-293, y=74, z=-587} BlockPos{x=-296, y=71, z=-589}
+[08Dec2024 02:32:13.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:34:28.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:35:21.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was shot by Skeleton
