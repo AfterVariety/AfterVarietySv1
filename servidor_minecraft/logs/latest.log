@@ -3253,3 +3253,21 @@ java.lang.NullPointerException: null
 [08Dec2024 01:43:16.386] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1362, y=24, z=-1822}
 [08Dec2024 01:43:35.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
 [08Dec2024 01:43:35.584] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved too quickly! -4.664155772964932,-1.044812420399012,-9.027809850699214
+[08Dec2024 01:45:09.517] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aytan'/37092, l='ServerLevel[world]', x=-1176.71, y=68.00, z=-1973.82] died, message: 'Aytan was poked to death by a sweet berry bush'
+[08Dec2024 01:45:28.298] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1022, y=18, z=-2120} but found not block entity block Block{minecraft:gravel} at location
+[08Dec2024 01:45:28.298] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=-1022, y=18, z=-2120}
+[08Dec2024 01:45:30.314] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ilkin'/36993, l='ServerLevel[world]', x=-1176.70, y=68.00, z=-1973.84] died, message: 'Ilkin was poked to death by a sweet berry bush'
+[08Dec2024 01:46:38.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Getting an Upgrade]
+[08Dec2024 01:46:46.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 01:47:08.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Suit Up]
+[08Dec2024 01:48:21.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi has made the advancement [Amateur Archaeologist]
+[08Dec2024 01:50:57.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> ./scoreboard objectives add health health
+[08Dec2024 01:51:02.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> ./scoreboard objectives setdisplay list health
+[08Dec2024 01:51:07.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 01:52:15.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 01:52:34.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
+[08Dec2024 01:52:36.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 01:52:52.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set spawn point to -737, 49, -391 [0.0] in minecraft:overworld for AfterVariety]
+[08Dec2024 01:52:58.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety was slain by Zombie
+[08Dec2024 01:53:18.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported AfterVariety to Colicchi]
+[08Dec2024 01:53:35.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Zombie
