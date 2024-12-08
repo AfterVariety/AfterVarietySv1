@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-08 05:40:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 02:29:26 +0000"
@@ -905,6 +911,12 @@
   "pfm:recipes/pfm.furniture/oak_table_classic": {
     "criteria": {
       "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-08 05:39:25 +0000"
     },
     "done": true
   },
@@ -2340,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-08 05:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-08 03:58:41 +0000"
@@ -2751,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-08 05:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-08 03:04:21 +0000"
@@ -2838,6 +2862,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 01:48:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2024-12-08 05:40:13 +0000"
     },
     "done": true
   },
