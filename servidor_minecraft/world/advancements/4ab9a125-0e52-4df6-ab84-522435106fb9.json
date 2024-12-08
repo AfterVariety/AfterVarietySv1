@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2024-12-08 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -254,6 +278,12 @@
   "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2024-12-08 03:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -416,6 +446,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-08 02:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -609,6 +645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 04:26:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/cyan_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -690,6 +732,12 @@
   "pfm:recipes/pfm.furniture/jungle_pink_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
     },
     "done": true
   },
@@ -903,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 02:44:13 +0000"
@@ -924,6 +978,12 @@
   "pfm:recipes/pfm.furniture/spruce_pink_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -963,9 +1023,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -999,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -1017,6 +1095,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -1026,6 +1116,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-08 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-08 04:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1044,6 +1146,12 @@
   "pfm:recipes/pfm.furniture/birch_log_stool": {
     "criteria": {
       "has_log": "2024-12-08 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-12-08 04:26:19 +0000"
     },
     "done": true
   },
@@ -1125,6 +1233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/paper_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
@@ -1152,6 +1266,12 @@
   "pfm:recipes/pfm.furniture/crimson_pink_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1197,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 02:44:13 +0000"
@@ -1230,6 +1356,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-08 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
     },
     "done": true
   },
@@ -1367,6 +1499,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-08 04:23:47 +0000",
       "beef": "2024-12-08 02:41:17 +0000",
       "rotten_flesh": "2024-12-08 04:10:24 +0000"
     },
@@ -1405,6 +1538,18 @@
   "pfm:recipes/pfm.furniture/spruce_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1510,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
@@ -1534,9 +1685,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1681,6 +1844,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1936,6 +2105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 04:25:53 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
@@ -1957,6 +2132,12 @@
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },
@@ -1984,15 +2165,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-08 04:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-08 04:25:55 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-08 04:25:54 +0000"
     },
     "done": true
   },
@@ -2011,6 +2210,12 @@
   "fairylights:recipes/fairylights/candle_lantern_light": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-08 04:25:55 +0000"
     },
     "done": true
   },

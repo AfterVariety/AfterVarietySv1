@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-08 04:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-08 02:10:15 +0000"
@@ -1346,6 +1352,12 @@
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-08 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 04:22:09 +0000"
     },
     "done": true
   },
@@ -2935,6 +2947,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-08 02:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 04:22:09 +0000"
     },
     "done": true
   },
