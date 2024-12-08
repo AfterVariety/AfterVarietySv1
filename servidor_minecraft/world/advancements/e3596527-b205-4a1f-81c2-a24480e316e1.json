@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:40:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
@@ -194,6 +200,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-08 00:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:40:44 +0000"
     },
     "done": true
   },
@@ -1260,6 +1272,12 @@
   "pfm:recipes/pfm.furniture/spruce_table_dinner": {
     "criteria": {
       "has_planks": "2024-12-08 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:40:44 +0000"
     },
     "done": true
   },
@@ -2422,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:40:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_white_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 00:35:52 +0000"
@@ -3214,6 +3238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:40:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/warped_lime_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:45:31 +0000"
@@ -3289,6 +3319,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-12-08 01:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-08 02:40:44 +0000"
     },
     "done": true
   },
@@ -3685,6 +3721,12 @@
   "pfm:recipes/pfm.furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:40:44 +0000"
     },
     "done": true
   },

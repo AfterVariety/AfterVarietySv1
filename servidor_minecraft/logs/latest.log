@@ -3428,3 +3428,14 @@ java.lang.NullPointerException: null
 [08Dec2024 02:32:13.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
 [08Dec2024 02:34:28.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
 [08Dec2024 02:35:21.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was shot by Skeleton
+[08Dec2024 02:35:32.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 02:37:34.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:37:54.275] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Conni7w7 lost connection: Disconnected
+[08Dec2024 02:37:54.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 left the game
+[08Dec2024 02:38:04.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 02:38:08.558] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[08Dec2024 02:38:10.429] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@357b4231
+[08Dec2024 02:38:10.440] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:52675] logged in with entity id 58800 at (-1117.3609198340664, 63.0, -1251.1353706456719)
+[08Dec2024 02:38:10.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[08Dec2024 02:42:31.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
+[08Dec2024 02:43:02.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported Colicchi to AfterVariety]

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:39:33 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 00:39:34 +0000"
@@ -170,6 +182,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -212,6 +230,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-08 02:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-12-08 02:38:51 +0000"
     },
     "done": true
   },
@@ -500,6 +524,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 00:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -1011,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
@@ -1101,6 +1137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:39:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
@@ -1164,6 +1206,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-08 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -1431,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 01:27:32 +0000"
@@ -1613,6 +1667,12 @@
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-08 02:42:16 +0000"
     },
     "done": true
   },
@@ -1856,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-08 02:33:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
@@ -1949,6 +2015,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -2120,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2024-12-08 00:37:09 +0000"
@@ -2175,6 +2253,12 @@
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
       "has_item": "2024-12-08 00:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:39:33 +0000"
     },
     "done": true
   },
@@ -2289,6 +2373,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -2487,6 +2577,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-08 00:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -2760,6 +2856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_classic_nightstand": {
     "criteria": {
       "dark_wood_classic_nightstand": "2024-12-08 02:29:26 +0000"
@@ -2886,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-08 02:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 00:44:08 +0000"
@@ -2964,6 +3072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-08 02:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-08 02:12:12 +0000"
@@ -2991,6 +3105,12 @@
   "pfm:recipes/pfm.furniture/dark_wood_table_basic": {
     "criteria": {
       "dark_wood_table_basic": "2024-12-08 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -3099,6 +3219,12 @@
   "pfm:recipes/pfm.furniture/spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },
@@ -3234,6 +3360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-12-08 02:38:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:17 +0000"
@@ -3321,6 +3453,12 @@
   "pfm:recipes/pfm.furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-08 02:39:33 +0000"
     },
     "done": true
   },
@@ -3459,6 +3597,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2024-12-08 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 02:41:44 +0000"
     },
     "done": true
   },

@@ -670,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-08 02:34:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-08 01:48:14 +0000"
