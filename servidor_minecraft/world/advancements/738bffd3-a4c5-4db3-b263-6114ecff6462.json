@@ -2394,6 +2394,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-08 05:09:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/purple_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
@@ -2556,6 +2562,7 @@
       "cooked_mutton": "2024-12-08 04:49:18 +0000",
       "sweet_berries": "2024-12-08 00:38:48 +0000",
       "cooked_beef": "2024-12-08 02:16:34 +0000",
+      "baked_potato": "2024-12-08 05:18:18 +0000",
       "golden_apple": "2024-12-08 02:25:31 +0000",
       "golden_carrot": "2024-12-08 02:06:48 +0000",
       "cooked_salmon": "2024-12-08 03:38:18 +0000"
@@ -2895,6 +2902,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-08 05:17:21 +0000"
     },
     "done": true
   },

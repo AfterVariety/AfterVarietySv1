@@ -4369,3 +4369,12 @@ java.lang.NullPointerException: null
 [08Dec2024 05:07:32.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
 [08Dec2024 05:08:21.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AfterVariety> [name:"Dungeon", x:-2042, y:67, z:-1468, dim:minecraft:overworld]
 [08Dec2024 05:08:27.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 05:10:41.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[08Dec2024 05:11:36.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Applied effect Strength to AfterVariety]
+[08Dec2024 05:14:15.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ImFadeel> a
+[08Dec2024 05:15:59.617] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-2039, y=50, z=-1462} in minecraft:overworld
+[08Dec2024 05:15:59.617] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 11098
+[08Dec2024 05:18:32.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 05:19:02.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to Colicchi]
+[08Dec2024 05:20:00.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety is bleeding...
+[08Dec2024 05:20:16.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported AfterVariety to Colicchi]
