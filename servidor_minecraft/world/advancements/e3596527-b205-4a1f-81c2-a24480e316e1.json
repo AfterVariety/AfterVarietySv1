@@ -1,534 +1,174 @@
 {
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "has_ingredients": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/stone_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_ingredients": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/emerald_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_upgrade_base": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "pfm:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2024-12-07 22:07:32 +0000"
+      "tick": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/potions": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
-      "has_smoking_upgrade": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/smoker_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/birch_raw_table_log": {
-    "criteria": {
-      "has_log": "2024-12-07 22:10:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/netherrack_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot": {
-    "criteria": {
-      "has_iron_ore": "2024-12-07 23:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/building_blocks/rose_gold_block": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/cobblestone_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:wooded_hills": "2024-12-07 22:07:32 +0000",
-      "minecraft:plains": "2024-12-07 22:11:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-07 22:10:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/nether_gold_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-07 22:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-07 23:33:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/furnace_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/quartz_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-12-07 22:10:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/wire_cutters": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/gravel_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-07 22:09:23 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting": {
-    "criteria": {
-      "has_iron_ore": "2024-12-07 23:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/birch_log_stool": {
-    "criteria": {
-      "has_log": "2024-12-07 22:10:52 +0000"
+      "has_smoking_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-07 22:07:31 +0000"
+      "has_auto_smelting_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/dirt_mine": {
+  "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-07 22:07:32 +0000"
+      "WDA": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/lapis_mine": {
+  "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-07 22:10:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-07 23:33:15 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
-      "has_blasting_upgrade": "2024-12-07 22:07:31 +0000"
+      "has_blasting_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
-      "has_smelting_upgrade": "2024-12-07 22:07:31 +0000"
+      "has_smelting_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/comb": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/iron_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/family_tree": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sand_mine": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "minecraft:wooded_hills": "2024-12-08 00:02:00 +0000",
+      "minecraft:plains": "2024-12-07 23:58:31 +0000"
     },
-    "done": true
+    "done": false
   },
   "mca:root": {
     "criteria": {
-      "village_taiga": "2024-12-07 22:07:32 +0000",
-      "village_savanna": "2024-12-07 22:07:32 +0000",
-      "village_snowy": "2024-12-07 22:07:32 +0000",
-      "village_desert": "2024-12-07 22:07:32 +0000",
-      "village_plains": "2024-12-07 22:07:32 +0000"
+      "village_taiga": "2024-12-07 23:58:31 +0000",
+      "village_savanna": "2024-12-07 23:58:31 +0000",
+      "village_snowy": "2024-12-07 23:58:31 +0000",
+      "village_desert": "2024-12-07 23:58:31 +0000",
+      "village_plains": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
-      "has_logs": "2024-12-07 22:10:52 +0000"
+      "has_smelting_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
+      "consumed_item": "2024-12-08 00:01:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
+      "tick": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/blast_furnace_mine": {
+  "mca:recipes/misc/books": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/gold_mine": {
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/laser_block": {
-    "criteria": {
-      "has_stone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/ancient_debris_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/coal_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_stone": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/remote_access_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/blueprint": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-08 00:01:48 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/whistle": {
     "criteria": {
-      "has_item": "2024-12-07 22:07:31 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/redstone_mine": {
+  "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-07 22:07:31 +0000"
+      "has_upgrade_base": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/diamond_mine": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_auto_smelting_upgrade": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "mca:recipes/misc/staff_of_life": {
     "criteria": {
-      "has_cobblestone": "2024-12-07 23:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-07 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/end_stone_mine": {
-    "criteria": {
-      "has_mine": "2024-12-07 22:09:10 +0000"
+      "has_item": "2024-12-07 23:58:31 +0000"
     },
     "done": true
   },
