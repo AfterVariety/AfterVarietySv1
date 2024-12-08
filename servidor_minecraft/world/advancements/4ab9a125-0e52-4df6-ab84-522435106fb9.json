@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -47,6 +59,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
@@ -71,6 +89,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/spruce_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -80,6 +110,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -125,15 +167,39 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 02:13:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -179,9 +245,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_table_log": {
+    "criteria": {
+      "has_log": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -221,6 +299,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/warped_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -242,6 +326,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -269,6 +359,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -290,6 +386,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-08 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -323,6 +425,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -332,6 +440,24 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -347,9 +473,33 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -359,9 +509,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
     },
     "done": true
   },
@@ -374,6 +536,12 @@
   "pfm:recipes/pfm.furniture/spruce_chair_classic": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
     },
     "done": true
   },
@@ -419,9 +587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -455,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
@@ -473,9 +659,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -506,6 +704,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-08 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-08 02:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
     },
     "done": true
   },
@@ -587,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-08 02:12:33 +0000"
@@ -596,6 +812,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -617,6 +839,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/warped_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-08 02:02:38 +0000"
@@ -629,6 +869,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
@@ -638,6 +890,36 @@
   "pfm:recipes/pfm.furniture/light_gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -665,6 +947,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-08 02:30:43 +0000"
@@ -674,6 +962,12 @@
   "pfm:recipes/pfm.furniture/spruce_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -713,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -744,6 +1044,12 @@
   "pfm:recipes/pfm.furniture/white_shower_towel": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -795,6 +1101,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
@@ -828,6 +1158,12 @@
   "pfm:recipes/pfm.furniture/pink_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -873,6 +1209,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/blue_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -888,6 +1230,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2024-12-08 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -915,6 +1263,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -936,6 +1290,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -1065,6 +1425,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:16 +0000"
@@ -1080,6 +1452,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -1167,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-08 02:21:37 +0000"
@@ -1188,6 +1572,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -1239,6 +1629,24 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-08 02:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-08 02:19:41 +0000"
@@ -1281,6 +1689,24 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2024-12-08 02:02:38 +0000"
@@ -1305,6 +1731,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-08 02:41:07 +0000"
@@ -1326,6 +1758,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -1383,6 +1821,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2024-12-08 02:02:38 +0000"
@@ -1413,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
@@ -1422,6 +1872,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_classic_white": {
     "criteria": {
       "oak_chair_classic_white": "2024-12-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -1449,6 +1905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-08 02:02:38 +0000"
@@ -1461,6 +1923,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_table_log": {
     "criteria": {
       "has_log": "2024-12-08 02:13:16 +0000"
@@ -1470,6 +1938,12 @@
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
     },
     "done": true
   },
@@ -1539,6 +2013,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 02:42:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 02:30:47 +0000"
@@ -1554,6 +2034,12 @@
   "fairylights:recipes/fairylights/jack_o_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },
@@ -1581,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:37:23 +0000"
@@ -1602,6 +2094,18 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2024-12-08 02:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 02:48:28 +0000"
     },
     "done": true
   },

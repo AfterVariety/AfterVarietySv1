@@ -1521,6 +1521,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 02:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2024-12-08 01:20:03 +0000"
@@ -1809,6 +1815,12 @@
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 00:36:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-08 02:42:40 +0000"
     },
     "done": true
   },

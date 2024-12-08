@@ -3439,3 +3439,25 @@ java.lang.NullPointerException: null
 [08Dec2024 02:38:10.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
 [08Dec2024 02:42:31.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi is bleeding...
 [08Dec2024 02:43:02.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported Colicchi to AfterVariety]
+[08Dec2024 02:46:29.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Spectator Mode]
+[08Dec2024 02:47:09.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:47:20.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 02:47:25.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was shot by Stray
+[08Dec2024 02:47:46.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 02:48:38.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Sweet Dreams]
+[08Dec2024 02:49:03.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported Colicchi to AfterVariety]
+[08Dec2024 02:49:22.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Teleported ImFadeel to AfterVariety]
+[08Dec2024 02:49:34.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[08Dec2024 02:50:37.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Creative Mode]
+[08Dec2024 02:51:15.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set the time to 1000]
+[08Dec2024 02:53:40.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[08Dec2024 02:53:53.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 was slain by Sea Serpent
+[08Dec2024 02:54:55.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[08Dec2024 02:55:05.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 was slain by Sea Serpent
+[08Dec2024 02:55:40.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[08Dec2024 02:55:49.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 was slain by Sea Serpent
+[08Dec2024 02:55:50.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety has made the advancement [Sea? Not a Problem]
+[08Dec2024 02:57:30.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi moved too quickly! 8.62928819750664,-0.3937796879152273,5.188493638179011
+[08Dec2024 03:02:20.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Set own game mode to Survival Mode]
+[08Dec2024 03:02:58.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzz
+[08Dec2024 03:03:01.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Blue Bed] to ImFadeel]
