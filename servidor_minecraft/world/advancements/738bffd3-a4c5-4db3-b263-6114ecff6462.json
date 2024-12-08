@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:00:06 +0000"
@@ -297,6 +303,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:00:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -390,9 +402,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/gray_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 01:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -576,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
@@ -692,6 +722,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:17 +0000"
@@ -758,6 +794,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_shower_towel": {
     "criteria": {
       "has_white_wool": "2024-12-08 00:44:08 +0000"
@@ -792,6 +834,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_table_log": {
+    "criteria": {
+      "has_log": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 00:36:21 +0000"
@@ -819,6 +873,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-08 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -855,6 +921,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -930,6 +1002,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:17 +0000"
@@ -963,6 +1047,18 @@
   "chococraft:recipes/chococraft/chocopedia": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-08 01:24:08 +0000"
     },
     "done": true
   },
@@ -1098,6 +1194,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-08 01:24:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-08 01:00:06 +0000"
@@ -1164,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-08 01:13:34 +0000"
@@ -1173,6 +1287,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-08 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -1191,6 +1311,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-08 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -1224,6 +1350,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2024-12-08 00:59:13 +0000"
@@ -1242,6 +1374,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 01:27:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2024-12-08 00:34:44 +0000"
@@ -1254,9 +1398,33 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:00:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -1337,6 +1505,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 01:21:42 +0000"
@@ -1379,9 +1559,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 01:30:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_chair_classic_white": {
     "criteria": {
       "oak_chair_classic_white": "2024-12-08 00:44:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -1433,6 +1625,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-12-08 00:34:44 +0000"
@@ -1454,6 +1652,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },
@@ -1496,6 +1700,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-08 01:13:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-08 01:27:59 +0000"
     },
     "done": true
   },

@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 01:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-08 01:09:14 +0000"
@@ -143,9 +149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 01:29:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2024-12-08 00:56:17 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_torch": "2024-12-08 01:29:31 +0000"
     },
     "done": true
   },
@@ -345,6 +363,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 01:22:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-08 01:09:14 +0000"
@@ -477,6 +501,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 01:22:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-08 01:07:18 +0000"
@@ -534,6 +564,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-08 01:09:14 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_torch": "2024-12-08 01:29:31 +0000"
     },
     "done": true
   },
@@ -842,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 01:22:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 01:09:14 +0000"
@@ -869,6 +911,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-08 01:07:18 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_torch": "2024-12-08 01:29:31 +0000"
     },
     "done": true
   },
@@ -935,6 +983,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-08 01:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 01:23:17 +0000"
     },
     "done": true
   },
@@ -1133,6 +1187,12 @@
     },
     "done": true
   },
+  "sushigocrafting:recipes/sushigocrafting/dried_seaweed": {
+    "criteria": {
+      "has_seaweed": "2024-12-08 01:22:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-08 00:56:17 +0000"
@@ -1208,6 +1268,12 @@
   "chococraft:recipes/chococraft/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 01:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 01:23:17 +0000"
     },
     "done": true
   },
