@@ -3475,3 +3475,35 @@ java.lang.NullPointerException: null
 [08Dec2024 03:15:47.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Gave 1 [Straw] to Colicchi]
 [08Dec2024 03:16:21.677] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Disconnected
 [08Dec2024 03:16:21.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 03:16:32.934] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[08Dec2024 03:16:36.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@159f5b2c
+[08Dec2024 03:16:36.398] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ImFadeel[/127.0.169.38:54579] logged in with entity id 79375 at (-860.9292890192327, 67.67647087614428, -958.344236779893)
+[08Dec2024 03:16:36.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel joined the game
+[08Dec2024 03:19:07.782] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel was kicked for floating too long!
+[08Dec2024 03:19:07.785] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Flying is not enabled on this server
+[08Dec2024 03:19:07.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 03:19:07.853] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[08Dec2024 03:19:15.885] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[08Dec2024 03:19:18.841] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18c06917
+[08Dec2024 03:19:18.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ImFadeel[/127.0.169.38:34863] logged in with entity id 80881 at (-836.5518288653968, 62.07330142206859, -956.3496779188572)
+[08Dec2024 03:19:18.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel joined the game
+[08Dec2024 03:21:53.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[08Dec2024 03:22:39.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[08Dec2024 03:22:56.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was slain by Sea Serpent
+[08Dec2024 03:23:06.781] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi was kicked for floating too long!
+[08Dec2024 03:23:06.782] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi lost connection: Flying is not enabled on this server
+[08Dec2024 03:23:06.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi left the game
+[08Dec2024 03:23:06.889] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[08Dec2024 03:23:12.971] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Colicchi is e24ce360-8588-4c3d-bed1-eef2cb1571ef
+[08Dec2024 03:23:20.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e80ab21
+[08Dec2024 03:23:20.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Colicchi[/127.151.37.241:56481] logged in with entity id 85789 at (-1164.8601208743742, 72.30000000000001, -558.9908448362268)
+[08Dec2024 03:23:20.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Colicchi joined the game
+[08Dec2024 03:24:22.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Pic-A-Nic Basket?]
+[08Dec2024 03:24:30.085] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel was kicked for floating too long!
+[08Dec2024 03:24:30.135] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Flying is not enabled on this server
+[08Dec2024 03:24:30.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[08Dec2024 03:24:35.107] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[08Dec2024 03:24:37.989] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42991164
+[08Dec2024 03:24:37.999] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ImFadeel[/127.0.169.38:36845] logged in with entity id 87093 at (-1221.4165182449203, 62.073266312083376, -1115.7067882562917)
+[08Dec2024 03:24:38.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel joined the game
+[08Dec2024 03:25:13.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety: Applied effect Strength to AfterVariety]

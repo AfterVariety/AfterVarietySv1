@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-08 03:14:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-08 01:19:17 +0000"
@@ -1974,6 +1980,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-08 03:19:53 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2024-12-08 01:35:52 +0000"
@@ -2587,6 +2599,12 @@
   "pfm:recipes/pfm.furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-08 03:14:33 +0000"
     },
     "done": true
   },
