@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2024-12-08 04:12:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-08 03:52:13 +0000"
@@ -792,6 +798,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 04:08:40 +0000"
     },
     "done": true
   },
@@ -1355,7 +1367,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2024-12-08 02:41:17 +0000"
+      "beef": "2024-12-08 02:41:17 +0000",
+      "rotten_flesh": "2024-12-08 04:10:24 +0000"
     },
     "done": false
   },
@@ -1680,6 +1693,12 @@
   "fairylights:recipes/fairylights/oil_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 04:08:40 +0000"
     },
     "done": true
   },
@@ -2100,6 +2119,12 @@
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2024-12-08 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 04:12:07 +0000"
     },
     "done": true
   },

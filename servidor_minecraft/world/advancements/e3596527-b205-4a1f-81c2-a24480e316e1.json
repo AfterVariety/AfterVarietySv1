@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/spruce_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2024-12-08 01:29:45 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/quartz_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2024-12-08 03:55:14 +0000"
@@ -536,6 +548,12 @@
   "pfm:recipes/pfm.furniture/oak_log_stool": {
     "criteria": {
       "has_log": "2024-12-08 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -983,6 +1001,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 00:54:54 +0000"
@@ -1277,6 +1301,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/diamond_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2024-12-08 01:35:52 +0000"
@@ -1304,6 +1334,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -1571,6 +1607,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_purple_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 01:35:28 +0000"
@@ -1652,6 +1694,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-08 01:40:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/emerald_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -1979,6 +2027,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/redstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
@@ -2006,6 +2060,12 @@
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2024-12-08 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -2060,6 +2120,12 @@
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2024-12-08 01:35:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -2837,6 +2903,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/gold_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2024-12-08 00:36:47 +0000"
@@ -2999,6 +3071,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-08 00:43:08 +0000"
@@ -3020,6 +3098,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2024-12-08 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -3265,6 +3349,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/stone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-08 00:32:18 +0000"
@@ -3424,6 +3514,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-08 01:42:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -3988,6 +4084,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 03:52:41 +0000"
@@ -4160,6 +4262,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/smoker_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-08 00:39:33 +0000"
@@ -4256,6 +4364,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/wire_cutters": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-08 00:39:46 +0000"
@@ -4307,6 +4421,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-08 01:54:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lapis_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
@@ -4736,6 +4856,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-08 03:33:09 +0000"
@@ -4910,6 +5036,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/lime_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 00:41:07 +0000"
@@ -4955,6 +5087,12 @@
   "pfm:recipes/pfm.furniture/crimson_white_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 00:35:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2024-12-08 04:17:18 +0000"
     },
     "done": true
   },
