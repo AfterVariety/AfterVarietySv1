@@ -627,6 +627,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 01:40:17 +0000",
       "minecraft:spider": "2024-12-08 01:04:00 +0000",
+      "minecraft:cave_spider": "2024-12-08 02:18:56 +0000",
       "minecraft:stray": "2024-12-08 01:47:53 +0000",
       "minecraft:zombie": "2024-12-08 01:03:56 +0000"
     },
@@ -735,6 +736,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 02:21:38 +0000"
     },
     "done": true
   },
@@ -1173,6 +1180,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 02:21:38 +0000"
     },
     "done": true
   },
@@ -2071,6 +2084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 02:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-08 02:11:14 +0000"
@@ -2416,6 +2435,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-08 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 02:21:38 +0000"
     },
     "done": true
   },
