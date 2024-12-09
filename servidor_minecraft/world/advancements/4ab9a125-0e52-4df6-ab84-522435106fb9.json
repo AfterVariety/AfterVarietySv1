@@ -35,9 +35,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/brown_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2024-12-09 05:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-09 07:09:25 +0000"
     },
     "done": true
   },
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-09 05:56:24 +0000"
@@ -128,6 +146,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-09 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/roast_carrot_from_campfire_cooking": {
+    "criteria": {
+      "has_carrot": "2024-12-09 07:14:30 +0000"
     },
     "done": true
   },
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_cyan_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:31:26 +0000"
@@ -260,6 +290,12 @@
   "survivalplus:recipes/baked_apple": {
     "criteria": {
       "has_apple": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -347,6 +383,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-09 06:33:17 +0000"
@@ -392,6 +434,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2024-12-09 06:27:46 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_leggings": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
     },
     "done": true
   },
@@ -443,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 07:11:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-09 05:56:24 +0000"
@@ -458,6 +512,12 @@
   "survivalplus:recipes/cardboard": {
     "criteria": {
       "has_stick": "2024-12-09 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -521,6 +581,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/spruce_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-09 06:37:49 +0000"
@@ -532,6 +598,12 @@
       "minecraft:zombie": "2024-12-09 06:04:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/pfm.furniture/oak_table_classic": {
     "criteria": {
@@ -545,15 +617,33 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/orange_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-09 06:30:53 +0000"
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/dark_oak_leggings": {
     "criteria": {
       "has_log": "2024-12-09 06:10:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/black_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -639,6 +729,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cyan_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-09 07:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
@@ -660,6 +762,12 @@
   "pfm:recipes/pfm.furniture/oak_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
     },
     "done": true
   },
@@ -687,6 +795,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/pink_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
@@ -708,6 +828,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 06:33:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -765,15 +891,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-09 07:09:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_cyan_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:31:26 +0000"
     },
     "done": true
   },
+  "survivalplus:recipes/spruce_boots": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/baked_apple_from_campfire_cooking": {
     "criteria": {
       "has_apple": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
     },
     "done": true
   },
@@ -810,6 +954,12 @@
   "pfm:recipes/pfm.furniture/iron_fridge": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -855,6 +1005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 07:10:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-09 05:56:24 +0000"
@@ -891,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 07:08:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-09 06:09:59 +0000"
@@ -918,6 +1080,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/spruce_leggings": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
     },
     "done": true
   },
@@ -966,6 +1134,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2024-12-09 06:11:52 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/spruce_helmet": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
     },
     "done": true
   },
@@ -1088,6 +1262,7 @@
       "minecraft:cold_ocean": "2024-12-09 05:56:24 +0000",
       "minecraft:jungle_edge": "2024-12-09 06:10:27 +0000",
       "minecraft:forest": "2024-12-09 06:12:40 +0000",
+      "minecraft:mountains": "2024-12-09 07:09:47 +0000",
       "minecraft:taiga": "2024-12-09 06:26:48 +0000",
       "minecraft:taiga_hills": "2024-12-09 06:32:24 +0000",
       "minecraft:birch_forest": "2024-12-09 06:06:34 +0000",
@@ -1136,6 +1311,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-09 06:21:41 +0000"
@@ -1145,6 +1326,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/roast_carrot_from_smoking": {
+    "criteria": {
+      "has_carrot": "2024-12-09 07:14:30 +0000"
     },
     "done": true
   },
@@ -1172,9 +1359,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-09 06:37:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
     },
     "done": true
   },
@@ -1238,6 +1437,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-09 07:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
@@ -1247,6 +1452,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1352,6 +1563,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/magenta_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-09 06:21:41 +0000"
@@ -1361,6 +1584,12 @@
   "pfm:recipes/pfm.furniture/dreadwood_iceandfire_cyan_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:31:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/oak_boots": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1442,6 +1671,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/purple_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-09 06:37:49 +0000"
@@ -1514,6 +1749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-09 07:14:29 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemhammerdiamond": {
     "criteria": {
       "has_diamond": "2024-12-09 06:37:49 +0000"
@@ -1529,6 +1770,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/oak_leggings": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1630,9 +1877,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cyan_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/white_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1672,6 +1931,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
@@ -1681,6 +1946,12 @@
   "survivalplus:recipes/dark_oak_boots": {
     "criteria": {
       "has_log": "2024-12-09 06:10:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
     },
     "done": true
   },
@@ -1702,9 +1973,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/magenta_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/oak_helmet": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1729,6 +2012,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-09 07:14:29 +0000"
     },
     "done": true
   },
@@ -1762,9 +2051,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/black_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-09 06:26:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/orange_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1777,6 +2078,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-09 06:58:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1816,6 +2123,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-09 06:21:41 +0000"
@@ -1834,6 +2147,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-09 07:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 07:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
@@ -1846,9 +2171,21 @@
     },
     "done": true
   },
+  "survivalplus:recipes/birch_boots": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-09 07:13:47 +0000"
     },
     "done": true
   },
@@ -1885,6 +2222,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-09 06:37:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/arm_chair_leather": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1927,6 +2270,12 @@
   "survivalplus:recipes/itemsicklediamond": {
     "criteria": {
       "has_diamond": "2024-12-09 06:37:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/yellow_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -1978,6 +2327,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/white_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_chair_modern": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
@@ -2014,9 +2375,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/red_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemaxewood": {
     "criteria": {
       "has_wood": "2024-12-09 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_helmet": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:47 +0000"
     },
     "done": true
   },
@@ -2164,6 +2537,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/green_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
@@ -2209,6 +2588,12 @@
   "pfm:recipes/pfm.furniture/birch_cyan_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -2290,9 +2675,21 @@
     },
     "done": true
   },
+  "survivalplus:recipes/roast_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-09 07:14:30 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemshovelwood": {
     "criteria": {
       "has_wood": "2024-12-09 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/oak_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -2323,6 +2720,12 @@
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/red_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },
@@ -2404,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-09 07:14:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-09 05:56:24 +0000"
@@ -2425,6 +2834,24 @@
   "pfm:recipes/pfm.furniture/dark_oak_chair_classic": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/vegetable_pie": {
+    "criteria": {
+      "has_beetroot": "2024-12-09 07:14:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/lime_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 07:08:31 +0000"
     },
     "done": true
   },

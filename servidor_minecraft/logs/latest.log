@@ -19062,3 +19062,11 @@ java.lang.NullPointerException: null
 [09Dec2024 07:01:13.169] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pernille'/58951, l='ServerLevel[world]', x=-1164.87, y=65.00, z=-1252.72] died, message: 'Pernille (Following) was eliminated by ImFadeel'
 [09Dec2024 07:02:45.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
 [09Dec2024 07:04:16.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 1000]
+[09Dec2024 07:08:31.545] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/61094, l='ServerLevel[world]', x=-1270.71, y=67.26, z=-1247.42]
+[09Dec2024 07:08:49.186] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved wrongly!
+[09Dec2024 07:09:13.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 07:11:17.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Friendship Found]
+[09Dec2024 07:12:59.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement ['Til Death Do Us Part]
+[09Dec2024 07:13:53.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Next Generation]
+[09Dec2024 07:15:13.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 07:15:18.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
