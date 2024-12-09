@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 05:37:32 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
@@ -551,6 +563,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/quartz_chair_classic": {
     "criteria": {
       "quartz_chair_classic": "2024-12-09 05:55:39 +0000"
@@ -566,6 +584,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-09 05:54:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -791,6 +815,7 @@
       "minecraft:spider": "2024-12-09 05:22:45 +0000",
       "minecraft:wither_skeleton": "2024-12-09 05:59:41 +0000",
       "minecraft:cave_spider": "2024-12-09 06:27:04 +0000",
+      "minecraft:enderman": "2024-12-09 06:38:33 +0000",
       "minecraft:stray": "2024-12-09 06:00:38 +0000",
       "minecraft:zombie": "2024-12-09 05:19:53 +0000"
     },
@@ -811,6 +836,12 @@
   "pfm:recipes/pfm.furniture/oak_table_classic": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -992,6 +1023,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/cyan_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
@@ -1154,6 +1191,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemsickleiron": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
@@ -1232,6 +1275,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
@@ -1253,6 +1302,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -1418,6 +1473,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-09 05:15:25 +0000"
@@ -1505,6 +1566,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -2014,6 +2081,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-09 05:31:49 +0000"
@@ -2077,6 +2150,12 @@
   "survivalplus:recipes/oak_boots": {
     "criteria": {
       "has_log": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -2338,6 +2417,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
@@ -2415,6 +2500,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-09 05:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -2604,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_dark_oak_table_log": {
     "criteria": {
       "has_log": "2024-12-09 05:37:32 +0000"
@@ -2667,6 +2764,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-09 05:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -2799,6 +2902,12 @@
   "pfm:recipes/pfm.furniture/birch_chair": {
     "criteria": {
       "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -3015,6 +3124,12 @@
   "pfm:recipes/pfm.furniture/stripped_dark_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -3300,9 +3415,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -3315,6 +3442,12 @@
   "pfm:recipes/pfm.furniture/warped_light_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -3402,6 +3535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-09 05:04:15 +0000"
@@ -3471,6 +3610,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
@@ -3789,6 +3934,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-09 06:29:54 +0000"
     },
     "done": true
   },
