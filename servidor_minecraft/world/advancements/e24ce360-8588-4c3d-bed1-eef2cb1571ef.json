@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2024-12-09 06:05:14 +0000"
     },
     "done": true
   },
@@ -503,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
@@ -635,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/quartz_chair_dinner": {
     "criteria": {
       "quartz_chair_dinner": "2024-12-09 05:55:40 +0000"
@@ -753,6 +777,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-09 05:13:49 +0000",
       "minecraft:spider": "2024-12-09 05:22:45 +0000",
+      "minecraft:wither_skeleton": "2024-12-09 05:59:41 +0000",
+      "minecraft:stray": "2024-12-09 06:00:38 +0000",
       "minecraft:zombie": "2024-12-09 05:19:53 +0000"
     },
     "done": false
@@ -859,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2024-12-09 05:04:15 +0000",
@@ -905,6 +937,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/inert_power_insulator": {
+    "criteria": {
+      "has_slimeball": "2024-12-09 06:00:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
@@ -914,6 +952,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
     },
     "done": true
   },
@@ -938,6 +982,12 @@
   "pfm:recipes/pfm.furniture/cyan_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 06:00:10 +0000"
     },
     "done": true
   },
@@ -1103,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-09 05:32:10 +0000"
@@ -1148,6 +1204,12 @@
   "survivalplus:survivalplus/root": {
     "criteria": {
       "tick": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-09 06:00:44 +0000"
     },
     "done": true
   },
@@ -1421,9 +1483,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
     },
     "done": true
   },
@@ -1526,6 +1600,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 06:00:10 +0000"
     },
     "done": true
   },
@@ -1642,6 +1722,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-09 05:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-09 06:00:19 +0000"
     },
     "done": true
   },
@@ -1897,6 +1983,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemshovelgold": {
     "criteria": {
       "has_gold": "2024-12-09 05:07:26 +0000"
@@ -1969,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
@@ -2020,6 +2124,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
     },
     "done": true
   },
@@ -2224,6 +2334,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-09 05:14:33 +0000",
+      "bread": "2024-12-09 06:08:42 +0000",
       "golden_apple": "2024-12-09 05:51:52 +0000"
     },
     "done": false
@@ -2243,6 +2354,12 @@
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
       "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/tin_ingot_from_blasting": {
+    "criteria": {
+      "has_tin_ore": "2024-12-09 06:03:41 +0000"
     },
     "done": true
   },
@@ -2384,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-09 06:02:05 +0000"
+    },
+    "done": true
+  },
   "tac:recipes/tac/module_item": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
@@ -2492,6 +2615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-09 05:07:34 +0000"
@@ -2591,6 +2720,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-09 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
     },
     "done": true
   },
@@ -2720,9 +2855,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 06:00:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_light_blue_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/tin_ingot_from_smelting": {
+    "criteria": {
+      "has_tin_ore": "2024-12-09 06:03:41 +0000"
     },
     "done": true
   },
@@ -2918,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 05:55:39 +0000"
@@ -3014,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-09 06:06:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
@@ -3026,6 +3185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-09 05:17:24 +0000"
@@ -3035,6 +3200,12 @@
   "pfm:recipes/pfm.furniture/dark_wood_table_basic": {
     "criteria": {
       "dark_wood_table_basic": "2024-12-09 05:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2024-12-09 06:05:14 +0000"
     },
     "done": true
   },
@@ -3143,6 +3314,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 06:00:10 +0000"
     },
     "done": true
   },
@@ -3326,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
@@ -3383,6 +3566,12 @@
   "survivalplus:recipes/paper_cup": {
     "criteria": {
       "has_paper": "2024-12-09 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-09 06:06:04 +0000"
     },
     "done": true
   },
@@ -3518,9 +3707,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-09 06:06:04 +0000"
     },
     "done": true
   },

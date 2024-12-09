@@ -17,15 +17,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-09 05:40:36 +0000"
-    },
-    "done": true
-  },
   "survivalplus:recipes/itemsicklestone": {
     "criteria": {
       "has_stone": "2024-12-09 05:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-09 05:40:36 +0000"
     },
     "done": true
   },
@@ -1749,15 +1749,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-09 05:57:40 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/oak_chair_classic_white": {
     "criteria": {
       "oak_chair_classic_white": "2024-12-09 05:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2812,15 +2812,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-09 05:57:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-09 05:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -3670,15 +3670,15 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/stone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:14:49 +0000"
-    },
-    "done": true
-  },
   "survivalplus:recipes/titanium_pickaxe": {
     "criteria": {
       "has_titanium": "2024-12-09 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:14:49 +0000"
     },
     "done": true
   },
