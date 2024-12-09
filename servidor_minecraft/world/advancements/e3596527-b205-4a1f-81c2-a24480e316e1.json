@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/baked_apple_from_campfire_cooking": {
+    "criteria": {
+      "has_apple": "2024-12-09 01:57:46 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_table_dinner": {
     "criteria": {
       "has_planks": "2024-12-08 22:07:27 +0000"
@@ -1358,6 +1364,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-08 21:46:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-09 01:56:22 +0000"
     },
     "done": true
   },
@@ -2165,6 +2177,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-09 02:00:46 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/light_wood_table_modern_dinner": {
     "criteria": {
       "light_wood_table_modern_dinner": "2024-12-08 22:26:12 +0000"
@@ -2657,6 +2675,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/baked_apple": {
+    "criteria": {
+      "has_apple": "2024-12-09 01:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-08 22:31:23 +0000"
@@ -2678,6 +2702,12 @@
   "pfm:recipes/pfm.furniture/spruce_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:47:44 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple_from_smoking": {
+    "criteria": {
+      "has_apple": "2024-12-09 01:57:46 +0000"
     },
     "done": true
   },
@@ -3217,6 +3247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2024-12-09 01:58:33 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_orange_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:47:42 +0000"
@@ -3226,6 +3262,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-08 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-09 01:58:33 +0000"
     },
     "done": true
   },
@@ -3371,6 +3413,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-08 21:01:09 +0000",
       "minecraft:forest": "2024-12-08 20:18:22 +0000",
+      "minecraft:mountains": "2024-12-09 01:54:18 +0000",
       "minecraft:taiga": "2024-12-08 20:15:08 +0000",
       "minecraft:birch_forest": "2024-12-08 20:17:43 +0000",
       "minecraft:beach": "2024-12-08 22:42:35 +0000",
@@ -3378,6 +3421,7 @@
       "minecraft:river": "2024-12-08 20:22:07 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 22:42:38 +0000",
       "minecraft:birch_forest_hills": "2024-12-08 20:17:44 +0000",
+      "minecraft:wooded_mountains": "2024-12-09 01:54:23 +0000",
       "minecraft:wooded_hills": "2024-12-08 20:21:00 +0000",
       "minecraft:plains": "2024-12-08 20:16:37 +0000"
     },

@@ -18529,3 +18529,49 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [09Dec2024 01:44:19.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [It's worth how much?]
 [09Dec2024 01:47:58.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 64 [Rock Crystal Ore] to AfterVariety (Ferxxo's edition)]
 [09Dec2024 01:50:15.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 13000]
+[09Dec2024 01:52:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 1000]
+[09Dec2024 01:53:23.622] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: java.io.IOException: Base resource not found: zs$2.class
+[09Dec2024 01:53:23.623] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.Patcher.applyPatch(Patcher.java:146)
+[09Dec2024 01:53:23.623] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[09Dec2024 01:53:23.624] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[09Dec2024 01:53:23.624] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:292)
+[09Dec2024 01:53:23.624] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:261)
+[09Dec2024 01:53:23.624] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:172)
+[09Dec2024 01:53:23.624] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[09Dec2024 01:53:23.625] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[09Dec2024 01:53:23.625] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[09Dec2024 01:53:23.625] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[09Dec2024 01:53:23.625] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
+[09Dec2024 01:53:23.626] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
+[09Dec2024 01:53:23.626] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[09Dec2024 01:53:23.626] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+[09Dec2024 01:53:23.626] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkManager.func_219227_a(ChunkManager.java:252)
+[09Dec2024 01:53:23.627] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+[09Dec2024 01:53:23.627] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+[09Dec2024 01:53:23.627] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079)
+[09Dec2024 01:53:23.627] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkHolder.func_219291_a(ChunkHolder.java:303)
+[09Dec2024 01:53:23.627] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219343_a(TicketManager.java:104)
+[09Dec2024 01:53:23.628] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[09Dec2024 01:53:23.628] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219353_a(TicketManager.java:103)
+[09Dec2024 01:53:23.628] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217235_l(ServerChunkProvider.java:276)
+[09Dec2024 01:53:23.628] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.access$200(ServerChunkProvider.java:49)
+[09Dec2024 01:53:23.629] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:523)
+[09Dec2024 01:53:23.629] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272)
+[09Dec2024 01:53:23.629] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722)
+[09Dec2024 01:53:23.630] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[09Dec2024 01:53:23.630] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+[09Dec2024 01:53:23.630] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+[09Dec2024 01:53:23.630] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[09Dec2024 01:53:23.630] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 01:53:23.631] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 01:54:43.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) is bleeding...
+[09Dec2024 01:54:51.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[09Dec2024 01:55:00.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has been smooshed
+[09Dec2024 01:55:02.363] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 01:55:29.528] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Eftichia'/7048, l='ServerLevel[world]', x=-935.19, y=73.00, z=-1697.60] died, message: 'Eftichia has been smooshed'
+[09Dec2024 01:55:51.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[09Dec2024 01:56:03.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Applied effect Strength to AfterVariety (Ferxxo's edition)]
+[09Dec2024 01:58:23.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[09Dec2024 02:04:36.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to -1311.5, 84.0, -2255.5]
+[09Dec2024 02:06:19.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[09Dec2024 02:09:46.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
