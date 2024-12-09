@@ -18524,3 +18524,4 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [09Dec2024 01:20:45.257] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [09Dec2024 01:22:01.060] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [09Dec2024 01:26:39.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Book of Monsters]
+[09Dec2024 01:35:53.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [What a Deal!]
