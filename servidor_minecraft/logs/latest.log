@@ -19024,3 +19024,25 @@ java.lang.NullPointerException: null
 [09Dec2024 06:42:42.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 1 [Golden Portal Gun] to Conni7w7]
 [09Dec2024 06:42:49.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 1 [Golden Portal Gun] to ImFadeel]
 [09Dec2024 06:44:02.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 06:44:53.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported Colicchi to AfterVariety (Ferxxo's edition)]
+[09Dec2024 06:45:15.299] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved too quickly! 4.426058261467688,0.6173678779447442,9.051958729950343
+[09Dec2024 06:45:17.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Dec2024 06:45:33.080] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel was kicked for floating too long!
+[09Dec2024 06:45:33.129] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Flying is not enabled on this server
+[09Dec2024 06:45:33.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[09Dec2024 06:45:41.736] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[09Dec2024 06:45:46.478] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b78a227
+[09Dec2024 06:45:46.495] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ImFadeel[/127.0.169.38:44329] logged in with entity id 53028 at (-1239.5974489386638, 68.38796577606945, -831.9987119391121)
+[09Dec2024 06:45:46.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel joined the game
+[09Dec2024 06:45:46.502] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 06:46:32.325] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Disconnected
+[09Dec2024 06:46:32.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[09Dec2024 06:46:38.041] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ImFadeel is 738bffd3-a4c5-4db3-b263-6114ecff6462
+[09Dec2024 06:46:42.856] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6567e078
+[09Dec2024 06:46:42.878] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ImFadeel[/127.0.169.38:50473] logged in with entity id 53859 at (-1265.699999988079, 71.0, -829.3000000119209)
+[09Dec2024 06:46:42.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel joined the game
+[09Dec2024 06:46:42.898] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 06:48:08.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzz
+[09Dec2024 06:48:17.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzzz
+[09Dec2024 06:49:20.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Unlimited Power!]
+[09Dec2024 06:51:39.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
