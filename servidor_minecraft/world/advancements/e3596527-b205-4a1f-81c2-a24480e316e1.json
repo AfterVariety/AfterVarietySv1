@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-08 20:21:51 +0000"
@@ -83,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
@@ -92,6 +104,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_the_recipe": "2024-12-08 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/acacia_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -131,6 +149,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/wither_treasure2_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_carpet": {
     "criteria": {
       "has_wool": "2024-12-08 21:00:08 +0000"
@@ -140,6 +164,12 @@
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -389,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 22:07:27 +0000"
@@ -611,6 +647,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2024-12-09 05:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-08 22:26:12 +0000"
@@ -731,6 +773,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/granite_chair": {
+    "criteria": {
+      "granite_chair": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_orange_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:47:42 +0000"
@@ -746,6 +794,12 @@
   "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 20:45:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/jungle_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -899,6 +953,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-08 20:15:07 +0000"
@@ -908,6 +968,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/wither_treasure2_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -1091,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-08 22:07:27 +0000"
@@ -1229,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
@@ -1238,6 +1316,12 @@
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-08 22:28:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -1409,6 +1493,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/spruce_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 20:21:47 +0000"
@@ -1418,6 +1508,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_table_natural": {
+    "criteria": {
+      "granite_table_natural": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -1601,6 +1697,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 20:21:47 +0000"
@@ -1742,6 +1844,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_carpet": {
     "criteria": {
       "has_wool": "2024-12-08 21:00:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -1910,6 +2018,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 05:05:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -2201,6 +2315,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/granite_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
@@ -2324,6 +2444,12 @@
   "fairylights:recipes/fairylights/candle_lantern_light": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -2603,6 +2729,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-08 22:07:27 +0000"
@@ -2705,15 +2837,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_oak_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_purple_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 22:10:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_table_modern_dinner": {
+    "criteria": {
+      "granite_table_modern_dinner": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -3053,6 +3203,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 20:21:47 +0000"
@@ -3062,6 +3218,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-08 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/acacia_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -3098,6 +3260,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-09 05:05:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_chair_modern": {
+    "criteria": {
+      "granite_chair_modern": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -3194,6 +3362,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-08 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/jungle_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -3340,6 +3514,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-08 21:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -3517,6 +3697,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-08 22:42:16 +0000"
@@ -3628,6 +3814,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-09 01:58:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_chair_dinner": {
+    "criteria": {
+      "granite_chair_dinner": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -4017,6 +4209,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/warped_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_pillar": "2024-12-08 20:53:35 +0000"
@@ -4050,6 +4248,12 @@
   "securitycraft:recipes/securitycraft/reinforced_granite": {
     "criteria": {
       "has_quartz": "2024-12-08 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_classic_nightstand": {
+    "criteria": {
+      "granite_classic_nightstand": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -4122,6 +4326,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_chair_classic": {
+    "criteria": {
+      "granite_chair_classic": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -4257,6 +4467,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2024-12-08 22:16:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -4536,6 +4752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-09 01:35:53 +0000"
@@ -4638,6 +4860,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/granite_table_dinner": {
+    "criteria": {
+      "granite_table_dinner": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 20:57:33 +0000"
@@ -4728,6 +4956,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/warped_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_carpet": {
     "criteria": {
       "has_wool": "2024-12-08 21:00:08 +0000"
@@ -4779,6 +5013,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
@@ -4845,6 +5085,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-08 22:07:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/granite_table_classic": {
+    "criteria": {
+      "granite_table_classic": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -4929,6 +5175,12 @@
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-08 20:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-09 05:45:00 +0000"
     },
     "done": true
   },
@@ -5106,6 +5358,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/granite_table_basic": {
+    "criteria": {
+      "granite_table_basic": "2024-12-09 05:45:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-08 20:15:07 +0000"
@@ -5127,6 +5385,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-08 22:38:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:47:10 +0000"
     },
     "done": true
   },
