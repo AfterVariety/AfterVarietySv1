@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -56,6 +74,18 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
     },
     "done": true
   },
@@ -155,6 +185,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-09 06:27:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/iron_freezer": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
@@ -170,6 +212,18 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 06:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-09 06:27:44 +0000"
     },
     "done": true
   },
@@ -209,6 +263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
@@ -241,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-09 06:23:31 +0000",
       "golden_apple": "2024-12-09 06:17:33 +0000"
     },
     "done": false
@@ -254,6 +315,18 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple": {
+    "criteria": {
+      "has_apple": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -281,6 +354,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/baked_apple_from_smoking": {
+    "criteria": {
+      "has_apple": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dreadwood_iceandfire_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:18:42 +0000"
@@ -290,6 +369,18 @@
   "pfm:recipes/pfm.furniture/dark_oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
     },
     "done": true
   },
@@ -320,6 +411,12 @@
   "survivalplus:recipes/beef_pie": {
     "criteria": {
       "has_beef": "2024-12-09 06:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:29:38 +0000"
     },
     "done": true
   },
@@ -395,9 +492,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2024-12-09 06:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-09 06:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -437,6 +564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-09 06:12:29 +0000"
@@ -449,9 +582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 06:27:57 +0000"
     },
     "done": true
   },
@@ -464,6 +609,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
     },
     "done": true
   },
@@ -503,6 +654,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-09 06:03:57 +0000"
@@ -512,6 +669,12 @@
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -633,6 +796,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-09 06:27:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-09 06:01:43 +0000"
@@ -654,6 +823,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
     },
     "done": true
   },
@@ -765,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_simple_stool": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
@@ -822,6 +1003,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple_from_campfire_cooking": {
+    "criteria": {
+      "has_apple": "2024-12-09 06:27:44 +0000"
     },
     "done": true
   },
@@ -885,6 +1072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
@@ -903,9 +1096,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemhammerwood": {
     "criteria": {
       "has_wood": "2024-12-09 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
+  "lightsaber:recipes/darksaber_lens": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 06:27:57 +0000"
     },
     "done": true
   },
@@ -939,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-09 05:56:24 +0000"
@@ -954,6 +1171,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2024-12-09 06:27:57 +0000"
     },
     "done": true
   },
@@ -984,6 +1207,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-09 06:09:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -1053,6 +1282,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 06:27:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/warped_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 06:18:42 +0000"
@@ -1092,6 +1333,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-09 05:56:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -1143,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
@@ -1170,6 +1423,12 @@
   "survivalplus:recipes/itemshovelwood": {
     "criteria": {
       "has_wood": "2024-12-09 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -1202,7 +1461,9 @@
       "minecraft:cold_ocean": "2024-12-09 05:56:24 +0000",
       "minecraft:jungle_edge": "2024-12-09 06:10:27 +0000",
       "minecraft:forest": "2024-12-09 06:12:40 +0000",
+      "minecraft:taiga": "2024-12-09 06:26:48 +0000",
       "minecraft:birch_forest": "2024-12-09 06:06:34 +0000",
+      "minecraft:beach": "2024-12-09 06:26:28 +0000",
       "minecraft:dark_forest": "2024-12-09 06:16:20 +0000",
       "minecraft:river": "2024-12-09 06:06:15 +0000",
       "minecraft:wooded_hills": "2024-12-09 06:13:15 +0000",
@@ -1234,15 +1495,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-09 06:10:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "survivalplus:survivalplus/install": {
     "criteria": {
       "tick": "2024-12-09 05:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },
@@ -1282,6 +1561,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
@@ -1297,6 +1588,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_classic": {
     "criteria": {
       "has_planks": "2024-12-09 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 06:26:20 +0000"
     },
     "done": true
   },
@@ -1414,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-09 06:21:51 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/jack_o_lantern": {
     "criteria": {
       "has_iron": "2024-12-09 06:12:03 +0000"
@@ -1447,6 +1750,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-09 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 06:21:41 +0000"
     },
     "done": true
   },

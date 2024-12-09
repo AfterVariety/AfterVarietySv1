@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2024-12-09 06:22:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_pink_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 21:39:21 +0000"
