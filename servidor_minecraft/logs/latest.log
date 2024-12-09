@@ -18525,3 +18525,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [09Dec2024 01:22:01.060] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [09Dec2024 01:26:39.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Book of Monsters]
 [09Dec2024 01:35:53.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [What a Deal!]
+[09Dec2024 01:41:32.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[09Dec2024 01:44:19.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [It's worth how much?]
+[09Dec2024 01:47:58.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 64 [Rock Crystal Ore] to AfterVariety (Ferxxo's edition)]
+[09Dec2024 01:50:15.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 13000]
