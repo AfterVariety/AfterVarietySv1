@@ -11,15 +11,9 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/magenta_arm_chair": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/oak_boots": {
-    "criteria": {
-      "has_log": "2024-12-09 05:07:34 +0000"
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
@@ -29,9 +23,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -53,21 +59,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_light_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
     },
     "done": true
   },
@@ -95,18 +89,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2024-12-09 05:17:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/blue_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
@@ -119,15 +101,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "tick": "2024-12-09 05:04:15 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+      "tick": "2024-12-09 05:04:15 +0000"
     },
     "done": true
   },
@@ -146,6 +128,1370 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_freezer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshoveliron": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/tinsel_garland": {
+    "criteria": {
+      "has_string": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple": {
+    "criteria": {
+      "has_apple": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple_from_smoking": {
+    "criteria": {
+      "has_apple": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-09 05:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/dark_oak_helmet": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-09 05:09:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/beef_pie": {
+    "criteria": {
+      "has_beef": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_stove": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2024-12-09 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_leggings": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemaxegold": {
+    "criteria": {
+      "has_gold": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/cardboard": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-09 05:13:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_light_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-09 05:13:49 +0000",
+      "minecraft:spider": "2024-12-09 05:22:45 +0000",
+      "minecraft:zombie": "2024-12-09 05:19:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_oven_range_hood": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/orange_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/dark_oak_leggings": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/black_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-09 05:04:15 +0000",
+      "village_savanna": "2024-12-09 05:04:15 +0000",
+      "village_snowy": "2024-12-09 05:04:15 +0000",
+      "village_desert": "2024-12-09 05:04:15 +0000",
+      "village_plains": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-09 05:31:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/warped_light_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cyan_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/meteor_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemaxeiron": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/pink_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-09 05:31:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-09 05:09:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-09 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemsickleiron": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/baked_apple_from_campfire_cooking": {
+    "criteria": {
+      "has_apple": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:survivalplus/root": {
+    "criteria": {
+      "tick": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/iron_fridge": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_light_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-09 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-09 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 05:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-09 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-09 05:31:42 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemhammeriron": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemsicklegold": {
+    "criteria": {
+      "has_gold": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemhammergold": {
+    "criteria": {
+      "has_gold": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-09 05:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/dark_oak_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-12-09 05:04:15 +0000",
+      "minecraft:forest": "2024-12-09 05:10:13 +0000",
+      "minecraft:mountains": "2024-12-09 05:13:10 +0000",
+      "minecraft:taiga_hills": "2024-12-09 05:12:49 +0000",
+      "minecraft:dark_forest": "2024-12-09 05:12:32 +0000",
+      "minecraft:river": "2024-12-09 05:07:18 +0000",
+      "minecraft:birch_forest_hills": "2024-12-09 05:10:51 +0000",
+      "minecraft:wooded_mountains": "2024-12-09 05:13:21 +0000",
+      "minecraft:wooded_hills": "2024-12-09 05:07:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-09 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_oak_light_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-09 05:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/jungle_light_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:15:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-12-09 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2024-12-09 05:14:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/skull_light": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/paper_lantern": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshovelgold": {
+    "criteria": {
+      "has_gold": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/magenta_arm_chair": {
+    "criteria": {
+      "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/oak_boots": {
+    "criteria": {
+      "has_log": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-09 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dreadwood_iceandfire_light_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-09 05:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -179,27 +1525,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "pfm:recipes/pfm.furniture/birch_table_log": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/candle_lantern": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_log": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
   "pfm:recipes/pfm.furniture/wall_toilet_paper": {
     "criteria": {
       "has_paper": "2024-12-09 05:24:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -215,6 +1555,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-09 05:13:06 +0000"
@@ -224,12 +1570,6 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-09 05:13:39 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/iron_freezer": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -251,21 +1591,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
   "survivalplus:recipes/itemhammerdiamond": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -275,21 +1603,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "survivalplus:recipes/itemshoveliron": {
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
+      "has_granite": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
@@ -305,24 +1627,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/tinsel_garland": {
-    "criteria": {
-      "has_string": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/green_arm_chair": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
@@ -335,27 +1639,9 @@
     },
     "done": false
   },
-  "pfm:recipes/pfm.furniture/lime_simple_sofa": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/baked_apple": {
-    "criteria": {
-      "has_apple": "2024-12-09 05:14:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_chair_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -371,27 +1657,21 @@
     },
     "done": true
   },
-  "survivalplus:recipes/baked_apple_from_smoking": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
-      "has_apple": "2024-12-09 05:14:52 +0000"
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+  "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
-      "has_sign": "2024-12-09 05:09:49 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
+  "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+      "has_granite": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
@@ -401,15 +1681,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-09 05:09:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -419,9 +1705,9 @@
     },
     "done": true
   },
-  "survivalplus:recipes/beef_pie": {
+  "pfm:recipes/pfm.furniture/birch_chair_dinner": {
     "criteria": {
-      "has_beef": "2024-12-09 05:07:32 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -443,12 +1729,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
@@ -461,33 +1741,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/security_camera": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/gray_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
     },
     "done": true
   },
@@ -503,45 +1765,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-09 05:07:34 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+  "survivalplus:recipes/dark_oak_boots": {
     "criteria": {
-      "has_smoking_upgrade": "2024-12-09 05:04:15 +0000"
+      "has_log": "2024-12-09 05:31:21 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/iron_stove": {
+  "pfm:recipes/pfm.furniture/birch_raw_table_log": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+      "has_log": "2024-12-09 05:31:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_bars": {
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_double_plant": "2024-12-09 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -551,9 +1795,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
@@ -563,9 +1819,15 @@
     },
     "done": true
   },
-  "survivalplus:recipes/itemaxegold": {
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_table_log": {
     "criteria": {
-      "has_gold": "2024-12-09 05:07:26 +0000"
+      "has_log": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
@@ -581,9 +1843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
-      "has_diamond": "2024-12-09 05:15:59 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -605,9 +1867,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_smelting_upgrade": "2024-12-09 05:04:15 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -641,21 +1903,21 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/purple_arm_chair": {
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_granite": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
   "pfm:recipes/pfm.furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -671,49 +1933,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "in_water": "2024-12-09 05:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/oil_lantern_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
+      "has_log": "2024-12-09 05:31:21 +0000"
     },
     "done": true
   },
   "fairylights:recipes/fairylights/witch_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-09 05:13:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/dark_oak_light_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
     },
@@ -731,21 +1957,27 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "pfm:recipes/pfm.furniture/birch_chair": {
     "criteria": {
-      "has_string": "2024-12-09 05:07:26 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "has_diamond": "2024-12-09 05:15:59 +0000"
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
@@ -761,59 +1993,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-09 05:13:49 +0000",
-      "minecraft:spider": "2024-12-09 05:22:45 +0000",
-      "minecraft:zombie": "2024-12-09 05:19:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/oak_table_classic": {
+  "survivalplus:recipes/birch_boots": {
     "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_log": "2024-12-09 05:31:06 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/iron_oven_range_hood": {
+  "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/orange_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_log_stool": {
-    "criteria": {
-      "has_log": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/black_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_sword": "2024-12-09 05:14:52 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-12-09 05:04:15 +0000"
+      "has_granite": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
@@ -823,31 +2017,15 @@
     },
     "done": true
   },
-  "mca:root": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "village_taiga": "2024-12-09 05:04:15 +0000",
-      "village_savanna": "2024-12-09 05:04:15 +0000",
-      "village_snowy": "2024-12-09 05:04:15 +0000",
-      "village_desert": "2024-12-09 05:04:15 +0000",
-      "village_plains": "2024-12-09 05:04:15 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
   "pfm:recipes/pfm.furniture/jungle_light_blue_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/warped_light_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -869,21 +2047,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-09 05:15:52 +0000"
+      "has_granite": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
@@ -905,12 +2077,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 05:13:06 +0000"
@@ -929,21 +2095,15 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/cyan_arm_chair": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
     },
     "done": true
   },
@@ -959,45 +2119,27 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/meteor_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/oak_classic_stool": {
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_classic_nightstand": {
     "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_planks": "2024-12-09 05:37:32 +0000"
     },
     "done": true
   },
-  "mca:recipes/building_blocks/headstones": {
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
-      "has_ingredients": "2024-12-09 05:04:15 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
-  "survivalplus:recipes/itemaxeiron": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/pink_arm_chair": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_chair": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -1025,33 +2167,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2024-12-09 05:09:49 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/blue_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
     },
     "done": true
   },
@@ -1067,12 +2191,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2024-12-09 05:09:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
@@ -1085,21 +2203,9 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/oak_simple_stool": {
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_table_dinner": {
     "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/itemsickleiron": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_planks": "2024-12-09 05:37:32 +0000"
     },
     "done": true
   },
@@ -1109,9 +2215,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "survivalplus:recipes/birch_helmet": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+      "has_log": "2024-12-09 05:31:06 +0000"
     },
     "done": true
   },
@@ -1127,12 +2233,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_item": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/chococraft/chocopedia": {
     "criteria": {
       "has_gysahl_green": "2024-12-09 05:07:26 +0000"
@@ -1142,12 +2242,6 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/baked_apple_from_campfire_cooking": {
-    "criteria": {
-      "has_apple": "2024-12-09 05:14:52 +0000"
     },
     "done": true
   },
@@ -1187,21 +2281,9 @@
     },
     "done": true
   },
-  "survivalplus:survivalplus/root": {
-    "criteria": {
-      "tick": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/star_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -1211,21 +2293,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/iron_fridge": {
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-09 05:07:34 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -1235,9 +2317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-09 05:31:42 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemhammerwood": {
     "criteria": {
       "has_wood": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
@@ -1247,39 +2341,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/smart_module": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/warped_light_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/block_change_detector": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/snowflake_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -1289,21 +2353,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2024-12-09 05:04:15 +0000"
     },
     "done": true
   },
@@ -1313,39 +2365,9 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/birch_light_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/incandescent_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-09 05:13:56 +0000"
     },
     "done": true
   },
@@ -1355,33 +2377,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/bouquet": {
+  "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
-      "has_item": "2024-12-09 05:16:22 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/flower_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-09 05:15:25 +0000"
+      "has_stone": "2024-12-09 05:31:49 +0000"
     },
     "done": true
   },
   "pfm:recipes/pfm.furniture/birch_light_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-09 05:24:34 +0000"
     },
     "done": true
   },
@@ -1409,24 +2413,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-09 05:04:15 +0000"
@@ -1439,21 +2425,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "pfm:recipes/pfm.furniture/birch_simple_stool": {
     "criteria": {
-      "has_oak_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -1463,21 +2437,9 @@
     },
     "done": true
   },
-  "survivalplus:recipes/itemhammeriron": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "lightsaber:lightsaber/install": {
     "criteria": {
       "tick": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2024-12-09 05:14:52 +0000"
     },
     "done": true
   },
@@ -1493,12 +2455,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-09 05:07:26 +0000"
@@ -1508,12 +2464,6 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/itemsicklegold": {
-    "criteria": {
-      "has_gold": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -1529,36 +2479,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/trophy_system": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/itemhammergold": {
-    "criteria": {
-      "has_gold": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/heart_light": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-09 05:13:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/camera_monitor": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
@@ -1571,39 +2491,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/building_blocks/rose_gold_block": {
-    "criteria": {
-      "has_item": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/spearhead_pennant": {
     "criteria": {
       "has_string": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/limited_use_keycard": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:37:32 +0000"
     },
     "done": true
   },
@@ -1619,15 +2521,9 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/oak_kitchen_cabinet": {
+  "pfm:recipes/pfm.furniture/birch_simple_bunk_ladder": {
     "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_modern_stool": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -1637,29 +2533,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cold_ocean": "2024-12-09 05:04:15 +0000",
-      "minecraft:forest": "2024-12-09 05:10:13 +0000",
-      "minecraft:mountains": "2024-12-09 05:13:10 +0000",
-      "minecraft:taiga_hills": "2024-12-09 05:12:49 +0000",
-      "minecraft:dark_forest": "2024-12-09 05:12:32 +0000",
-      "minecraft:river": "2024-12-09 05:07:18 +0000",
-      "minecraft:birch_forest_hills": "2024-12-09 05:10:51 +0000",
-      "minecraft:wooded_mountains": "2024-12-09 05:13:21 +0000",
-      "minecraft:wooded_hills": "2024-12-09 05:07:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "pfm:recipes/pfm.furniture/stripped_dark_oak_chair_modern": {
     "criteria": {
-      "has_paper": "2024-12-09 05:24:34 +0000"
+      "has_planks": "2024-12-09 05:37:32 +0000"
     },
     "done": true
   },
@@ -1675,27 +2557,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/whitelist_module": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/pink_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
     },
     "done": true
   },
@@ -1711,45 +2575,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/dark_oak_light_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_table_basic": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
     },
     "done": true
   },
-  "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
+  "pfm:recipes/pfm.furniture/birch_classic_nightstand": {
     "criteria": {
-      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
-      "has_leather": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2024-12-09 05:21:44 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -1771,27 +2611,15 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/yellow_arm_chair": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/jungle_light_blue_classic_bed": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_bed": "2024-12-09 05:07:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-09 05:15:59 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -1804,6 +2632,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -1825,27 +2659,9 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft/pink_gysahl": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis": "2024-12-09 05:15:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/root": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-09 05:04:15 +0000"
+      "has_stone": "2024-12-09 05:31:42 +0000"
     },
     "done": true
   },
@@ -1855,9 +2671,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/icicle_lights": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
@@ -1873,42 +2689,6 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/oak_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-12-09 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/brown_simple_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/cheese_bread": {
-    "criteria": {
-      "has_bread": "2024-12-09 05:14:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/oak_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-09 05:21:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
@@ -1921,21 +2701,15 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/skull_light": {
+  "pfm:recipes/pfm.furniture/birch_kitchen_wall_drawer": {
     "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
+      "has_planks": "2024-12-09 05:32:10 +0000"
     },
     "done": true
   },
   "pfm:recipes/pfm.furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-09 05:07:34 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2024-12-09 05:07:26 +0000"
     },
     "done": true
   },
@@ -1969,15 +2743,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/paper_lantern": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "survivalplus:recipes/itemshovelgold": {
-    "criteria": {
-      "has_gold": "2024-12-09 05:07:26 +0000"
+      "has_stick": "2024-12-09 05:31:30 +0000"
     },
     "done": true
   },
@@ -1990,18 +2758,6 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/disguise_module": {
-    "criteria": {
-      "has_iron": "2024-12-09 05:07:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/pfm.furniture/light_blue_arm_chair": {
-    "criteria": {
-      "has_wool": "2024-12-09 05:07:34 +0000"
     },
     "done": true
   },
