@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-09 05:22:32 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemshoveliron": {
     "criteria": {
       "has_iron": "2024-12-08 20:59:39 +0000"
@@ -374,6 +380,12 @@
   "survivalplus:recipes/titanium_sword": {
     "criteria": {
       "has_titanium": "2024-12-09 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
     },
     "done": true
   },
@@ -697,12 +709,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-09 05:21:42 +0000",
       "minecraft:skeleton": "2024-12-08 21:31:25 +0000",
+      "minecraft:vindicator": "2024-12-09 05:21:29 +0000",
       "minecraft:piglin_brute": "2024-12-08 21:48:11 +0000",
       "minecraft:spider": "2024-12-08 21:16:34 +0000",
       "minecraft:creeper": "2024-12-08 21:16:55 +0000",
+      "minecraft:evoker": "2024-12-09 05:21:17 +0000",
       "minecraft:cave_spider": "2024-12-08 21:29:17 +0000",
       "minecraft:enderman": "2024-12-08 21:45:04 +0000",
+      "minecraft:vex": "2024-12-09 05:21:29 +0000",
       "minecraft:zombie": "2024-12-08 21:17:43 +0000"
     },
     "done": false
@@ -1167,6 +1183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 05:24:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-08 20:57:49 +0000"
@@ -1266,6 +1288,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-08 22:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-09 05:23:06 +0000"
     },
     "done": true
   },
@@ -1520,6 +1548,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-09 05:14:49 +0000"
@@ -1577,6 +1611,12 @@
   "pfm:recipes/pfm.furniture/crimson_orange_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
     },
     "done": true
   },
@@ -1673,6 +1713,12 @@
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2024-12-08 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
     },
     "done": true
   },
@@ -2499,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 05:24:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_orange_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:59:39 +0000"
@@ -2745,6 +2797,18 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2024-12-09 05:20:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
@@ -2784,6 +2848,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-09 05:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-09 05:28:30 +0000"
     },
     "done": true
   },
@@ -3072,6 +3142,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-08 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-09 05:21:19 +0000"
     },
     "done": true
   },
