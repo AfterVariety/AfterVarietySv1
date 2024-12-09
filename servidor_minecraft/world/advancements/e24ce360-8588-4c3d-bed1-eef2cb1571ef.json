@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 06:50:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_the_recipe": "2024-12-09 05:21:41 +0000"
@@ -449,6 +455,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_sword": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2024-12-09 05:07:26 +0000"
@@ -524,6 +536,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshoveltitanium": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -827,6 +845,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_leggings": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_classic_nightstand": {
     "criteria": {
       "stone_classic_nightstand": "2024-12-09 06:49:18 +0000"
@@ -1033,6 +1057,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-09 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_shovel": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -1354,6 +1384,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_shield": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
@@ -1387,6 +1423,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_knife": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -1627,6 +1669,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_mattock": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -2250,6 +2298,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_shears": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemshovelstone": {
     "criteria": {
       "has_stone": "2024-12-09 06:49:18 +0000"
@@ -2283,6 +2337,12 @@
   "pfm:recipes/pfm.furniture/stripped_dark_oak_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titaniumlumberaxe": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -2544,6 +2604,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_saw": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemhammerdiamond": {
     "criteria": {
       "has_diamond": "2024-12-09 05:15:59 +0000"
@@ -2687,6 +2753,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-09 06:29:54 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemsickletitanium": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -2843,6 +2915,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 06:50:42 +0000"
     },
     "done": true
   },
@@ -3050,6 +3128,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/itemhammertitanium": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-09 05:15:52 +0000"
@@ -3059,6 +3143,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_plate": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -3272,6 +3362,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_hoe": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 05:13:06 +0000"
@@ -3335,6 +3431,12 @@
   "pfm:recipes/pfm.furniture/stripped_dark_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-09 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 06:50:42 +0000"
     },
     "done": true
   },
@@ -3470,6 +3572,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_axe": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemaxewood": {
     "criteria": {
       "has_wood": "2024-12-09 05:07:34 +0000"
@@ -3479,6 +3587,18 @@
   "survivalplus:recipes/birch_helmet": {
     "criteria": {
       "has_log": "2024-12-09 05:31:06 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_helmet": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_boots": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },
@@ -3866,6 +3986,18 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_chestplate": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/tin_block": {
+    "criteria": {
+      "has_tin": "2024-12-09 06:54:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-09 05:21:19 +0000"
@@ -4076,6 +4208,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/titanium_pickaxe": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-09 05:32:10 +0000"
@@ -4262,6 +4400,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/itemaxetitanium": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
@@ -4331,6 +4475,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/titanium_block": {
+    "criteria": {
+      "has_titanium": "2024-12-09 06:56:28 +0000"
     },
     "done": true
   },

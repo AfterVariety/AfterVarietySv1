@@ -19046,3 +19046,19 @@ java.lang.NullPointerException: null
 [09Dec2024 06:48:17.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Conni7w7> zzzzz
 [09Dec2024 06:49:20.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Unlimited Power!]
 [09Dec2024 06:51:39.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 06:55:16.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 1 [Unnamed Baby Girl] to Conni7w7]
+[09Dec2024 06:57:40.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 06:58:33.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[09Dec2024 06:59:30.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [A Seedy Place]
+[09Dec2024 06:59:34.293] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AlienEntity['Fletcher'/58531, l='ServerLevel[world]', x=-1165.92, y=65.00, z=-1238.01] died, message: 'Fletcher was slain by ImFadeel'
+[09Dec2024 07:00:54.916] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Conni7w7 was kicked for floating too long!
+[09Dec2024 07:00:54.966] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Conni7w7 lost connection: Flying is not enabled on this server
+[09Dec2024 07:00:54.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 left the game
+[09Dec2024 07:01:02.931] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Conni7w7 is 4ab9a125-0e52-4df6-ab84-522435106fb9
+[09Dec2024 07:01:05.920] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69d8be58
+[09Dec2024 07:01:05.929] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Conni7w7[/127.162.202.21:58207] logged in with entity id 58974 at (-1075.406001361478, 65.79673560066871, -1415.9114022973106)
+[09Dec2024 07:01:05.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 joined the game
+[09Dec2024 07:01:05.947] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 07:01:13.169] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pernille'/58951, l='ServerLevel[world]', x=-1164.87, y=65.00, z=-1252.72] died, message: 'Pernille (Following) was eliminated by ImFadeel'
+[09Dec2024 07:02:45.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 07:04:16.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 1000]
