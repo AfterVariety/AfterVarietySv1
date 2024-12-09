@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-09 06:10:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 05:55:39 +0000"
@@ -3350,6 +3356,12 @@
   "pfm:recipes/pfm.furniture/birch_light_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-09 06:10:18 +0000"
     },
     "done": true
   },

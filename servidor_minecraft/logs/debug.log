@@ -28569,3 +28569,23 @@ java.lang.NullPointerException: null
 [09Dec2024 06:11:13.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 1000]
 [09Dec2024 06:11:19.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
 [09Dec2024 06:12:03.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Acquire Hardware]
+[09Dec2024 06:13:19.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[09Dec2024 06:13:33.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[09Dec2024 06:13:41.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 is bleeding...
+[09Dec2024 06:13:53.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 was slain by AfterVariety (Ferxxo's edition)
+[09Dec2024 06:13:55.605] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 06:14:04.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported Conni7w7 to AfterVariety (Ferxxo's edition)]
+[09Dec2024 06:14:48.396] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:14:48.408] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 06:14:48.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety moved too quickly! 2.016270637759362,-4.564321929109454,8.73955585918111
+[09Dec2024 06:14:48.492] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Colicchi moved too quickly! -7.0854646611810495,3.4592582530816642,-6.655669861702336
+[09Dec2024 06:15:23.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Cover Me With Diamonds]
+[09Dec2024 06:15:32.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Amateur Archaeologist]
+[09Dec2024 06:16:58.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[09Dec2024 06:19:47.891] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 06:19:47.910] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 06:20:36.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[09Dec2024 06:21:28.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[09Dec2024 06:21:41.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Conni7w7 has made the advancement [Stone Age]
+[09Dec2024 06:22:09.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Next Generation]
+[09Dec2024 06:22:28.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
