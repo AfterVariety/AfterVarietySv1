@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/itemaxediamond": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-08 22:17:52 +0000"
@@ -749,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-09 05:21:42 +0000",
@@ -758,8 +776,11 @@
       "minecraft:spider": "2024-12-08 21:16:34 +0000",
       "minecraft:creeper": "2024-12-08 21:16:55 +0000",
       "minecraft:evoker": "2024-12-09 05:21:17 +0000",
+      "minecraft:slime": "2024-12-09 05:57:38 +0000",
+      "minecraft:wither_skeleton": "2024-12-09 05:55:19 +0000",
       "minecraft:cave_spider": "2024-12-08 21:29:17 +0000",
       "minecraft:enderman": "2024-12-08 21:45:04 +0000",
+      "minecraft:stray": "2024-12-09 05:53:20 +0000",
       "minecraft:vex": "2024-12-09 05:21:29 +0000",
       "minecraft:zombie": "2024-12-08 21:17:43 +0000"
     },
@@ -889,6 +910,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/inert_power_insulator": {
+    "criteria": {
+      "has_slimeball": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 22:08:02 +0000"
@@ -934,6 +961,12 @@
   "pfm:recipes/pfm.furniture/cyan_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -1543,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
@@ -1626,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-09 05:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 21:24:37 +0000"
@@ -1701,6 +1746,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-08 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2112,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2024-12-08 20:57:49 +0000"
@@ -2151,6 +2208,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-08 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2199,6 +2262,12 @@
   "survivalplus:recipes/titanium_saw": {
     "criteria": {
       "has_titanium": "2024-12-09 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemhammerdiamond": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2437,6 +2506,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-08 20:59:40 +0000"
@@ -2488,6 +2563,12 @@
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2731,6 +2812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-09 05:47:42 +0000"
@@ -2752,6 +2839,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-08 22:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2791,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/tin_ingot_from_smelting": {
     "criteria": {
       "has_tin_ore": "2024-12-08 21:28:59 +0000"
@@ -2809,6 +2908,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/arm_chair_leather": {
     "criteria": {
       "has_wool": "2024-12-08 20:59:40 +0000"
@@ -2824,6 +2929,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-08 21:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2848,6 +2959,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 21:22:46 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemsicklediamond": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -2986,6 +3103,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 05:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -3259,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/granite_table_classic": {
     "criteria": {
       "granite_table_classic": "2024-12-09 05:47:17 +0000"
@@ -3298,6 +3427,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-08 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/itemshoveldiamond": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
@@ -3712,6 +3847,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_modern": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-09 05:57:40 +0000"
     },
     "done": true
   },
