@@ -3436,6 +3436,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2024-12-10 06:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"

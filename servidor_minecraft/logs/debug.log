@@ -23302,3 +23302,40 @@ java.lang.NullPointerException: null
 [10Dec2024 06:21:01.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to ImFadeel]
 [10Dec2024 06:22:25.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [In Memoriam]
 [10Dec2024 06:23:11.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:25:56.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:25:56.963] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:28:55.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:30:05.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[10Dec2024 06:30:56.763] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:30:56.774] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:31:34.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:32:39.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Monkey Business]
+[10Dec2024 06:32:39.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Best Friends Forever]
+[10Dec2024 06:33:43.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a30o8towhpys]: started parsing
+[10Dec2024 06:33:43.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a30o8towhpys]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:47.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01u7dhmegfu3v]: started parsing
+[10Dec2024 06:33:47.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01u7dhmegfu3v]: Consuming argument ``
+[10Dec2024 06:33:47.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tfpr8m6lulm]: started parsing
+[10Dec2024 06:33:47.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tfpr8m6lulm]: Consuming argument `o`
+[10Dec2024 06:33:49.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtr01c1i4w55]: started parsing
+[10Dec2024 06:33:49.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtr01c1i4w55]: Consuming argument `oak_planks`
+[10Dec2024 06:33:49.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gtr01c1i4w55]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:55.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fvclk977ne93]: started parsing
+[10Dec2024 06:33:55.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fvclk977ne93]: Consuming argument `oak_planks`
+[10Dec2024 06:33:55.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fvclk977ne93]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:55.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epx8n09f6ke7]: started parsing
+[10Dec2024 06:33:55.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epx8n09f6ke7]: Consuming argument `oak_planks`
+[10Dec2024 06:33:55.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epx8n09f6ke7]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:55.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hg0qz9xqh7o0]: started parsing
+[10Dec2024 06:33:55.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hg0qz9xqh7o0]: Consuming argument `oak_planks`
+[10Dec2024 06:33:55.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hg0qz9xqh7o0]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:58.889] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hadahfuhpyo8]: started parsing
+[10Dec2024 06:33:58.889] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hadahfuhpyo8]: Consuming argument `oak_planks`
+[10Dec2024 06:33:58.889] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hadahfuhpyo8]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:58.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdzj4tgg2i5k]: started parsing
+[10Dec2024 06:33:58.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdzj4tgg2i5k]: Consuming argument `oak_planks`
+[10Dec2024 06:33:58.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdzj4tgg2i5k]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:33:59.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gswfib4g6569]: started parsing
+[10Dec2024 06:33:59.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gswfib4g6569]: Consuming argument `oak_planks`
+[10Dec2024 06:33:59.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gswfib4g6569]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:34:01.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]

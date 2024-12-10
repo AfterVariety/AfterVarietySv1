@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 06:23:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-08 20:15:08 +0000"
@@ -212,6 +218,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-10 06:24:53 +0000"
     },
     "done": true
   },
@@ -920,6 +932,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-08 22:07:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/birch_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2024-12-10 06:28:02 +0000"
     },
     "done": true
   },
@@ -2075,6 +2093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 06:24:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_chair_modern": {
     "criteria": {
       "has_planks": "2024-12-08 22:07:27 +0000"
@@ -2150,6 +2174,12 @@
   "pfm:recipes/pfm.furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 07:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-10 06:26:29 +0000"
     },
     "done": true
   },
@@ -2600,6 +2630,12 @@
   "pfm:recipes/pfm.furniture/acacia_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 06:24:53 +0000"
     },
     "done": true
   },
@@ -3284,6 +3320,12 @@
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-10 06:28:02 +0000"
     },
     "done": true
   },
@@ -4862,6 +4904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 06:24:53 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/itemsicklegold": {
     "criteria": {
       "has_gold": "2024-12-08 20:21:47 +0000"
@@ -5702,6 +5750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 06:23:53 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/dark_oak_boots": {
     "criteria": {
       "has_log": "2024-12-08 22:07:27 +0000"
@@ -6035,6 +6089,12 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 06:23:53 +0000"
     },
     "done": true
   },
