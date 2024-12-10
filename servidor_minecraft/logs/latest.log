@@ -18800,3 +18800,11 @@ java.lang.NullPointerException: null
 [10Dec2024 06:04:30.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Alligator In Name Only]
 [10Dec2024 06:06:04.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Gone Bananas!]
 [10Dec2024 06:08:32.073] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ermenegildo'/349, l='ServerLevel[world]', x=-1175.75, y=65.00, z=-1235.08] died, message: 'Ermenegildo suffocated in a wall'
+[10Dec2024 06:16:21.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to ImFadeel]
+[10Dec2024 06:16:38.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Gone Bananas!]
+[10Dec2024 06:18:05.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:19:02.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has completed the challenge [Best Friends]
+[10Dec2024 06:20:11.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 1 [Whistle] to ImFadeel]
+[10Dec2024 06:21:01.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to ImFadeel]
+[10Dec2024 06:22:25.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [In Memoriam]
+[10Dec2024 06:23:11.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
