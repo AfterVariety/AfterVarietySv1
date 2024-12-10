@@ -1325,6 +1325,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/lightsaber_hilt": {
+    "criteria": {
+      "has_inert_power_insulator": "2024-12-10 05:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-09 05:56:59 +0000"
@@ -2723,6 +2729,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/coloured_lightsaber_hilt": {
+    "criteria": {
+      "has_hilt": "2024-12-10 05:16:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/acacia_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 07:19:53 +0000"
@@ -3128,6 +3140,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 22:07:27 +0000"
+    },
+    "done": true
+  },
+  "lightsaber:recipes/blade_emitter": {
+    "criteria": {
+      "has_emitter_matrix": "2024-12-10 05:17:50 +0000"
     },
     "done": true
   },

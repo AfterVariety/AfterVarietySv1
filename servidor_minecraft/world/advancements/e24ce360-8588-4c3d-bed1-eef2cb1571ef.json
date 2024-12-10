@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2024-12-10 05:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 05:07:26 +0000"
@@ -995,6 +1001,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2024-12-10 05:06:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2024-12-09 05:07:26 +0000"
@@ -1070,6 +1082,12 @@
   "pfm:recipes/pfm.furniture/quartz_table_classic": {
     "criteria": {
       "quartz_table_classic": "2024-12-09 05:55:39 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2024-12-10 05:06:43 +0000"
     },
     "done": true
   },
@@ -2285,6 +2303,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/coloured_lightsaber_hilt": {
+    "criteria": {
+      "has_hilt": "2024-12-10 05:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 07:28:57 +0000"
@@ -2519,6 +2543,12 @@
     },
     "done": true
   },
+  "lightsaber:lightsaber/lightsaber": {
+    "criteria": {
+      "green_lightsaber_hilt": "2024-12-10 05:17:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2024-12-09 05:55:39 +0000"
@@ -2594,6 +2624,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 05:06:43 +0000"
     },
     "done": true
   },
@@ -3725,6 +3761,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/pommel_cap": {
+    "criteria": {
+      "has_iron": "2024-12-10 05:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-09 06:06:04 +0000"
@@ -3837,7 +3879,8 @@
       "minecraft:river": "2024-12-09 05:07:18 +0000",
       "minecraft:birch_forest_hills": "2024-12-09 05:10:51 +0000",
       "minecraft:wooded_mountains": "2024-12-09 05:13:21 +0000",
-      "minecraft:wooded_hills": "2024-12-09 05:07:42 +0000"
+      "minecraft:wooded_hills": "2024-12-09 05:07:42 +0000",
+      "minecraft:plains": "2024-12-10 05:20:36 +0000"
     },
     "done": false
   },
@@ -4665,6 +4708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 05:06:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-09 05:09:49 +0000"
@@ -4722,6 +4771,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/workbench": {
+    "criteria": {
+      "has_iron": "2024-12-10 05:06:43 +0000"
     },
     "done": true
   },
