@@ -2273,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-10 06:08:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-08 20:59:40 +0000"
@@ -2465,6 +2471,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2024-12-10 06:08:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 20:59:40 +0000"
@@ -2492,6 +2504,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 06:15:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2024-12-10 06:04:30 +0000"
     },
     "done": true
   },

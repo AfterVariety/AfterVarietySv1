@@ -18797,3 +18797,6 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [10Dec2024 06:02:41.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:04:30.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Alligator In Name Only]
+[10Dec2024 06:06:04.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Gone Bananas!]
+[10Dec2024 06:08:32.073] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ermenegildo'/349, l='ServerLevel[world]', x=-1175.75, y=65.00, z=-1235.08] died, message: 'Ermenegildo suffocated in a wall'

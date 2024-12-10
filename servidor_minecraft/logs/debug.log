@@ -23265,3 +23265,28 @@ java.lang.NullPointerException: null
 [10Dec2024 06:00:56.346] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 06:00:56.356] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Dec2024 06:02:41.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:04:30.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Alligator In Name Only]
+[10Dec2024 06:05:56.465] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:05:56.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:06:04.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Gone Bananas!]
+[10Dec2024 06:08:32.073] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ermenegildo'/349, l='ServerLevel[world]', x=-1175.75, y=65.00, z=-1235.08] died, message: 'Ermenegildo suffocated in a wall'
+[10Dec2024 06:10:56.515] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:10:56.525] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:12:24.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmpis4le4rm2]: started parsing
+[10Dec2024 06:12:24.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tmpis4le4rm2]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:12:30.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12q4r6yuh1lqq]: started parsing
+[10Dec2024 06:12:30.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12q4r6yuh1lqq]: Consuming argument ``
+[10Dec2024 06:12:30.966] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o7xpmfzfha6a]: started parsing
+[10Dec2024 06:12:30.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o7xpmfzfha6a]: Consuming argument `p`
+[10Dec2024 06:12:31.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwcyrtkll4x0]: started parsing
+[10Dec2024 06:12:31.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwcyrtkll4x0]: Consuming argument ``
+[10Dec2024 06:12:31.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sv30mx5fuf5x]: started parsing
+[10Dec2024 06:12:31.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sv30mx5fuf5x]: Consuming argument `0`
+[10Dec2024 06:12:31.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sv30mx5fuf5x]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:12:32.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ys9y22304yjv]: started parsing
+[10Dec2024 06:12:32.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ys9y22304yjv]: Consuming argument `0`
+[10Dec2024 06:12:32.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ys9y22304yjv]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:12:51.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08kbzspngo4af]: started parsing
+[10Dec2024 06:12:51.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08kbzspngo4af]: Finished looking at arguments. Finalizing command.
+[10Dec2024 06:13:01.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00t2gjw0a2uvi]: started parsing
+[10Dec2024 06:13:01.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00t2gjw0a2uvi]: Finished looking at arguments. Finalizing command.
