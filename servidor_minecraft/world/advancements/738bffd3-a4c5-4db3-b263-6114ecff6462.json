@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-12-10 05:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 20:59:39 +0000"
@@ -1427,6 +1433,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2024-12-10 05:51:29 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/tin_ingot_from_blasting": {
     "criteria": {
       "has_tin_ore": "2024-12-08 21:28:59 +0000"
@@ -1460,6 +1472,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-08 21:24:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2024-12-10 05:54:18 +0000"
     },
     "done": true
   },
