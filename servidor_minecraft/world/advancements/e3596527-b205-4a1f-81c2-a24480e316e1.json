@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/dark_oak_leggings": {
     "criteria": {
       "has_log": "2024-12-08 22:07:27 +0000"
@@ -908,6 +914,12 @@
   "pfm:recipes/pfm.furniture/stone_chair_dinner": {
     "criteria": {
       "stone_chair_dinner": "2024-12-10 06:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-10 06:32:39 +0000"
     },
     "done": true
   },
@@ -1673,6 +1685,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-10 06:39:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
@@ -1829,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-10 04:56:10 +0000"
@@ -1862,6 +1886,12 @@
   "pfm:recipes/pfm.furniture/spruce_lime_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-09 05:47:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2024-12-10 06:32:39 +0000"
     },
     "done": true
   },
@@ -2003,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
@@ -2138,6 +2174,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-09 01:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
     },
     "done": true
   },
@@ -2882,6 +2924,12 @@
   "pfm:recipes/pfm.furniture/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-08 22:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
     },
     "done": true
   },
@@ -6197,6 +6245,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-08 21:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 06:40:25 +0000"
     },
     "done": true
   },

@@ -23339,3 +23339,64 @@ java.lang.NullPointerException: null
 [10Dec2024 06:33:59.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gswfib4g6569]: Consuming argument `oak_planks`
 [10Dec2024 06:33:59.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gswfib4g6569]: Finished looking at arguments. Finalizing command.
 [10Dec2024 06:34:01.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:34:55.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Spectator Mode]
+[10Dec2024 06:35:06.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:35:12.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported ImFadeel to AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:35:24.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[10Dec2024 06:35:54.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Applied effect Night Vision to ImFadeel]
+[10Dec2024 06:35:56.638] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:35:56.661] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:36:00.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Applied effect Night Vision to AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:37:34.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Removed every effect from AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:37:40.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:38:20.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Spectator Mode]
+[10Dec2024 06:38:36.316] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: java.io.IOException: Base resource not found: zs$2.class
+[10Dec2024 06:38:36.317] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.Patcher.applyPatch(Patcher.java:146)
+[10Dec2024 06:38:36.317] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[10Dec2024 06:38:36.318] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[10Dec2024 06:38:36.318] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:292)
+[10Dec2024 06:38:36.318] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:261)
+[10Dec2024 06:38:36.319] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:172)
+[10Dec2024 06:38:36.319] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[10Dec2024 06:38:36.320] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[10Dec2024 06:38:36.320] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[10Dec2024 06:38:36.320] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[10Dec2024 06:38:36.322] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
+[10Dec2024 06:38:36.323] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
+[10Dec2024 06:38:36.323] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[10Dec2024 06:38:36.323] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+[10Dec2024 06:38:36.323] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkManager.func_219227_a(ChunkManager.java:252)
+[10Dec2024 06:38:36.324] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+[10Dec2024 06:38:36.324] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+[10Dec2024 06:38:36.324] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079)
+[10Dec2024 06:38:36.325] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkHolder.func_219291_a(ChunkHolder.java:303)
+[10Dec2024 06:38:36.325] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219343_a(TicketManager.java:104)
+[10Dec2024 06:38:36.325] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[10Dec2024 06:38:36.326] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219353_a(TicketManager.java:103)
+[10Dec2024 06:38:36.326] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217235_l(ServerChunkProvider.java:276)
+[10Dec2024 06:38:36.326] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.access$200(ServerChunkProvider.java:49)
+[10Dec2024 06:38:36.327] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:523)
+[10Dec2024 06:38:36.327] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272)
+[10Dec2024 06:38:36.327] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722)
+[10Dec2024 06:38:36.328] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[10Dec2024 06:38:36.328] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+[10Dec2024 06:38:36.328] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+[10Dec2024 06:38:36.329] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[10Dec2024 06:38:36.329] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[10Dec2024 06:38:36.329] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[10Dec2024 06:39:37.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved wrongly!
+[10Dec2024 06:39:47.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[10Dec2024 06:39:50.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported ImFadeel to AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:39:52.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:40:10.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel was turned into gorgonzola by Gorgon
+[10Dec2024 06:40:12.432] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 06:40:24.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported ImFadeel to AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:40:31.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) was turned to stone by Gorgon
+[10Dec2024 06:40:33.071] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 06:40:35.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to ImFadeel]
+[10Dec2024 06:40:43.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Clash of the Titans]
+[10Dec2024 06:40:57.500] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:40:57.514] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:42:39.804] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved wrongly!
+[10Dec2024 06:42:50.958] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['June'/21271, l='ServerLevel[world]', x=-992.19, y=65.30, z=-1255.89] died, message: 'June was slain by AfterVariety (Ferxxo's edition)'
+[10Dec2024 06:42:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported ImFadeel to AfterVariety (Ferxxo's edition)]
