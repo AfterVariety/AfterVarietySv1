@@ -23191,3 +23191,24 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [10Dec2024 05:38:38.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
 [10Dec2024 05:40:56.547] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 05:40:56.560] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:43:54.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [An Elegant Weapon]
+[10Dec2024 05:44:13.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 05:44:25.132] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:45:25.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[10Dec2024 05:45:56.453] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:45:56.472] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:47:28.326] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:47:36.165] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:47:55.084] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:48:11.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[10Dec2024 05:49:07.476] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:49:20.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 05:49:22.615] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:49:54.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gamerule doInsomnia is now set to: false]
+[10Dec2024 05:50:20.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Alex's Mobs]
+[10Dec2024 05:50:56.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:50:56.584] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:51:10.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Ender Distancing]
+[10Dec2024 05:51:26.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Ender Distancing]
+[10Dec2024 05:51:29.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Capsid-19]
+[10Dec2024 05:52:33.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
