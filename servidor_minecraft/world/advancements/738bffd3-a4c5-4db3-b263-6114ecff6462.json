@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 05:28:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 06:15:50 +0000"
