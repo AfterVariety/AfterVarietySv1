@@ -23400,3 +23400,106 @@ java.lang.NullPointerException: null
 [10Dec2024 06:42:39.804] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel moved wrongly!
 [10Dec2024 06:42:50.958] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['June'/21271, l='ServerLevel[world]', x=-992.19, y=65.30, z=-1255.89] died, message: 'June was slain by AfterVariety (Ferxxo's edition)'
 [10Dec2024 06:42:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported ImFadeel to AfterVariety (Ferxxo's edition)]
+[10Dec2024 06:45:28.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:45:56.730] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:45:56.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:48:15.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:48:31.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Survival Mode]
+[10Dec2024 06:48:32.533] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1061, y=73, z=-1221} BlockPos{x=-1061, y=74, z=-1221}
+[10Dec2024 06:48:34.545] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1056, y=73, z=-1221} BlockPos{x=-1056, y=74, z=-1221}
+[10Dec2024 06:48:39.607] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1216} BlockPos{x=-1051, y=73, z=-1216}
+[10Dec2024 06:48:39.799] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1217} BlockPos{x=-1051, y=74, z=-1216}
+[10Dec2024 06:48:39.855] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1217} BlockPos{x=-1051, y=74, z=-1216}
+[10Dec2024 06:48:39.903] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=75, z=-1217} BlockPos{x=-1051, y=74, z=-1216}
+[10Dec2024 06:48:39.960] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=75, z=-1217} BlockPos{x=-1051, y=74, z=-1216}
+[10Dec2024 06:48:40.007] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=75, z=-1216} BlockPos{x=-1051, y=74, z=-1216}
+[10Dec2024 06:48:40.903] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=73, z=-1214} BlockPos{x=-1051, y=74, z=-1214}
+[10Dec2024 06:48:41.410] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1212} BlockPos{x=-1051, y=73, z=-1212}
+[10Dec2024 06:48:41.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1212} BlockPos{x=-1051, y=73, z=-1212}
+[10Dec2024 06:48:41.997] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=74, z=-1211} BlockPos{x=-1051, y=75, z=-1211}
+[10Dec2024 06:48:42.207] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=73, z=-1211} BlockPos{x=-1051, y=74, z=-1211}
+[10Dec2024 06:48:42.660] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=75, z=-1212} BlockPos{x=-1051, y=74, z=-1212}
+[10Dec2024 06:48:45.209] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=73, z=-1216} BlockPos{x=-1066, y=73, z=-1217}
+[10Dec2024 06:48:45.364] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1216} BlockPos{x=-1066, y=73, z=-1216}
+[10Dec2024 06:48:45.409] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1216} BlockPos{x=-1066, y=73, z=-1216}
+[10Dec2024 06:48:45.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1217} BlockPos{x=-1066, y=73, z=-1216}
+[10Dec2024 06:48:45.748] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=75, z=-1217} BlockPos{x=-1066, y=74, z=-1217}
+[10Dec2024 06:48:46.276] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=75, z=-1214} BlockPos{x=-1066, y=75, z=-1215}
+[10Dec2024 06:48:46.304] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=75, z=-1214} BlockPos{x=-1066, y=75, z=-1215}
+[10Dec2024 06:48:46.360] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1214} BlockPos{x=-1066, y=75, z=-1215}
+[10Dec2024 06:48:46.504] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=73, z=-1214} BlockPos{x=-1066, y=74, z=-1214}
+[10Dec2024 06:48:46.750] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1213} BlockPos{x=-1066, y=73, z=-1214}
+[10Dec2024 06:48:46.906] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1212} BlockPos{x=-1066, y=74, z=-1213}
+[10Dec2024 06:48:46.954] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1212} BlockPos{x=-1066, y=74, z=-1213}
+[10Dec2024 06:48:47.002] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=75, z=-1212} BlockPos{x=-1066, y=74, z=-1213}
+[10Dec2024 06:48:47.306] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=73, z=-1212} BlockPos{x=-1066, y=74, z=-1212}
+[10Dec2024 06:48:47.554] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=74, z=-1211} BlockPos{x=-1066, y=73, z=-1212}
+[10Dec2024 06:48:47.698] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=75, z=-1211} BlockPos{x=-1066, y=74, z=-1211}
+[10Dec2024 06:48:49.456] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1058, y=74, z=-1208} BlockPos{x=-1058, y=75, z=-1208}
+[10Dec2024 06:48:49.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1057, y=75, z=-1208} BlockPos{x=-1058, y=74, z=-1208}
+[10Dec2024 06:48:50.059] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1057, y=74, z=-1208} BlockPos{x=-1057, y=75, z=-1208}
+[10Dec2024 06:48:50.308] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1058, y=73, z=-1208} BlockPos{x=-1057, y=74, z=-1208}
+[10Dec2024 06:48:50.652] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=73, z=-1208} BlockPos{x=-1058, y=73, z=-1208}
+[10Dec2024 06:48:50.864] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1060, y=73, z=-1208} BlockPos{x=-1059, y=73, z=-1208}
+[10Dec2024 06:48:51.053] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1060, y=74, z=-1208} BlockPos{x=-1060, y=73, z=-1208}
+[10Dec2024 06:48:51.101] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1060, y=74, z=-1208} BlockPos{x=-1060, y=73, z=-1208}
+[10Dec2024 06:48:51.157] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=74, z=-1208} BlockPos{x=-1060, y=73, z=-1208}
+[10Dec2024 06:49:32.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has completed the challenge [A Loving Parent (For Two!)]
+[10Dec2024 06:49:40.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Teleported AfterVariety (Ferxxo's edition) to ImFadeel]
+[10Dec2024 06:50:35.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the weather to clear]
+[10Dec2024 06:50:39.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set own game mode to Creative Mode]
+[10Dec2024 06:50:53.501] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AlienEntity['Librarian'/23275, l='ServerLevel[world]', x=-1174.58, y=65.00, z=-1245.09] died, message: 'Librarian was slain by AfterVariety (Ferxxo's edition)'
+[10Dec2024 06:50:56.699] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:50:56.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:51:51.128] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AfterVariety lost connection: Disconnected
+[10Dec2024 06:51:51.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) left the game
+[10Dec2024 06:51:52.825] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ImFadeel lost connection: Disconnected
+[10Dec2024 06:51:52.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel left the game
+[10Dec2024 06:51:56.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[10Dec2024 06:51:56.422] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[10Dec2024 06:51:56.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 06:51:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 06:51:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 06:51:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 06:51:56.536] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 06:51:56.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 06:51:56.537] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 06:51:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 06:51:56.538] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 06:51:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:overworld_orbit
+[10Dec2024 06:51:56.539] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[10Dec2024 06:51:56.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus
+[10Dec2024 06:51:56.540] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[10Dec2024 06:51:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon_orbit
+[10Dec2024 06:51:56.540] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[10Dec2024 06:51:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars_orbit
+[10Dec2024 06:51:56.541] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[10Dec2024 06:51:56.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury
+[10Dec2024 06:51:56.542] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[10Dec2024 06:51:56.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:moon
+[10Dec2024 06:51:56.543] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[10Dec2024 06:51:56.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:venus_orbit
+[10Dec2024 06:51:56.544] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[10Dec2024 06:51:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mercury_orbit
+[10Dec2024 06:51:56.545] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[10Dec2024 06:51:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boss_tools:mars
+[10Dec2024 06:51:56.547] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[10Dec2024 06:51:56.551] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:51:56.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 06:51:56.592] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 06:51:56.633] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 06:51:56.633] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 06:51:56.634] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[10Dec2024 06:51:56.634] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[10Dec2024 06:51:56.635] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[10Dec2024 06:51:56.635] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[10Dec2024 06:51:56.635] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[10Dec2024 06:51:56.636] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[10Dec2024 06:51:56.636] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[10Dec2024 06:51:56.636] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[10Dec2024 06:51:56.637] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[10Dec2024 06:51:56.644] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[10Dec2024 06:51:56.644] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Dec2024 06:51:56.646] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tac-server.toml changed, sending notifies
+[10Dec2024 06:51:56.648] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tac-server.toml changed, sending notifies
+[10Dec2024 06:51:56.648] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tac-server.toml changed, sending notifies

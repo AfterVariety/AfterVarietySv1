@@ -3725,6 +3725,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2024-12-10 06:41:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 20:45:45 +0000"
@@ -4208,6 +4214,12 @@
   "pfm:recipes/pfm.furniture/quartz_table_basic": {
     "criteria": {
       "quartz_table_basic": "2024-12-08 22:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-10 06:51:29 +0000"
     },
     "done": true
   },
