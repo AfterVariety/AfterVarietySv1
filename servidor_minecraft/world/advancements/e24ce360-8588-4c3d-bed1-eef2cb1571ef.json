@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-09 05:31:49 +0000"
@@ -398,6 +404,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-12-09 07:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },
@@ -824,6 +836,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-09 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },
@@ -1313,6 +1331,12 @@
     },
     "done": true
   },
+  "lightsaber:recipes/activation_stud": {
+    "criteria": {
+      "has_button": "2024-12-10 05:01:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
@@ -1778,6 +1802,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "lightsaber:recipes/focusing_lens": {
+    "criteria": {
+      "has_quarts": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },
@@ -3240,6 +3270,7 @@
       "minecraft:creeper": "2024-12-09 06:42:10 +0000",
       "minecraft:wither_skeleton": "2024-12-09 05:59:41 +0000",
       "minecraft:cave_spider": "2024-12-09 06:27:04 +0000",
+      "minecraft:piglin": "2024-12-10 04:57:37 +0000",
       "minecraft:enderman": "2024-12-09 06:38:33 +0000",
       "minecraft:stray": "2024-12-09 06:00:38 +0000",
       "minecraft:zombie": "2024-12-09 05:19:53 +0000"
@@ -4062,6 +4093,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-09 05:52:24 +0000"
@@ -4173,6 +4210,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-09 05:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },
@@ -4310,6 +4353,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-10 05:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-09 05:07:26 +0000"
@@ -4349,6 +4398,12 @@
   "pfm:recipes/pfm.furniture/oak_raw_table_log": {
     "criteria": {
       "has_log": "2024-12-09 05:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },
@@ -5000,6 +5055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-09 05:47:52 +0000"
@@ -5159,6 +5220,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-10 04:54:41 +0000"
     },
     "done": true
   },

@@ -1529,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-10 04:56:10 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
@@ -1664,6 +1670,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-09 07:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-10 04:56:10 +0000"
     },
     "done": true
   },
@@ -2384,6 +2396,12 @@
   "mca:friend": {
     "criteria": {
       "baby": "2024-12-08 21:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-10 04:56:10 +0000"
     },
     "done": true
   },
@@ -5759,6 +5777,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-12-08 20:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-10 04:56:18 +0000"
     },
     "done": true
   },
