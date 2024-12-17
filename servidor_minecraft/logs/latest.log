@@ -18569,3 +18569,5 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [17Dec2024 07:05:01.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [The Ultimate Food of Power!]
 [17Dec2024 07:05:20.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has reached the goal [Tier 3 Rocket]
 [17Dec2024 07:11:20.471] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1148, y=65, z=-1253} BlockPos{x=-1147, y=64, z=-1252}
+[17Dec2024 07:17:07.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has completed the challenge [Uma Delicia]
+[17Dec2024 07:21:55.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...

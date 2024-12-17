@@ -3294,6 +3294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-17 07:10:09 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/titanium_shield": {
     "criteria": {
       "has_titanium": "2024-12-09 05:13:50 +0000"
@@ -4385,6 +4391,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-17 07:17:07 +0000"
     },
     "done": true
   },
