@@ -1085,6 +1085,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-17 06:45:39 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_orange_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:59:39 +0000"
