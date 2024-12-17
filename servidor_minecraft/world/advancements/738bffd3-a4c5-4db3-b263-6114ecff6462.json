@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-17 06:11:23 +0000"
+    },
+    "done": true
+  },
   "survivalplus:recipes/dark_oak_leggings": {
     "criteria": {
       "has_log": "2024-12-08 22:08:04 +0000"
@@ -830,6 +836,12 @@
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_iron": "2024-12-08 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 06:13:07 +0000"
     },
     "done": true
   },
@@ -1829,6 +1841,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/birch_boots": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-09 05:47:42 +0000"
@@ -2795,6 +2813,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/birch_leggings": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 20:59:39 +0000"
@@ -2966,6 +2990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-08 21:37:09 +0000"
@@ -3111,6 +3141,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_table_classic": {
     "criteria": {
       "has_planks": "2024-12-08 22:12:01 +0000"
+    },
+    "done": true
+  },
+  "survivalplus:recipes/birch_chestplate": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
     },
     "done": true
   },
@@ -3537,6 +3573,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-09 05:57:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/birch_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
     },
     "done": true
   },
@@ -3974,6 +4016,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-08 22:08:02 +0000"
@@ -4274,6 +4322,12 @@
     },
     "done": true
   },
+  "survivalplus:recipes/birch_helmet": {
+    "criteria": {
+      "has_log": "2024-12-17 06:13:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-09 06:15:50 +0000"
@@ -4538,6 +4592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-17 06:11:23 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_classic_stool": {
     "criteria": {
       "has_planks": "2024-12-09 05:14:49 +0000"
@@ -4679,6 +4739,12 @@
   "pfm:recipes/pfm.furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-08 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-17 06:11:23 +0000"
     },
     "done": true
   },
