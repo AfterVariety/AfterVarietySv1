@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-17 06:51:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-08 20:59:51 +0000"
@@ -518,6 +524,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2024-12-08 20:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },
@@ -1973,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2024-12-08 20:59:39 +0000"
@@ -2381,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-17 06:53:41 +0000"
+    },
+    "done": true
+  },
   "mca:marriage": {
     "criteria": {
       "iron": "2024-12-09 07:12:59 +0000"
@@ -2534,6 +2558,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },
@@ -3096,6 +3126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
@@ -3219,6 +3255,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 06:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },
@@ -3384,9 +3426,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-08 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },
@@ -3789,6 +3843,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-09 05:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },
@@ -4619,6 +4679,12 @@
   "pfm:recipes/pfm.furniture/stone_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-09 05:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-17 06:53:41 +0000"
     },
     "done": true
   },

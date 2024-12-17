@@ -5840,6 +5840,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2024-12-17 06:54:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 05:10:25 +0000"
