@@ -2375,6 +2375,12 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2024-12-17 06:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 06:17:44 +0000"
@@ -2944,6 +2950,7 @@
       "minecraft:evoker": "2024-12-09 05:21:17 +0000",
       "minecraft:slime": "2024-12-09 05:57:38 +0000",
       "minecraft:phantom": "2024-12-10 05:49:54 +0000",
+      "minecraft:witch": "2024-12-17 06:10:02 +0000",
       "minecraft:wither_skeleton": "2024-12-09 05:55:19 +0000",
       "minecraft:cave_spider": "2024-12-08 21:29:17 +0000",
       "minecraft:enderman": "2024-12-08 21:45:04 +0000",
