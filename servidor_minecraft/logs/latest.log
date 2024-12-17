@@ -18588,3 +18588,5 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [17Dec2024 05:43:32.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 11533]
 [17Dec2024 05:43:37.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Set the time to 13630]
 [17Dec2024 05:47:00.444] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Paola'/86, l='ServerLevel[world]', x=-1068.28, y=66.00, z=-1225.67] died, message: 'Paola was slain by Zombie'
+[17Dec2024 05:58:27.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Settling In]
+[17Dec2024 06:01:10.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [They Grow Up So Fast]
