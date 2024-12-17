@@ -1421,6 +1421,12 @@
     },
     "done": true
   },
+  "survivalplus:survivalplus/cheesebread": {
+    "criteria": {
+      "cheesebread": "2024-12-17 07:05:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:47:44 +0000"
@@ -6401,6 +6407,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-08 22:31:23 +0000"
+    },
+    "done": true
+  },
+  "boss_tools:rocket_tier_3_advancement": {
+    "criteria": {
+      "rocket_tier_3_advancement": "2024-12-17 07:05:20 +0000"
     },
     "done": true
   },
