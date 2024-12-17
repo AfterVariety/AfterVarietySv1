@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-17 07:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-08 21:24:31 +0000"
@@ -170,6 +176,12 @@
   "chococraft:recipes/chococraft/choco_disguise_helmet": {
     "criteria": {
       "has_chocobo_feather": "2024-12-08 22:10:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar_2": "2024-12-17 07:31:05 +0000"
     },
     "done": true
   },
@@ -2702,6 +2714,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-08 21:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 07:29:25 +0000"
     },
     "done": true
   },

@@ -18605,3 +18605,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'biomesoplenty:pine_logs'
 [17Dec2024 07:28:27.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AfterVariety (Ferxxo's edition): Gave 4000 experience points to ImFadeel]
 [17Dec2024 07:30:28.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AfterVariety (Ferxxo's edition) has made the advancement [Surfer Rosa]
 [17Dec2024 07:31:05.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel has made the advancement [Surfer Rosa]
+[17Dec2024 07:38:03.005] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[17Dec2024 07:38:17.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ImFadeel is bleeding...
+[17Dec2024 07:40:25.101] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[17Dec2024 07:40:29.749] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN

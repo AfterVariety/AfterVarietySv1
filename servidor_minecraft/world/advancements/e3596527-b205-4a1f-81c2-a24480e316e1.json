@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-17 07:35:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-08 21:12:32 +0000"
@@ -248,6 +254,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-12-09 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar_2": "2024-12-17 07:30:28 +0000"
     },
     "done": true
   },
@@ -1580,6 +1592,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 07:08:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/ims": {
+    "criteria": {
+      "has_radar": "2024-12-17 07:33:25 +0000"
     },
     "done": true
   },
@@ -4148,6 +4166,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 07:08:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2024-12-17 07:33:25 +0000"
     },
     "done": true
   },
